@@ -155,10 +155,34 @@ namespace i18n
 
     void load(pksm::Language lang, const std::string& name, std::vector<std::string>& array)
     {
-        std::string path = io::exists(_PKSMCORE_LANG_FOLDER + folder(lang) + name)
-                             ? _PKSMCORE_LANG_FOLDER + folder(lang) + name
-                             : _PKSMCORE_LANG_FOLDER + folder(pksm::Language::ENG) + name;
+        const std::string english = _PKSMCORE_LANG_FOLDER + folder(pksm::Language::ENG) + name;
+        const std::string own     = _PKSMCORE_LANG_FOLDER + folder(lang) + name;
+        if (lang == pksm::Language::ENG || !io::exists(own))
+        {
+            readLines(english, array);
+            return;
+        }
+        readLines(own, array);
 
+        // Most languages' lists stop at an older generation: the names they lack, or leave
+        // blank, are the English ones, so newer Pokémon, moves and items are not nameless.
+        std::vector<std::string> fallback;
+        readLines(english, fallback);
+        for (size_t i = 0; i < fallback.size(); ++i)
+        {
+            if (i >= array.size())
+            {
+                array.emplace_back(std::move(fallback[i]));
+            }
+            else if (array[i].empty())
+            {
+                array[i] = std::move(fallback[i]);
+            }
+        }
+    }
+
+    void readLines(const std::string& path, std::vector<std::string>& array)
+    {
         FILE* values = fopen(path.c_str(), "rt");
         if (values)
         {

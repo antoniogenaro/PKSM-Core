@@ -96,7 +96,10 @@ namespace i18n
 
     std::string folder(pksm::Language lang);
 
+    // Loads a list of names, one per line. Names the language lacks are the English ones.
     void load(pksm::Language lang, const std::string& name, std::vector<std::string>& array);
+    // Appends each line of the file at `path` to `array`, without its line ending.
+    void readLines(const std::string& path, std::vector<std::string>& array);
 
     template <std::integral T>
     void load(pksm::Language lang, const std::string& name, std::map<T, std::string>& map)
