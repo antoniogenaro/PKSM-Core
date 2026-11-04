@@ -27,6 +27,7 @@
 #include "pkx/PKX.hpp"
 #include "pkx/PA8.hpp"
 #include "pkx/PA9.hpp"
+#include "pkx/PB8.hpp"
 #include "pkx/PB7.hpp"
 #include "pkx/PK1.hpp"
 #include "pkx/PK2.hpp"
@@ -735,6 +736,13 @@ namespace pksm
                     if (extension() == ".pa8")
                     {
                         auto ret = PKX::getPKM<PA8>(nullptr, PA8::PARTY_LENGTH);
+                        std::copy(data, data + getLength(), ret->rawData().data());
+                        ret->updatePartyData();
+                        return ret;
+                    }
+                    if (extension() == ".pb8")
+                    {
+                        auto ret = PKX::getPKM<PB8>(nullptr, PB8::PARTY_LENGTH);
                         std::copy(data, data + getLength(), ret->rawData().data());
                         ret->updatePartyData();
                         return ret;

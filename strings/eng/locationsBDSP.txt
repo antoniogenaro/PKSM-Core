@@ -1,0 +1,765 @@
+0x0000|Jubilife City
+0x0001|Jubilife City
+0x0002|Jubilife City
+0x0003|Jubilife City
+0x0004|Jubilife City
+0x0005|Jubilife City
+0x0006|Jubilife City
+0x0007|Jubilife City
+0x0008|Jubilife City
+0x0009|Jubilife City
+0x000a|Jubilife City
+0x000b|Jubilife City
+0x000c|Jubilife City
+0x000d|Jubilife City
+0x000e|Jubilife City
+0x000f|Jubilife City
+0x0010|Jubilife City
+0x0011|Jubilife City
+0x0012|Jubilife City
+0x0013|Jubilife City
+0x0014|Jubilife City
+0x0015|Jubilife City
+0x0016|Jubilife City
+0x0017|Jubilife City
+0x0018|Canalave City
+0x0019|Canalave City
+0x001a|Canalave Gym
+0x001b|Canalave City
+0x001c|Canalave City
+0x001d|Canalave City
+0x001e|Canalave City
+0x001f|Canalave City
+0x0020|Canalave City
+0x0021|Canalave City
+0x0022|Canalave City
+0x0023|Canalave City
+0x0024|Canalave City
+0x0025|Canalave City
+0x0026|Oreburgh City
+0x0027|Oreburgh City
+0x0028|Oreburgh Gym
+0x0029|Oreburgh City
+0x002a|Oreburgh City
+0x002b|Oreburgh City
+0x002c|Oreburgh City
+0x002d|Oreburgh City
+0x002e|Oreburgh City
+0x002f|Oreburgh City
+0x0030|Oreburgh City
+0x0031|Oreburgh City
+0x0032|Oreburgh City
+0x0033|Oreburgh City
+0x0034|Oreburgh City
+0x0035|Oreburgh City
+0x0036|Eterna City
+0x0037|Eterna City
+0x0038|Eterna Gym
+0x0039|Eterna Gym
+0x003a|Eterna City
+0x003b|Eterna City
+0x003c|Eterna City
+0x003d|Eterna City
+0x003e|Eterna City
+0x003f|Eterna City
+0x0040|Eterna City
+0x0041|Eterna City
+0x0042|Eterna City
+0x0043|Eterna City
+0x0044|Eterna City
+0x0045|Eterna City
+0x0046|Eterna City
+0x0047|Eterna City
+0x0048|Eterna City
+0x0049|Eterna City
+0x004a|Hearthome City
+0x004b|Hearthome City
+0x004c|Hearthome Gym
+0x004d|Hearthome Gym
+0x004e|Hearthome Gym
+0x004f|Hearthome Gym
+0x0050|Hearthome Gym
+0x0051|Hearthome Gym
+0x0052|Hearthome Gym
+0x0053|Hearthome Gym
+0x0054|Hearthome Gym
+0x0055|Hearthome Gym
+0x0056|Hearthome Gym
+0x0057|Hearthome Gym
+0x0058|Hearthome Gym
+0x0059|Hearthome City
+0x005a|Hearthome City
+0x005b|Hearthome City
+0x005c|Hearthome City
+0x005d|Hearthome City
+0x005e|Hearthome City
+0x005f|Hearthome City
+0x0060|Hearthome City
+0x0061|Hearthome City
+0x0062|Hearthome City
+0x0063|Hearthome City
+0x0064|Hearthome City
+0x0065|Hearthome City
+0x0066|Hearthome City
+0x0067|Hearthome City
+0x0068|Hearthome City
+0x0069|Hearthome City
+0x006a|Hearthome City
+0x006b|Hearthome City
+0x006c|Hearthome City
+0x006d|Hearthome City
+0x006e|Pastoria City
+0x006f|Pastoria City
+0x0070|Pastoria Gym
+0x0071|Pastoria City
+0x0072|Pastoria City
+0x0073|Pastoria City
+0x0074|Pastoria City
+0x0075|Pastoria City
+0x0076|Pastoria City
+0x0077|Pastoria City
+0x0078|Pastoria City
+0x0079|Pastoria City
+0x007a|Pastoria City
+0x007b|Veilstone City
+0x007c|Veilstone Gym
+0x007d|Veilstone City
+0x007e|Veilstone City
+0x007f|Veilstone City
+0x0080|Veilstone City
+0x0081|Veilstone City
+0x0082|Veilstone City
+0x0083|Veilstone City
+0x0084|Veilstone City
+0x0085|Veilstone City
+0x0086|Veilstone City
+0x0087|Veilstone City
+0x0088|Veilstone City
+0x0089|Veilstone City
+0x008a|Veilstone City
+0x008b|Veilstone City
+0x008c|Veilstone City
+0x008d|Veilstone City
+0x008e|Sunyshore City
+0x008f|Sunyshore City
+0x0090|Sunyshore Gym
+0x0091|Sunyshore Gym
+0x0092|Sunyshore Gym
+0x0093|Sunyshore City
+0x0094|Sunyshore City
+0x0095|Sunyshore City
+0x0096|Sunyshore City
+0x0097|Sunyshore City
+0x0098|Sunyshore City
+0x0099|Sunyshore City
+0x009a|Sunyshore City
+0x009b|Sunyshore City
+0x009c|Sunyshore City
+0x009d|Sunyshore City
+0x009e|Sunyshore City
+0x009f|Snowpoint City
+0x00a0|Snowpoint City
+0x00a1|Snowpoint Gym
+0x00a2|Snowpoint City
+0x00a3|Snowpoint City
+0x00a4|Snowpoint City
+0x00a5|Snowpoint City
+0x00a6|Snowpoint City
+0x00a7|Pokémon League
+0x00a8|Pokémon League
+0x00a9|Pokémon League
+0x00aa|Pokémon League
+0x00ab|Pokémon League
+0x00ac|Pokémon League
+0x00ad|Pokémon League
+0x00ae|Pokémon League
+0x00af|Pokémon League
+0x00b0|Pokémon League
+0x00b1|Pokémon League
+0x00b2|Pokémon League
+0x00b3|Pokémon League
+0x00b4|Pokémon League
+0x00b5|Pokémon League
+0x00b6|Pokémon League
+0x00b7|Pokémon League
+0x00b8|Pokémon League
+0x00b9|Pokémon League
+0x00ba|Fight Area
+0x00bb|Fight Area
+0x00bc|Fight Area
+0x00bd|Fight Area
+0x00be|Fight Area
+0x00bf|Fight Area
+0x00c0|Fight Area
+0x00c1|Fight Area
+0x00c2|Fight Area
+0x00c3|Oreburgh Mine
+0x00c4|Oreburgh Mine
+0x00c5|Valley Windworks
+0x00c6|Valley Windworks
+0x00c7|Eterna Forest
+0x00c8|Eterna Forest
+0x00c9|Fuego Ironworks
+0x00ca|Fuego Ironworks
+0x00cb|Mount Coronet
+0x00cc|Mount Coronet
+0x00cd|Mount Coronet
+0x00ce|Mount Coronet
+0x00cf|Mount Coronet
+0x00d0|Mount Coronet
+0x00d1|Mount Coronet
+0x00d2|Mount Coronet
+0x00d3|Mount Coronet
+0x00d4|Mount Coronet
+0x00d5|Mount Coronet
+0x00d6|Mount Coronet
+0x00d7|Mount Coronet
+0x00d8|Spear Pillar
+0x00d9|Spear Pillar
+0x00da|Hall of Origin
+0x00db|Great Marsh
+0x00dc|Great Marsh
+0x00dd|Great Marsh
+0x00de|Great Marsh
+0x00df|Great Marsh
+0x00e0|Great Marsh
+0x00e1|Solaceon Ruins
+0x00e2|Solaceon Ruins
+0x00e3|Solaceon Ruins
+0x00e4|Solaceon Ruins
+0x00e5|Solaceon Ruins
+0x00e6|Solaceon Ruins
+0x00e7|Solaceon Ruins
+0x00e8|Solaceon Ruins
+0x00e9|Solaceon Ruins
+0x00ea|Solaceon Ruins
+0x00eb|Solaceon Ruins
+0x00ec|Solaceon Ruins
+0x00ed|Solaceon Ruins
+0x00ee|Solaceon Ruins
+0x00ef|Solaceon Ruins
+0x00f0|Solaceon Ruins
+0x00f1|Solaceon Ruins
+0x00f2|Solaceon Ruins
+0x00f3|Solaceon Ruins
+0x00f4|Victory Road
+0x00f5|Victory Road
+0x00f6|Victory Road
+0x00f7|Victory Road
+0x00f8|Victory Road
+0x00f9|Victory Road
+0x00fa|Ramanas Park
+0x00fb|Amity Square
+0x00fc|Ravaged Path
+0x00fd|Floaroma Meadow
+0x00fe|Floaroma Meadow
+0x00ff|Oreburgh Gate
+0x0100|Oreburgh Gate
+0x0101|Fullmoon Island
+0x0102|Fullmoon Island
+0x0103|Stark Mountain
+0x0104|Stark Mountain
+0x0105|Stark Mountain
+0x0106|Stark Mountain
+0x0107|Sendoff Spring
+0x0108|Turnback Cave
+0x0109|Turnback Cave
+0x010a|Turnback Cave
+0x010b|Turnback Cave
+0x010c|Turnback Cave
+0x010d|Turnback Cave
+0x010e|Turnback Cave
+0x010f|Turnback Cave
+0x0110|Turnback Cave
+0x0111|Turnback Cave
+0x0112|Turnback Cave
+0x0113|Turnback Cave
+0x0114|Turnback Cave
+0x0115|Turnback Cave
+0x0116|Turnback Cave
+0x0117|Turnback Cave
+0x0118|Turnback Cave
+0x0119|Turnback Cave
+0x011a|Turnback Cave
+0x011b|Turnback Cave
+0x011c|Turnback Cave
+0x011d|Flower Paradise
+0x011e|Snowpoint Temple
+0x011f|Snowpoint Temple
+0x0120|Snowpoint Temple
+0x0121|Snowpoint Temple
+0x0122|Snowpoint Temple
+0x0123|Snowpoint Temple
+0x0124|Wayward Cave
+0x0125|Wayward Cave
+0x0126|Ruin Maniac Cave
+0x0127|Ruin Maniac Cave
+0x0128|Maniac Tunnel
+0x0129|Trophy Garden
+0x012a|Iron Island
+0x012b|Iron Island
+0x012c|Iron Island
+0x012d|Iron Island
+0x012e|Iron Island
+0x012f|Iron Island
+0x0130|Iron Island
+0x0131|Iron Island
+0x0132|Old Chateau
+0x0133|Old Chateau
+0x0134|Old Chateau
+0x0135|Old Chateau
+0x0136|Old Chateau
+0x0137|Old Chateau
+0x0138|Old Chateau
+0x0139|Old Chateau
+0x013a|Old Chateau
+0x013b|Galactic HQ
+0x013c|Galactic HQ
+0x013d|Galactic HQ
+0x013e|Galactic HQ
+0x013f|Galactic HQ
+0x0140|Galactic HQ
+0x0141|Galactic HQ
+0x0142|Galactic HQ
+0x0143|Lake Verity
+0x0144|Lake Verity
+0x0145|Lake Verity (Verity Cavern)
+0x0146|Lake Valor
+0x0147|Lake Valor
+0x0148|Lake Valor (Valor Cavern)
+0x0149|Lake Acuity
+0x014a|Lake Acuity
+0x014b|Lake Acuity (Acuity Cavern)
+0x014c|Newmoon Island
+0x014d|Newmoon Island
+0x014e|Battle Park
+0x014f|Battle Park
+0x0150|Battle Park
+0x0151|Battle Park
+0x0152|Battle Park
+0x0153|Battle Tower
+0x0154|Battle Tower
+0x0155|Battle Tower
+0x0156|Battle Tower
+0x0157|Battle Tower
+0x0158|Battle Tower
+0x0159|Mystery Zone
+0x015a|Verity Lakefront
+0x015b|Valor Lakefront
+0x015c|Valor Lakefront
+0x015d|Valor Lakefront
+0x015e|Valor Lakefront
+0x015f|Acuity Lakefront
+0x0160|Spring Path
+0x0161|Mystery Zone
+0x0162|Route 201
+0x0163|Route 202
+0x0164|Route 203
+0x0165|Route 204
+0x0166|Route 204
+0x0167|Route 205
+0x0168|Route 205
+0x0169|Route 205
+0x016a|Route 206
+0x016b|Route 206
+0x016c|Route 207
+0x016d|Route 208
+0x016e|Route 208
+0x016f|Route 209
+0x0170|Route 209
+0x0171|Route 209
+0x0172|Route 209
+0x0173|Route 209
+0x0174|Route 209
+0x0175|Route 210
+0x0176|Route 210
+0x0177|Route 210
+0x0178|Route 210
+0x0179|Route 211
+0x017a|Route 211
+0x017b|Route 212
+0x017c|Route 212
+0x017d|Route 212
+0x017e|Route 212
+0x017f|Route 212
+0x0180|Route 212
+0x0181|Route 213
+0x0182|Route 213
+0x0183|Route 213
+0x0184|Route 213
+0x0185|Route 213
+0x0186|Route 213
+0x0187|Route 213
+0x0188|Route 214
+0x0189|Route 214
+0x018a|Route 215
+0x018b|Route 216
+0x018c|Route 216
+0x018d|Route 217
+0x018e|Route 217
+0x018f|Route 217
+0x0190|Route 218
+0x0191|Route 218
+0x0192|Route 218
+0x0193|Route 219
+0x0194|Route 221
+0x0195|Route 221
+0x0196|Route 221
+0x0197|Route 222
+0x0198|Route 222
+0x0199|Route 222
+0x019a|Route 222
+0x019b|Route 224
+0x019c|Route 225
+0x019d|Route 225
+0x019e|Route 227
+0x019f|Route 227
+0x01a0|Route 228
+0x01a1|Route 228
+0x01a2|Route 228
+0x01a3|Route 228
+0x01a4|Route 229
+0x01a5|Mystery Zone
+0x01a6|Twinleaf Town
+0x01a7|Twinleaf Town
+0x01a8|Twinleaf Town
+0x01a9|Twinleaf Town
+0x01aa|Twinleaf Town
+0x01ab|Twinleaf Town
+0x01ac|Twinleaf Town
+0x01ad|Sandgem Town
+0x01ae|Sandgem Town
+0x01af|Sandgem Town
+0x01b0|Sandgem Town
+0x01b1|Sandgem Town
+0x01b2|Sandgem Town
+0x01b3|Sandgem Town
+0x01b4|Sandgem Town
+0x01b5|Sandgem Town
+0x01b6|Floaroma Town
+0x01b7|Floaroma Town
+0x01b8|Floaroma Town
+0x01b9|Floaroma Town
+0x01ba|Floaroma Town
+0x01bb|Floaroma Town
+0x01bc|Floaroma Town
+0x01bd|Floaroma Town
+0x01be|Solaceon Town
+0x01bf|Solaceon Town
+0x01c0|Solaceon Town
+0x01c1|Solaceon Town
+0x01c2|Solaceon Town
+0x01c3|Solaceon Town
+0x01c4|Solaceon Town
+0x01c5|Solaceon Town
+0x01c6|Solaceon Town
+0x01c7|Solaceon Town
+0x01c8|Celestic Town
+0x01c9|Celestic Town
+0x01ca|Celestic Town
+0x01cb|Celestic Town
+0x01cc|Celestic Town
+0x01cd|Celestic Town
+0x01ce|Celestic Town
+0x01cf|Celestic Town
+0x01d0|Celestic Town
+0x01d1|Survival Area
+0x01d2|Survival Area
+0x01d3|Survival Area
+0x01d4|Survival Area
+0x01d5|Survival Area
+0x01d6|Survival Area
+0x01d7|Survival Area
+0x01d8|Survival Area
+0x01d9|Resort Area
+0x01da|Resort Area
+0x01db|Resort Area
+0x01dc|Resort Area
+0x01dd|Resort Area
+0x01de|Resort Area
+0x01df|Resort Area
+0x01e0|Resort Area
+0x01e1|Resort Area
+0x01e2|Resort Area
+0x01e3|Mystery Zone
+0x01e4|Mystery Zone
+0x01e5|Route 220
+0x01e6|Route 223
+0x01e7|Route 226
+0x01e8|Route 226
+0x01e9|Route 230
+0x01ea|Seabreak Path
+0x01eb|Mystery Zone
+0x01ec|Mystery Zone
+0x01ed|Mystery Zone
+0x01ee|Eterna City
+0x01ef|Ramanas Park
+0x01f0|Ramanas Park (Discovery Room)
+0x01f1|Ramanas Park (Kanto Room)
+0x01f2|Ramanas Park (Johto Room)
+0x01f3|Ramanas Park (Soul Room)
+0x01f4|Ramanas Park (Tectonic Room)
+0x01f5|Ramanas Park (Oceanic Room)
+0x01f6|Ramanas Park (Stratospheric Room)
+0x01f7|Ramanas Park (Rainbow Room)
+0x01f8|Ramanas Park (Squall Room)
+0x01f9|Ramanas Park (Genome Room)
+0x01fa|Ramanas Park (Pure Space)
+0x01fb|Ramanas Park (Strange Space)
+0x01fc|Grand Underground
+0x01fd|Grand Underground
+0x01fe|Grand Underground
+0x01ff|Grand Underground
+0x0200|Grand Underground
+0x0201|Grand Underground
+0x0202|Grand Underground
+0x0203|Grand Underground
+0x0204|Grand Underground
+0x0205|Grand Underground
+0x0206|Grand Underground
+0x0207|Grand Underground
+0x0208|Grand Underground
+0x0209|Grand Underground
+0x020a|Grand Underground
+0x020b|Grand Underground
+0x020c|Grand Underground
+0x020d|Grand Underground
+0x020e|Grand Underground
+0x020f|Grand Underground
+0x0210|Grand Underground
+0x0211|Grand Underground
+0x0212|Grand Underground
+0x0213|Grand Underground
+0x0214|Grand Underground
+0x0215|Grand Underground
+0x0216|Grand Underground
+0x0217|Grand Underground
+0x0218|Grand Underground
+0x0219|Grand Underground
+0x021a|Grand Underground
+0x021b|Grand Underground
+0x021c|Grand Underground
+0x021d|Grand Underground
+0x021e|Grand Underground
+0x021f|Grand Underground (Spacious Cave)
+0x0220|Grand Underground (Grassland Cave)
+0x0221|Grand Underground (Riverbank Cave)
+0x0222|Grand Underground (Spacious Cave)
+0x0223|Grand Underground (Spacious Cave)
+0x0224|Grand Underground (Swampy Cave)
+0x0225|Grand Underground (Grassland Cave)
+0x0226|Grand Underground (Fountainspring Cave)
+0x0227|Grand Underground (Spacious Cave)
+0x0228|Grand Underground (Fountainspring Cave)
+0x0229|Grand Underground (Fountainspring Cave)
+0x022a|Grand Underground (Spacious Cave)
+0x022b|Grand Underground (Spacious Cave)
+0x022c|Grand Underground (Rocky Cave)
+0x022d|Grand Underground (Volcanic Cave)
+0x022e|Grand Underground (Spacious Cave)
+0x022f|Grand Underground (Rocky Cave)
+0x0230|Grand Underground (Volcanic Cave)
+0x0231|Grand Underground (Dazzling Cave)
+0x0232|Grand Underground (Sandsear Cave)
+0x0233|Grand Underground (Spacious Cave)
+0x0234|Grand Underground (Spacious Cave)
+0x0235|Grand Underground (Rocky Cave)
+0x0236|Grand Underground (Spacious Cave)
+0x0237|Grand Underground (Grassland Cave)
+0x0238|Grand Underground (Riverbank Cave)
+0x0239|Grand Underground (Spacious Cave)
+0x023a|Grand Underground (Grassland Cave)
+0x023b|Grand Underground (Fountainspring Cave)
+0x023c|Grand Underground (Swampy Cave)
+0x023d|Grand Underground (Spacious Cave)
+0x023e|Grand Underground (Spacious Cave)
+0x023f|Grand Underground (Spacious Cave)
+0x0240|Grand Underground (Swampy Cave)
+0x0241|Grand Underground (Riverbank Cave)
+0x0242|Grand Underground (Icy Cave)
+0x0243|Grand Underground (Dazzling Cave)
+0x0244|Grand Underground (Dazzling Cave)
+0x0245|Grand Underground (Icy Cave)
+0x0246|Grand Underground (Icy Cave)
+0x0247|Grand Underground (Icy Cave)
+0x0248|Grand Underground (Spacious Cave)
+0x0249|Grand Underground (Spacious Cave)
+0x024a|Grand Underground (Whiteout Cave)
+0x024b|Grand Underground (Whiteout Cave)
+0x024c|Grand Underground (Whiteout Cave)
+0x024d|Grand Underground (Whiteout Cave)
+0x024e|Grand Underground (Swampy Cave)
+0x024f|Grand Underground (Fountainspring Cave)
+0x0250|Grand Underground (Spacious Cave)
+0x0251|Grand Underground (Swampy Cave)
+0x0252|Grand Underground (Spacious Cave)
+0x0253|Grand Underground (Fountainspring Cave)
+0x0254|Grand Underground (Rocky Cave)
+0x0255|Grand Underground (Swampy Cave)
+0x0256|Grand Underground (Spacious Cave)
+0x0257|Grand Underground (Sandsear Cave)
+0x0258|Grand Underground (Volcanic Cave)
+0x0259|Grand Underground (Dazzling Cave)
+0x025a|Grand Underground (Volcanic Cave)
+0x025b|Grand Underground (Rocky Cave)
+0x025c|Grand Underground (Fountainspring Cave)
+0x025d|Grand Underground (Grassland Cave)
+0x025e|Grand Underground (Spacious Cave)
+0x025f|Grand Underground (Swampy Cave)
+0x0260|Grand Underground (Rocky Cave)
+0x0261|Grand Underground (Sandsear Cave)
+0x0262|Grand Underground (Volcanic Cave)
+0x0263|Grand Underground (Still-Water Cavern)
+0x0264|Grand Underground (Big Bluff Cavern)
+0x0265|Grand Underground (Sunlit Cavern)
+0x0266|Grand Underground (Stargleam Cavern)
+0x0267|Grand Underground (Glacial Cavern)
+0x0268|Grand Underground (Bogsunk Cavern)
+0x0269|Grand Underground (Typhlo Cavern)
+0x026a|Hall of Origin
+0x026b|Ramanas Park (Distortion Room)
+0x026c|Grand Underground (Secret Base)
+0x026d|Grand Underground (Secret Base)
+0x026e|Grand Underground (Secret Base)
+0x026f|Grand Underground (Secret Base)
+0x0270|Ramanas Park (Distortion Room)
+0x0271|Ramanas Park
+0x0272|Jubilife City
+0x0273|Grand Underground (Secret Base)
+0x0274|Grand Underground (Secret Base)
+0x0275|Grand Underground (Secret Base)
+0x0276|Grand Underground (Secret Base)
+0x0277|Grand Underground (Secret Base)
+0x0278|Grand Underground (Secret Base)
+0x0279|Grand Underground (Secret Base)
+0x027a|Grand Underground (Secret Base)
+0x027b|Grand Underground (Secret Base)
+0x027c|Grand Underground (Secret Base)
+0x027d|Grand Underground (Secret Base)
+0x027e|Grand Underground (Secret Base)
+0x027f|Grand Underground (Secret Base)
+0x0280|Grand Underground (Secret Base)
+0x0281|Grand Underground (Secret Base)
+0x0282|Grand Underground (Secret Base)
+0x0283|Grand Underground (Secret Base)
+0x0284|Grand Underground (Secret Base)
+0x0285|Grand Underground (Secret Base)
+0x0286|Grand Underground (Secret Base)
+0x0287|Grand Underground (Secret Base)
+0x0288|Ramanas Park (Discovery Room)
+0x0289|Ramanas Park (Kanto Room)
+0x028a|Ramanas Park (Johto Room)
+0x028b|Ramanas Park (Soul Room)
+0x028c|Ramanas Park (Tectonic Room)
+0x028d|Ramanas Park (Oceanic Room)
+0x028e|Ramanas Park (Stratospheric Room)
+0x028f|Ramanas Park (Rainbow Room)
+0x0290|Ramanas Park (Squall Room)
+0x0291|Ramanas Park (Genome Room)
+0x7531|a Link Trade
+0x7532|a Link Trade
+0x7533|the Kanto region
+0x7534|the Johto region
+0x7535|the Hoenn region
+0x7536|the Sinnoh region
+0x7537|a distant land
+0x7538|——————
+0x7539|the Unova region
+0x753a|the Kalos region
+0x753b|Pokémon Link
+0x753c|Pokémon GO
+0x753d|the Kanto region
+0x753e|the Hoenn region
+0x753f|the Alola region
+0x7540|Poké Pelago
+0x7541|the Johto region
+0x7542|Pokémon HOME
+0x7543|the Kanto region
+0x7544|the Galar region
+0x7546|the Sinnoh region
+0x9c41|a lovely place
+0x9c42|a faraway place
+0x9c43|a Pokémon movie
+0x9c45|a 2019 Pokémon movie
+0x9c46|a 2020 Pokémon movie
+0x9c47|a 2021 Pokémon movie
+0x9c48|a 2022 Pokémon movie
+0x9c49|a 2023 Pokémon movie
+0x9c4a|a 2024 Pokémon movie
+0x9c4b|the Pokémon animated show
+0x9c4c|a Pokémon Center
+0x9c4d|Pokémon Center Tohoku
+0x9c4e|a WCS
+0x9c50|WCS 2019
+0x9c51|WCS 2020
+0x9c52|WCS 2021
+0x9c53|WCS 2022
+0x9c54|WCS 2023
+0x9c55|WCS 2024
+0x9c56|Worlds
+0x9c58|2019 Worlds
+0x9c59|2020 Worlds
+0x9c5a|2021 Worlds
+0x9c5b|2022 Worlds
+0x9c5c|2023 Worlds
+0x9c5d|2024 Worlds
+0x9c5e|a VGE
+0x9c60|VGE 2019
+0x9c61|VGE 2020
+0x9c62|VGE 2021
+0x9c63|VGE 2022
+0x9c64|VGE 2023
+0x9c65|VGE 2024
+0x9c66|a Pokémon event
+0x9c67|a Battle Competition
+0x9c68|a game event
+0x9c69|the Pokémon Daisuki Club
+0x9c6a|a Pokémon TV program
+0x9c6b|a concert
+0x9c6c|an online present
+0x9c6d|the PGL
+0x9c6f|a 2019 Pokémon event
+0x9c70|a 2020 Pokémon event
+0x9c71|a 2021 Pokémon event
+0x9c72|a 2022 Pokémon event
+0x9c73|a 2023 Pokémon event
+0x9c74|a 2024 Pokémon event
+0x9c75|a Pokémon event
+0x9c77|a 2019 Pokémon event
+0x9c78|a 2020 Pokémon event
+0x9c79|a 2021 Pokémon event
+0x9c7a|a 2022 Pokémon event
+0x9c7b|a 2023 Pokémon event
+0x9c7c|a 2024 Pokémon event
+0x9c7d|PokéPark
+0x9c7f|PokéPark 2019
+0x9c80|PokéPark 2020
+0x9c81|PokéPark 2021
+0x9c82|PokéPark 2022
+0x9c83|PokéPark 2023
+0x9c84|PokéPark 2024
+0x9c85|an event site
+0x9c86|GAME FREAK
+0x9c87|a stadium
+0x9c88|a VGC event
+0x9c8a|the VGC 2019
+0x9c8b|the VGC 2020
+0x9c8c|the VGC 2021
+0x9c8d|the VGC 2022
+0x9c8e|the VGC 2023
+0x9c8f|the VGC 2024
+0x9c90|a Virtual Console game
+0x9c91|Pokémon GO
+0x9c92|Pokémon Bank
+0x9c93|a Pokémon shop
+0x9c94|a demo version
+0x9c95|the Poké Ball Plus
+0x9c96|Pokémon HOME
+0xea61|a stranger
+0xea62|a Nursery worker
+0xea63|a treasure hunter
+0xea64|an old hot-springs visitor
+0xea65|Riley
+0xea66|Nursery Couple
+0xea67|Traveling Man
+0xea6a|Nursery Couple

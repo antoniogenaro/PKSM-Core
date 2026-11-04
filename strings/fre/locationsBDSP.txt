@@ -1,0 +1,765 @@
+0x0000|Féli-Cité
+0x0001|Féli-Cité
+0x0002|Féli-Cité
+0x0003|Féli-Cité
+0x0004|Féli-Cité
+0x0005|Féli-Cité
+0x0006|Féli-Cité
+0x0007|Féli-Cité
+0x0008|Féli-Cité
+0x0009|Féli-Cité
+0x000a|Féli-Cité
+0x000b|Féli-Cité
+0x000c|Féli-Cité
+0x000d|Féli-Cité
+0x000e|Féli-Cité
+0x000f|Féli-Cité
+0x0010|Féli-Cité
+0x0011|Féli-Cité
+0x0012|Féli-Cité
+0x0013|Féli-Cité
+0x0014|Féli-Cité
+0x0015|Féli-Cité
+0x0016|Féli-Cité
+0x0017|Féli-Cité
+0x0018|Joliberges
+0x0019|Joliberges
+0x001a|Arène de Joliberges
+0x001b|Joliberges
+0x001c|Joliberges
+0x001d|Joliberges
+0x001e|Joliberges
+0x001f|Joliberges
+0x0020|Joliberges
+0x0021|Joliberges
+0x0022|Joliberges
+0x0023|Joliberges
+0x0024|Joliberges
+0x0025|Joliberges
+0x0026|Charbourg
+0x0027|Charbourg
+0x0028|Arène de Charbourg
+0x0029|Charbourg
+0x002a|Charbourg
+0x002b|Charbourg
+0x002c|Charbourg
+0x002d|Charbourg
+0x002e|Charbourg
+0x002f|Charbourg
+0x0030|Charbourg
+0x0031|Charbourg
+0x0032|Charbourg
+0x0033|Charbourg
+0x0034|Charbourg
+0x0035|Charbourg
+0x0036|Vestigion
+0x0037|Vestigion
+0x0038|Arène de Vestigion
+0x0039|Arène de Vestigion
+0x003a|Vestigion
+0x003b|Vestigion
+0x003c|Vestigion
+0x003d|Vestigion
+0x003e|Vestigion
+0x003f|Vestigion
+0x0040|Vestigion
+0x0041|Vestigion
+0x0042|Vestigion
+0x0043|Vestigion
+0x0044|Vestigion
+0x0045|Vestigion
+0x0046|Vestigion
+0x0047|Vestigion
+0x0048|Vestigion
+0x0049|Vestigion
+0x004a|Unionpolis
+0x004b|Unionpolis
+0x004c|Arène d’Unionpolis
+0x004d|Arène d’Unionpolis
+0x004e|Arène d’Unionpolis
+0x004f|Arène d’Unionpolis
+0x0050|Arène d’Unionpolis
+0x0051|Arène d’Unionpolis
+0x0052|Arène d’Unionpolis
+0x0053|Arène d’Unionpolis
+0x0054|Arène d’Unionpolis
+0x0055|Arène d’Unionpolis
+0x0056|Arène d’Unionpolis
+0x0057|Arène d’Unionpolis
+0x0058|Arène d’Unionpolis
+0x0059|Unionpolis
+0x005a|Unionpolis
+0x005b|Unionpolis
+0x005c|Unionpolis
+0x005d|Unionpolis
+0x005e|Unionpolis
+0x005f|Unionpolis
+0x0060|Unionpolis
+0x0061|Unionpolis
+0x0062|Unionpolis
+0x0063|Unionpolis
+0x0064|Unionpolis
+0x0065|Unionpolis
+0x0066|Unionpolis
+0x0067|Unionpolis
+0x0068|Unionpolis
+0x0069|Unionpolis
+0x006a|Unionpolis
+0x006b|Unionpolis
+0x006c|Unionpolis
+0x006d|Unionpolis
+0x006e|Verchamps
+0x006f|Verchamps
+0x0070|Arène de Verchamps
+0x0071|Verchamps
+0x0072|Verchamps
+0x0073|Verchamps
+0x0074|Verchamps
+0x0075|Verchamps
+0x0076|Verchamps
+0x0077|Verchamps
+0x0078|Verchamps
+0x0079|Verchamps
+0x007a|Verchamps
+0x007b|Voilaroc
+0x007c|Arène de Voilaroc
+0x007d|Voilaroc
+0x007e|Voilaroc
+0x007f|Voilaroc
+0x0080|Voilaroc
+0x0081|Voilaroc
+0x0082|Voilaroc
+0x0083|Voilaroc
+0x0084|Voilaroc
+0x0085|Voilaroc
+0x0086|Voilaroc
+0x0087|Voilaroc
+0x0088|Voilaroc
+0x0089|Voilaroc
+0x008a|Voilaroc
+0x008b|Voilaroc
+0x008c|Voilaroc
+0x008d|Voilaroc
+0x008e|Rivamar
+0x008f|Rivamar
+0x0090|Arène de Rivamar
+0x0091|Arène de Rivamar
+0x0092|Arène de Rivamar
+0x0093|Rivamar
+0x0094|Rivamar
+0x0095|Rivamar
+0x0096|Rivamar
+0x0097|Rivamar
+0x0098|Rivamar
+0x0099|Rivamar
+0x009a|Rivamar
+0x009b|Rivamar
+0x009c|Rivamar
+0x009d|Rivamar
+0x009e|Rivamar
+0x009f|Frimapic
+0x00a0|Frimapic
+0x00a1|Arène de Frimapic
+0x00a2|Frimapic
+0x00a3|Frimapic
+0x00a4|Frimapic
+0x00a5|Frimapic
+0x00a6|Frimapic
+0x00a7|Ligue Pokémon
+0x00a8|Ligue Pokémon
+0x00a9|Ligue Pokémon
+0x00aa|Ligue Pokémon
+0x00ab|Ligue Pokémon
+0x00ac|Ligue Pokémon
+0x00ad|Ligue Pokémon
+0x00ae|Ligue Pokémon
+0x00af|Ligue Pokémon
+0x00b0|Ligue Pokémon
+0x00b1|Ligue Pokémon
+0x00b2|Ligue Pokémon
+0x00b3|Ligue Pokémon
+0x00b4|Ligue Pokémon
+0x00b5|Ligue Pokémon
+0x00b6|Ligue Pokémon
+0x00b7|Ligue Pokémon
+0x00b8|Ligue Pokémon
+0x00b9|Ligue Pokémon
+0x00ba|Aire de Combat
+0x00bb|Aire de Combat
+0x00bc|Aire de Combat
+0x00bd|Aire de Combat
+0x00be|Aire de Combat
+0x00bf|Aire de Combat
+0x00c0|Aire de Combat
+0x00c1|Aire de Combat
+0x00c2|Aire de Combat
+0x00c3|Mine de Charbourg
+0x00c4|Mine de Charbourg
+0x00c5|Parc Éolien
+0x00c6|Parc Éolien
+0x00c7|Forêt de Vestigion
+0x00c8|Forêt de Vestigion
+0x00c9|Forge Fuego
+0x00ca|Forge Fuego
+0x00cb|Mont Couronné
+0x00cc|Mont Couronné
+0x00cd|Mont Couronné
+0x00ce|Mont Couronné
+0x00cf|Mont Couronné
+0x00d0|Mont Couronné
+0x00d1|Mont Couronné
+0x00d2|Mont Couronné
+0x00d3|Mont Couronné
+0x00d4|Mont Couronné
+0x00d5|Mont Couronné
+0x00d6|Mont Couronné
+0x00d7|Mont Couronné
+0x00d8|Colonnes Lances
+0x00d9|Colonnes Lances
+0x00da|Salle Originelle
+0x00db|Grand Marais
+0x00dc|Grand Marais
+0x00dd|Grand Marais
+0x00de|Grand Marais
+0x00df|Grand Marais
+0x00e0|Grand Marais
+0x00e1|Ruines de Bonville
+0x00e2|Ruines de Bonville
+0x00e3|Ruines de Bonville
+0x00e4|Ruines de Bonville
+0x00e5|Ruines de Bonville
+0x00e6|Ruines de Bonville
+0x00e7|Ruines de Bonville
+0x00e8|Ruines de Bonville
+0x00e9|Ruines de Bonville
+0x00ea|Ruines de Bonville
+0x00eb|Ruines de Bonville
+0x00ec|Ruines de Bonville
+0x00ed|Ruines de Bonville
+0x00ee|Ruines de Bonville
+0x00ef|Ruines de Bonville
+0x00f0|Ruines de Bonville
+0x00f1|Ruines de Bonville
+0x00f2|Ruines de Bonville
+0x00f3|Ruines de Bonville
+0x00f4|Route Victoire
+0x00f5|Route Victoire
+0x00f6|Route Victoire
+0x00f7|Route Victoire
+0x00f8|Route Victoire
+0x00f9|Route Victoire
+0x00fa|Parc Rosa Rugosa
+0x00fb|Square Paisible
+0x00fc|Chemin Rocheux
+0x00fd|Pré de Floraville
+0x00fe|Pré de Floraville
+0x00ff|Entrée de Charbourg
+0x0100|Entrée de Charbourg
+0x0101|Île Pleine Lune
+0x0102|Île Pleine Lune
+0x0103|Mont Abrupt
+0x0104|Mont Abrupt
+0x0105|Mont Abrupt
+0x0106|Mont Abrupt
+0x0107|Source des Adieux
+0x0108|Grotte du Retour
+0x0109|Grotte du Retour
+0x010a|Grotte du Retour
+0x010b|Grotte du Retour
+0x010c|Grotte du Retour
+0x010d|Grotte du Retour
+0x010e|Grotte du Retour
+0x010f|Grotte du Retour
+0x0110|Grotte du Retour
+0x0111|Grotte du Retour
+0x0112|Grotte du Retour
+0x0113|Grotte du Retour
+0x0114|Grotte du Retour
+0x0115|Grotte du Retour
+0x0116|Grotte du Retour
+0x0117|Grotte du Retour
+0x0118|Grotte du Retour
+0x0119|Grotte du Retour
+0x011a|Grotte du Retour
+0x011b|Grotte du Retour
+0x011c|Grotte du Retour
+0x011d|Paradis Fleuri
+0x011e|Temple de Frimapic
+0x011f|Temple de Frimapic
+0x0120|Temple de Frimapic
+0x0121|Temple de Frimapic
+0x0122|Temple de Frimapic
+0x0123|Temple de Frimapic
+0x0124|Grotte des Égarés
+0x0125|Grotte des Égarés
+0x0126|Grotte du Ruinophile
+0x0127|Grotte du Ruinophile
+0x0128|Tunnel du Ruinophile
+0x0129|Jardin Trophée
+0x012a|Île de Fer
+0x012b|Île de Fer
+0x012c|Île de Fer
+0x012d|Île de Fer
+0x012e|Île de Fer
+0x012f|Île de Fer
+0x0130|Île de Fer
+0x0131|Île de Fer
+0x0132|Vieux Château
+0x0133|Vieux Château
+0x0134|Vieux Château
+0x0135|Vieux Château
+0x0136|Vieux Château
+0x0137|Vieux Château
+0x0138|Vieux Château
+0x0139|Vieux Château
+0x013a|Vieux Château
+0x013b|QG Team Galaxie
+0x013c|QG Team Galaxie
+0x013d|QG Team Galaxie
+0x013e|QG Team Galaxie
+0x013f|QG Team Galaxie
+0x0140|QG Team Galaxie
+0x0141|QG Team Galaxie
+0x0142|QG Team Galaxie
+0x0143|Lac Vérité
+0x0144|Lac Vérité
+0x0145|Lac Vérité (Caverne Vérité)
+0x0146|Lac Courage
+0x0147|Lac Courage
+0x0148|Lac Courage (Caverne Courage)
+0x0149|Lac Savoir
+0x014a|Lac Savoir
+0x014b|Lac Savoir (Caverne Savoir)
+0x014c|Île Nouvellune
+0x014d|Île Nouvellune
+0x014e|Parc des Combats
+0x014f|Parc des Combats
+0x0150|Parc des Combats
+0x0151|Parc des Combats
+0x0152|Parc des Combats
+0x0153|Tour de Combat
+0x0154|Tour de Combat
+0x0155|Tour de Combat
+0x0156|Tour de Combat
+0x0157|Tour de Combat
+0x0158|Tour de Combat
+0x0159|Endroit mystérieux
+0x015a|Rive du Lac Vérité
+0x015b|Rive du Lac Courage
+0x015c|Rive du Lac Courage
+0x015d|Rive du Lac Courage
+0x015e|Rive du Lac Courage
+0x015f|Rive du Lac Savoir
+0x0160|Chemin de la Source
+0x0161|Endroit mystérieux
+0x0162|Route 201
+0x0163|Route 202
+0x0164|Route 203
+0x0165|Route 204
+0x0166|Route 204
+0x0167|Route 205
+0x0168|Route 205
+0x0169|Route 205
+0x016a|Route 206
+0x016b|Route 206
+0x016c|Route 207
+0x016d|Route 208
+0x016e|Route 208
+0x016f|Route 209
+0x0170|Route 209
+0x0171|Route 209
+0x0172|Route 209
+0x0173|Route 209
+0x0174|Route 209
+0x0175|Route 210
+0x0176|Route 210
+0x0177|Route 210
+0x0178|Route 210
+0x0179|Route 211
+0x017a|Route 211
+0x017b|Route 212
+0x017c|Route 212
+0x017d|Route 212
+0x017e|Route 212
+0x017f|Route 212
+0x0180|Route 212
+0x0181|Route 213
+0x0182|Route 213
+0x0183|Route 213
+0x0184|Route 213
+0x0185|Route 213
+0x0186|Route 213
+0x0187|Route 213
+0x0188|Route 214
+0x0189|Route 214
+0x018a|Route 215
+0x018b|Route 216
+0x018c|Route 216
+0x018d|Route 217
+0x018e|Route 217
+0x018f|Route 217
+0x0190|Route 218
+0x0191|Route 218
+0x0192|Route 218
+0x0193|Route 219
+0x0194|Route 221
+0x0195|Route 221
+0x0196|Route 221
+0x0197|Route 222
+0x0198|Route 222
+0x0199|Route 222
+0x019a|Route 222
+0x019b|Route 224
+0x019c|Route 225
+0x019d|Route 225
+0x019e|Route 227
+0x019f|Route 227
+0x01a0|Route 228
+0x01a1|Route 228
+0x01a2|Route 228
+0x01a3|Route 228
+0x01a4|Route 229
+0x01a5|Endroit mystérieux
+0x01a6|Bonaugure
+0x01a7|Bonaugure
+0x01a8|Bonaugure
+0x01a9|Bonaugure
+0x01aa|Bonaugure
+0x01ab|Bonaugure
+0x01ac|Bonaugure
+0x01ad|Littorella
+0x01ae|Littorella
+0x01af|Littorella
+0x01b0|Littorella
+0x01b1|Littorella
+0x01b2|Littorella
+0x01b3|Littorella
+0x01b4|Littorella
+0x01b5|Littorella
+0x01b6|Floraville
+0x01b7|Floraville
+0x01b8|Floraville
+0x01b9|Floraville
+0x01ba|Floraville
+0x01bb|Floraville
+0x01bc|Floraville
+0x01bd|Floraville
+0x01be|Bonville
+0x01bf|Bonville
+0x01c0|Bonville
+0x01c1|Bonville
+0x01c2|Bonville
+0x01c3|Bonville
+0x01c4|Bonville
+0x01c5|Bonville
+0x01c6|Bonville
+0x01c7|Bonville
+0x01c8|Célestia
+0x01c9|Célestia
+0x01ca|Célestia
+0x01cb|Célestia
+0x01cc|Célestia
+0x01cd|Célestia
+0x01ce|Célestia
+0x01cf|Célestia
+0x01d0|Célestia
+0x01d1|Aire de Survie
+0x01d2|Aire de Survie
+0x01d3|Aire de Survie
+0x01d4|Aire de Survie
+0x01d5|Aire de Survie
+0x01d6|Aire de Survie
+0x01d7|Aire de Survie
+0x01d8|Aire de Survie
+0x01d9|Aire de Détente
+0x01da|Aire de Détente
+0x01db|Aire de Détente
+0x01dc|Aire de Détente
+0x01dd|Aire de Détente
+0x01de|Aire de Détente
+0x01df|Aire de Détente
+0x01e0|Aire de Détente
+0x01e1|Aire de Détente
+0x01e2|Aire de Détente
+0x01e3|Endroit mystérieux
+0x01e4|Endroit mystérieux
+0x01e5|Chenal 220
+0x01e6|Chenal 223
+0x01e7|Chenal 226
+0x01e8|Chenal 226
+0x01e9|Chenal 230
+0x01ea|Passage Marin
+0x01eb|Endroit mystérieux
+0x01ec|Endroit mystérieux
+0x01ed|Endroit mystérieux
+0x01ee|Vestigion
+0x01ef|Parc Rosa Rugosa
+0x01f0|Parc Rosa Rugosa (Salle des Guides)
+0x01f1|Parc Rosa Rugosa (Salle de Kanto)
+0x01f2|Parc Rosa Rugosa (Salle de Johto)
+0x01f3|Parc Rosa Rugosa (Salle du Cœur)
+0x01f4|Parc Rosa Rugosa (Salle des Continents)
+0x01f5|Parc Rosa Rugosa (Salle des Océans)
+0x01f6|Parc Rosa Rugosa (Salle des Cieux)
+0x01f7|Parc Rosa Rugosa (Salle de l’Arc-en-ciel)
+0x01f8|Parc Rosa Rugosa (Salle de la Tempête)
+0x01f9|Parc Rosa Rugosa (Salle de la Génétique)
+0x01fa|Parc Rosa Rugosa (Espace Pur)
+0x01fb|Parc Rosa Rugosa (Espace Mystérieux)
+0x01fc|Grands Souterrains
+0x01fd|Grands Souterrains
+0x01fe|Grands Souterrains
+0x01ff|Grands Souterrains
+0x0200|Grands Souterrains
+0x0201|Grands Souterrains
+0x0202|Grands Souterrains
+0x0203|Grands Souterrains
+0x0204|Grands Souterrains
+0x0205|Grands Souterrains
+0x0206|Grands Souterrains
+0x0207|Grands Souterrains
+0x0208|Grands Souterrains
+0x0209|Grands Souterrains
+0x020a|Grands Souterrains
+0x020b|Grands Souterrains
+0x020c|Grands Souterrains
+0x020d|Grands Souterrains
+0x020e|Grands Souterrains
+0x020f|Grands Souterrains
+0x0210|Grands Souterrains
+0x0211|Grands Souterrains
+0x0212|Grands Souterrains
+0x0213|Grands Souterrains
+0x0214|Grands Souterrains
+0x0215|Grands Souterrains
+0x0216|Grands Souterrains
+0x0217|Grands Souterrains
+0x0218|Grands Souterrains
+0x0219|Grands Souterrains
+0x021a|Grands Souterrains
+0x021b|Grands Souterrains
+0x021c|Grands Souterrains
+0x021d|Grands Souterrains
+0x021e|Grands Souterrains
+0x021f|Grands Souterrains (Grotte Spacieuse)
+0x0220|Grands Souterrains (Grotte de la Prairie)
+0x0221|Grands Souterrains (Grotte de la Rivière)
+0x0222|Grands Souterrains (Grotte Spacieuse)
+0x0223|Grands Souterrains (Grotte Spacieuse)
+0x0224|Grands Souterrains (Grotte du Marécage)
+0x0225|Grands Souterrains (Grotte de la Prairie)
+0x0226|Grands Souterrains (Grotte des Eaux Souterraines)
+0x0227|Grands Souterrains (Grotte Spacieuse)
+0x0228|Grands Souterrains (Grotte des Eaux Souterraines)
+0x0229|Grands Souterrains (Grotte des Eaux Souterraines)
+0x022a|Grands Souterrains (Grotte Spacieuse)
+0x022b|Grands Souterrains (Grotte Spacieuse)
+0x022c|Grands Souterrains (Grotte des Rochers)
+0x022d|Grands Souterrains (Grotte du Magma)
+0x022e|Grands Souterrains (Grotte Spacieuse)
+0x022f|Grands Souterrains (Grotte des Rochers)
+0x0230|Grands Souterrains (Grotte du Magma)
+0x0231|Grands Souterrains (Grotte Éblouissante)
+0x0232|Grands Souterrains (Grotte des Sables Ardents)
+0x0233|Grands Souterrains (Grotte Spacieuse)
+0x0234|Grands Souterrains (Grotte Spacieuse)
+0x0235|Grands Souterrains (Grotte des Rochers)
+0x0236|Grands Souterrains (Grotte Spacieuse)
+0x0237|Grands Souterrains (Grotte de la Prairie)
+0x0238|Grands Souterrains (Grotte de la Rivière)
+0x0239|Grands Souterrains (Grotte Spacieuse)
+0x023a|Grands Souterrains (Grotte de la Prairie)
+0x023b|Grands Souterrains (Grotte des Eaux Souterraines)
+0x023c|Grands Souterrains (Grotte du Marécage)
+0x023d|Grands Souterrains (Grotte Spacieuse)
+0x023e|Grands Souterrains (Grotte Spacieuse)
+0x023f|Grands Souterrains (Grotte Spacieuse)
+0x0240|Grands Souterrains (Grotte du Marécage)
+0x0241|Grands Souterrains (Grotte de la Rivière)
+0x0242|Grands Souterrains (Grotte des Stalactites)
+0x0243|Grands Souterrains (Grotte Éblouissante)
+0x0244|Grands Souterrains (Grotte Éblouissante)
+0x0245|Grands Souterrains (Grotte des Stalactites)
+0x0246|Grands Souterrains (Grotte des Stalactites)
+0x0247|Grands Souterrains (Grotte des Stalactites)
+0x0248|Grands Souterrains (Grotte Spacieuse)
+0x0249|Grands Souterrains (Grotte Spacieuse)
+0x024a|Grands Souterrains (Grotte du Blizzard)
+0x024b|Grands Souterrains (Grotte du Blizzard)
+0x024c|Grands Souterrains (Grotte du Blizzard)
+0x024d|Grands Souterrains (Grotte du Blizzard)
+0x024e|Grands Souterrains (Grotte du Marécage)
+0x024f|Grands Souterrains (Grotte des Eaux Souterraines)
+0x0250|Grands Souterrains (Grotte Spacieuse)
+0x0251|Grands Souterrains (Grotte du Marécage)
+0x0252|Grands Souterrains (Grotte Spacieuse)
+0x0253|Grands Souterrains (Grotte des Eaux Souterraines)
+0x0254|Grands Souterrains (Grotte des Rochers)
+0x0255|Grands Souterrains (Grotte du Marécage)
+0x0256|Grands Souterrains (Grotte Spacieuse)
+0x0257|Grands Souterrains (Grotte des Sables Ardents)
+0x0258|Grands Souterrains (Grotte du Magma)
+0x0259|Grands Souterrains (Grotte Éblouissante)
+0x025a|Grands Souterrains (Grotte du Magma)
+0x025b|Grands Souterrains (Grotte des Rochers)
+0x025c|Grands Souterrains (Grotte des Eaux Souterraines)
+0x025d|Grands Souterrains (Grotte de la Prairie)
+0x025e|Grands Souterrains (Grotte Spacieuse)
+0x025f|Grands Souterrains (Grotte du Marécage)
+0x0260|Grands Souterrains (Grotte des Rochers)
+0x0261|Grands Souterrains (Grotte des Sables Ardents)
+0x0262|Grands Souterrains (Grotte du Magma)
+0x0263|Grands Souterrains (Caverne du Miroir d’Eau)
+0x0264|Grands Souterrains (Caverne du Piton)
+0x0265|Grands Souterrains (Caverne Ensoleillée)
+0x0266|Grands Souterrains (Caverne de la Nuit Étoilée)
+0x0267|Grands Souterrains (Caverne du Glacier)
+0x0268|Grands Souterrains (Caverne du Marais Sans Fond)
+0x0269|Grands Souterrains (Caverne Typhlosion)
+0x026a|Salle Originelle
+0x026b|Parc Rosa Rugosa (Salle de la Distorsion)
+0x026c|Grands Souterrains (Base Secrète)
+0x026d|Grands Souterrains (Base Secrète)
+0x026e|Grands Souterrains (Base Secrète)
+0x026f|Grands Souterrains (Base Secrète)
+0x0270|Parc Rosa Rugosa (Salle de la Distorsion)
+0x0271|Parc Rosa Rugosa
+0x0272|Féli-Cité
+0x0273|Grands Souterrains (Base Secrète)
+0x0274|Grands Souterrains (Base Secrète)
+0x0275|Grands Souterrains (Base Secrète)
+0x0276|Grands Souterrains (Base Secrète)
+0x0277|Grands Souterrains (Base Secrète)
+0x0278|Grands Souterrains (Base Secrète)
+0x0279|Grands Souterrains (Base Secrète)
+0x027a|Grands Souterrains (Base Secrète)
+0x027b|Grands Souterrains (Base Secrète)
+0x027c|Grands Souterrains (Base Secrète)
+0x027d|Grands Souterrains (Base Secrète)
+0x027e|Grands Souterrains (Base Secrète)
+0x027f|Grands Souterrains (Base Secrète)
+0x0280|Grands Souterrains (Base Secrète)
+0x0281|Grands Souterrains (Base Secrète)
+0x0282|Grands Souterrains (Base Secrète)
+0x0283|Grands Souterrains (Base Secrète)
+0x0284|Grands Souterrains (Base Secrète)
+0x0285|Grands Souterrains (Base Secrète)
+0x0286|Grands Souterrains (Base Secrète)
+0x0287|Grands Souterrains (Base Secrète)
+0x0288|Parc Rosa Rugosa (Salle des Guides)
+0x0289|Parc Rosa Rugosa (Salle de Kanto)
+0x028a|Parc Rosa Rugosa (Salle de Johto)
+0x028b|Parc Rosa Rugosa (Salle du Cœur)
+0x028c|Parc Rosa Rugosa (Salle des Continents)
+0x028d|Parc Rosa Rugosa (Salle des Océans)
+0x028e|Parc Rosa Rugosa (Salle des Cieux)
+0x028f|Parc Rosa Rugosa (Salle de l’Arc-en-ciel)
+0x0290|Parc Rosa Rugosa (Salle de la Tempête)
+0x0291|Parc Rosa Rugosa (Salle de la Génétique)
+0x7531|Échange en réseau
+0x7532|Échange en réseau
+0x7533|Kanto
+0x7534|Johto
+0x7535|Hoenn
+0x7536|Sinnoh
+0x7537|Pays lointain
+0x7538|－－－－－－－－－－
+0x7539|Unys
+0x753a|Kalos
+0x753b|Poké Lien
+0x753c|Pokémon GO
+0x753d|Kanto
+0x753e|Hoenn
+0x753f|Alola
+0x7540|Poké Loisir
+0x7541|Johto
+0x7542|Pokémon HOME
+0x7543|Kanto
+0x7544|Galar
+0x7546|Sinnoh
+0x9c41|Endroit superbe
+0x9c42|Endroit lointain
+0x9c43|Film Pokémon
+0x9c45|Film Pokémon 2019
+0x9c46|Film Pokémon 2020
+0x9c47|Film Pokémon 2021
+0x9c48|Film Pokémon 2022
+0x9c49|Film Pokémon 2023
+0x9c4a|Film Pokémon 2024
+0x9c4b|Dessin animé Pokémon
+0x9c4c|Pokémon Center
+0x9c4d|Pokémon Center Tohoku
+0x9c4e|WCS
+0x9c50|WCS 2019
+0x9c51|WCS 2020
+0x9c52|WCS 2021
+0x9c53|WCS 2022
+0x9c54|WCS 2023
+0x9c55|WCS 2024
+0x9c56|Worlds
+0x9c58|Worlds 2019
+0x9c59|Worlds 2020
+0x9c5a|Worlds 2021
+0x9c5b|Worlds 2022
+0x9c5c|Worlds 2023
+0x9c5d|Worlds 2024
+0x9c5e|Évènement Jeu Vidéo
+0x9c60|Évènement Jeu Vidéo 2019
+0x9c61|Évènement Jeu Vidéo 2020
+0x9c62|Évènement Jeu Vidéo 2021
+0x9c63|Évènement Jeu Vidéo 2022
+0x9c64|Évènement Jeu Vidéo 2023
+0x9c65|Évènement Jeu Vidéo 2024
+0x9c66|Évènement Pokémon
+0x9c67|Compétition
+0x9c68|Évènement
+0x9c69|Pokémon Daisuki Club
+0x9c6a|Émission Pokémon
+0x9c6b|Concert
+0x9c6c|Cadeau téléchargeable
+0x9c6d|Pokémon Global Link
+0x9c6f|Évènement Pokémon 2019
+0x9c70|Évènement Pokémon 2020
+0x9c71|Évènement Pokémon 2021
+0x9c72|Évènement Pokémon 2022
+0x9c73|Évènement Pokémon 2023
+0x9c74|Évènement Pokémon 2024
+0x9c75|Évènement Pokémon
+0x9c77|Évènement Pokémon 2019
+0x9c78|Évènement Pokémon 2020
+0x9c79|Évènement Pokémon 2021
+0x9c7a|Évènement Pokémon 2022
+0x9c7b|Évènement Pokémon 2023
+0x9c7c|Évènement Pokémon 2024
+0x9c7d|PokéPark
+0x9c7f|PokéPark 2019
+0x9c80|PokéPark 2020
+0x9c81|PokéPark 2021
+0x9c82|PokéPark 2022
+0x9c83|PokéPark 2023
+0x9c84|PokéPark 2024
+0x9c85|Lieu d’évènement
+0x9c86|GAME FREAK
+0x9c87|Stade
+0x9c88|VGC
+0x9c8a|VGC 2019
+0x9c8b|VGC 2020
+0x9c8c|VGC 2021
+0x9c8d|VGC 2022
+0x9c8e|VGC 2023
+0x9c8f|VGC 2024
+0x9c90|Console virtuelle
+0x9c91|Pokémon GO
+0x9c92|Banque Pokémon
+0x9c93|Magasin Pokémon
+0x9c94|Démo
+0x9c95|Poké Ball Plus
+0x9c96|Pokémon HOME
+0xea61|Personne lointaine
+0xea62|Responsable de la Garderie
+0xea63|Chercheur de Trésors
+0xea64|Dame des Eaux Thermales
+0xea65|Armand
+0xea66|Garderie
+0xea67|Voyageur
+0xea6a|Garderie

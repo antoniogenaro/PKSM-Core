@@ -1,0 +1,765 @@
+0x0000|Jubelstadt
+0x0001|Jubelstadt
+0x0002|Jubelstadt
+0x0003|Jubelstadt
+0x0004|Jubelstadt
+0x0005|Jubelstadt
+0x0006|Jubelstadt
+0x0007|Jubelstadt
+0x0008|Jubelstadt
+0x0009|Jubelstadt
+0x000a|Jubelstadt
+0x000b|Jubelstadt
+0x000c|Jubelstadt
+0x000d|Jubelstadt
+0x000e|Jubelstadt
+0x000f|Jubelstadt
+0x0010|Jubelstadt
+0x0011|Jubelstadt
+0x0012|Jubelstadt
+0x0013|Jubelstadt
+0x0014|Jubelstadt
+0x0015|Jubelstadt
+0x0016|Jubelstadt
+0x0017|Jubelstadt
+0x0018|Fleetburg
+0x0019|Fleetburg
+0x001a|Fleetburg-Arena
+0x001b|Fleetburg
+0x001c|Fleetburg
+0x001d|Fleetburg
+0x001e|Fleetburg
+0x001f|Fleetburg
+0x0020|Fleetburg
+0x0021|Fleetburg
+0x0022|Fleetburg
+0x0023|Fleetburg
+0x0024|Fleetburg
+0x0025|Fleetburg
+0x0026|Erzelingen
+0x0027|Erzelingen
+0x0028|Erzelingen-Arena
+0x0029|Erzelingen
+0x002a|Erzelingen
+0x002b|Erzelingen
+0x002c|Erzelingen
+0x002d|Erzelingen
+0x002e|Erzelingen
+0x002f|Erzelingen
+0x0030|Erzelingen
+0x0031|Erzelingen
+0x0032|Erzelingen
+0x0033|Erzelingen
+0x0034|Erzelingen
+0x0035|Erzelingen
+0x0036|Ewigenau
+0x0037|Ewigenau
+0x0038|Ewigenau-Arena
+0x0039|Ewigenau-Arena
+0x003a|Ewigenau
+0x003b|Ewigenau
+0x003c|Ewigenau
+0x003d|Ewigenau
+0x003e|Ewigenau
+0x003f|Ewigenau
+0x0040|Ewigenau
+0x0041|Ewigenau
+0x0042|Ewigenau
+0x0043|Ewigenau
+0x0044|Ewigenau
+0x0045|Ewigenau
+0x0046|Ewigenau
+0x0047|Ewigenau
+0x0048|Ewigenau
+0x0049|Ewigenau
+0x004a|Herzhofen
+0x004b|Herzhofen
+0x004c|Herzhofen-Arena
+0x004d|Herzhofen-Arena
+0x004e|Herzhofen-Arena
+0x004f|Herzhofen-Arena
+0x0050|Herzhofen-Arena
+0x0051|Herzhofen-Arena
+0x0052|Herzhofen-Arena
+0x0053|Herzhofen-Arena
+0x0054|Herzhofen-Arena
+0x0055|Herzhofen-Arena
+0x0056|Herzhofen-Arena
+0x0057|Herzhofen-Arena
+0x0058|Herzhofen-Arena
+0x0059|Herzhofen
+0x005a|Herzhofen
+0x005b|Herzhofen
+0x005c|Herzhofen
+0x005d|Herzhofen
+0x005e|Herzhofen
+0x005f|Herzhofen
+0x0060|Herzhofen
+0x0061|Herzhofen
+0x0062|Herzhofen
+0x0063|Herzhofen
+0x0064|Herzhofen
+0x0065|Herzhofen
+0x0066|Herzhofen
+0x0067|Herzhofen
+0x0068|Herzhofen
+0x0069|Herzhofen
+0x006a|Herzhofen
+0x006b|Herzhofen
+0x006c|Herzhofen
+0x006d|Herzhofen
+0x006e|Weideburg
+0x006f|Weideburg
+0x0070|Weideburg-Arena
+0x0071|Weideburg
+0x0072|Weideburg
+0x0073|Weideburg
+0x0074|Weideburg
+0x0075|Weideburg
+0x0076|Weideburg
+0x0077|Weideburg
+0x0078|Weideburg
+0x0079|Weideburg
+0x007a|Weideburg
+0x007b|Schleiede
+0x007c|Schleiede-Arena
+0x007d|Schleiede
+0x007e|Schleiede
+0x007f|Schleiede
+0x0080|Schleiede
+0x0081|Schleiede
+0x0082|Schleiede
+0x0083|Schleiede
+0x0084|Schleiede
+0x0085|Schleiede
+0x0086|Schleiede
+0x0087|Schleiede
+0x0088|Schleiede
+0x0089|Schleiede
+0x008a|Schleiede
+0x008b|Schleiede
+0x008c|Schleiede
+0x008d|Schleiede
+0x008e|Sonnewik
+0x008f|Sonnewik
+0x0090|Sonnewik-Arena
+0x0091|Sonnewik-Arena
+0x0092|Sonnewik-Arena
+0x0093|Sonnewik
+0x0094|Sonnewik
+0x0095|Sonnewik
+0x0096|Sonnewik
+0x0097|Sonnewik
+0x0098|Sonnewik
+0x0099|Sonnewik
+0x009a|Sonnewik
+0x009b|Sonnewik
+0x009c|Sonnewik
+0x009d|Sonnewik
+0x009e|Sonnewik
+0x009f|Blizzach
+0x00a0|Blizzach
+0x00a1|Blizzach-Arena
+0x00a2|Blizzach
+0x00a3|Blizzach
+0x00a4|Blizzach
+0x00a5|Blizzach
+0x00a6|Blizzach
+0x00a7|Pokémon-Liga
+0x00a8|Pokémon-Liga
+0x00a9|Pokémon-Liga
+0x00aa|Pokémon-Liga
+0x00ab|Pokémon-Liga
+0x00ac|Pokémon-Liga
+0x00ad|Pokémon-Liga
+0x00ae|Pokémon-Liga
+0x00af|Pokémon-Liga
+0x00b0|Pokémon-Liga
+0x00b1|Pokémon-Liga
+0x00b2|Pokémon-Liga
+0x00b3|Pokémon-Liga
+0x00b4|Pokémon-Liga
+0x00b5|Pokémon-Liga
+0x00b6|Pokémon-Liga
+0x00b7|Pokémon-Liga
+0x00b8|Pokémon-Liga
+0x00b9|Pokémon-Liga
+0x00ba|Kampfareal
+0x00bb|Kampfareal
+0x00bc|Kampfareal
+0x00bd|Kampfareal
+0x00be|Kampfareal
+0x00bf|Kampfareal
+0x00c0|Kampfareal
+0x00c1|Kampfareal
+0x00c2|Kampfareal
+0x00c3|Erzelingen-Mine
+0x00c4|Erzelingen-Mine
+0x00c5|Windkraftwerk
+0x00c6|Windkraftwerk
+0x00c7|Ewigwald
+0x00c8|Ewigwald
+0x00c9|Feurio-Hütte
+0x00ca|Feurio-Hütte
+0x00cb|Kraterberg
+0x00cc|Kraterberg
+0x00cd|Kraterberg
+0x00ce|Kraterberg
+0x00cf|Kraterberg
+0x00d0|Kraterberg
+0x00d1|Kraterberg
+0x00d2|Kraterberg
+0x00d3|Kraterberg
+0x00d4|Kraterberg
+0x00d5|Kraterberg
+0x00d6|Kraterberg
+0x00d7|Kraterberg
+0x00d8|Speersäule
+0x00d9|Speersäule
+0x00da|Halle des Beginns
+0x00db|Großmoor
+0x00dc|Großmoor
+0x00dd|Großmoor
+0x00de|Großmoor
+0x00df|Großmoor
+0x00e0|Großmoor
+0x00e1|Trostu-Ruinen
+0x00e2|Trostu-Ruinen
+0x00e3|Trostu-Ruinen
+0x00e4|Trostu-Ruinen
+0x00e5|Trostu-Ruinen
+0x00e6|Trostu-Ruinen
+0x00e7|Trostu-Ruinen
+0x00e8|Trostu-Ruinen
+0x00e9|Trostu-Ruinen
+0x00ea|Trostu-Ruinen
+0x00eb|Trostu-Ruinen
+0x00ec|Trostu-Ruinen
+0x00ed|Trostu-Ruinen
+0x00ee|Trostu-Ruinen
+0x00ef|Trostu-Ruinen
+0x00f0|Trostu-Ruinen
+0x00f1|Trostu-Ruinen
+0x00f2|Trostu-Ruinen
+0x00f3|Trostu-Ruinen
+0x00f4|Siegesstraße
+0x00f5|Siegesstraße
+0x00f6|Siegesstraße
+0x00f7|Siegesstraße
+0x00f8|Siegesstraße
+0x00f9|Siegesstraße
+0x00fa|Hamanasu-Park
+0x00fb|Platz der Treue
+0x00fc|Verwüsteter Pfad
+0x00fd|Auen von Flori
+0x00fe|Auen von Flori
+0x00ff|Erzelingen-Tor
+0x0100|Erzelingen-Tor
+0x0101|Vollmondinsel
+0x0102|Vollmondinsel
+0x0103|Kahlberg
+0x0104|Kahlberg
+0x0105|Kahlberg
+0x0106|Kahlberg
+0x0107|Scheidequelle
+0x0108|Höhle der Umkehr
+0x0109|Höhle der Umkehr
+0x010a|Höhle der Umkehr
+0x010b|Höhle der Umkehr
+0x010c|Höhle der Umkehr
+0x010d|Höhle der Umkehr
+0x010e|Höhle der Umkehr
+0x010f|Höhle der Umkehr
+0x0110|Höhle der Umkehr
+0x0111|Höhle der Umkehr
+0x0112|Höhle der Umkehr
+0x0113|Höhle der Umkehr
+0x0114|Höhle der Umkehr
+0x0115|Höhle der Umkehr
+0x0116|Höhle der Umkehr
+0x0117|Höhle der Umkehr
+0x0118|Höhle der Umkehr
+0x0119|Höhle der Umkehr
+0x011a|Höhle der Umkehr
+0x011b|Höhle der Umkehr
+0x011c|Höhle der Umkehr
+0x011d|Blumenparadies
+0x011e|Blizzach-Tempel
+0x011f|Blizzach-Tempel
+0x0120|Blizzach-Tempel
+0x0121|Blizzach-Tempel
+0x0122|Blizzach-Tempel
+0x0123|Blizzach-Tempel
+0x0124|Bizarre Höhle
+0x0125|Bizarre Höhle
+0x0126|Maniac-Höhle
+0x0127|Maniac-Höhle
+0x0128|Maniac-Tunnel
+0x0129|Ziergarten
+0x012a|Eiseninsel
+0x012b|Eiseninsel
+0x012c|Eiseninsel
+0x012d|Eiseninsel
+0x012e|Eiseninsel
+0x012f|Eiseninsel
+0x0130|Eiseninsel
+0x0131|Eiseninsel
+0x0132|Alte Villa
+0x0133|Alte Villa
+0x0134|Alte Villa
+0x0135|Alte Villa
+0x0136|Alte Villa
+0x0137|Alte Villa
+0x0138|Alte Villa
+0x0139|Alte Villa
+0x013a|Alte Villa
+0x013b|Galaktik-Zentrale
+0x013c|Galaktik-Zentrale
+0x013d|Galaktik-Zentrale
+0x013e|Galaktik-Zentrale
+0x013f|Galaktik-Zentrale
+0x0140|Galaktik-Zentrale
+0x0141|Galaktik-Zentrale
+0x0142|Galaktik-Zentrale
+0x0143|See der Wahrheit
+0x0144|See der Wahrheit
+0x0145|See der Wahrheit (Wahrheitsgrotte)
+0x0146|See der Kühnheit
+0x0147|See der Kühnheit
+0x0148|See der Kühnheit (Kühnheitsgrotte)
+0x0149|See der Stärke
+0x014a|See der Stärke
+0x014b|See der Stärke (Stärkegrotte)
+0x014c|Neumondinsel
+0x014d|Neumondinsel
+0x014e|Duellpark
+0x014f|Duellpark
+0x0150|Duellpark
+0x0151|Duellpark
+0x0152|Duellpark
+0x0153|Duellturm
+0x0154|Duellturm
+0x0155|Duellturm
+0x0156|Duellturm
+0x0157|Duellturm
+0x0158|Duellturm
+0x0159|Mysteriöser Ort
+0x015a|Wahrheitsufer
+0x015b|Kühnheitsufer
+0x015c|Kühnheitsufer
+0x015d|Kühnheitsufer
+0x015e|Kühnheitsufer
+0x015f|Stärkeufer
+0x0160|Quellenpfad
+0x0161|Mysteriöser Ort
+0x0162|Route 201
+0x0163|Route 202
+0x0164|Route 203
+0x0165|Route 204
+0x0166|Route 204
+0x0167|Route 205
+0x0168|Route 205
+0x0169|Route 205
+0x016a|Route 206
+0x016b|Route 206
+0x016c|Route 207
+0x016d|Route 208
+0x016e|Route 208
+0x016f|Route 209
+0x0170|Route 209
+0x0171|Route 209
+0x0172|Route 209
+0x0173|Route 209
+0x0174|Route 209
+0x0175|Route 210
+0x0176|Route 210
+0x0177|Route 210
+0x0178|Route 210
+0x0179|Route 211
+0x017a|Route 211
+0x017b|Route 212
+0x017c|Route 212
+0x017d|Route 212
+0x017e|Route 212
+0x017f|Route 212
+0x0180|Route 212
+0x0181|Route 213
+0x0182|Route 213
+0x0183|Route 213
+0x0184|Route 213
+0x0185|Route 213
+0x0186|Route 213
+0x0187|Route 213
+0x0188|Route 214
+0x0189|Route 214
+0x018a|Route 215
+0x018b|Route 216
+0x018c|Route 216
+0x018d|Route 217
+0x018e|Route 217
+0x018f|Route 217
+0x0190|Route 218
+0x0191|Route 218
+0x0192|Route 218
+0x0193|Route 219
+0x0194|Route 221
+0x0195|Route 221
+0x0196|Route 221
+0x0197|Route 222
+0x0198|Route 222
+0x0199|Route 222
+0x019a|Route 222
+0x019b|Route 224
+0x019c|Route 225
+0x019d|Route 225
+0x019e|Route 227
+0x019f|Route 227
+0x01a0|Route 228
+0x01a1|Route 228
+0x01a2|Route 228
+0x01a3|Route 228
+0x01a4|Route 229
+0x01a5|Mysteriöser Ort
+0x01a6|Zweiblattdorf
+0x01a7|Zweiblattdorf
+0x01a8|Zweiblattdorf
+0x01a9|Zweiblattdorf
+0x01aa|Zweiblattdorf
+0x01ab|Zweiblattdorf
+0x01ac|Zweiblattdorf
+0x01ad|Sandgemme
+0x01ae|Sandgemme
+0x01af|Sandgemme
+0x01b0|Sandgemme
+0x01b1|Sandgemme
+0x01b2|Sandgemme
+0x01b3|Sandgemme
+0x01b4|Sandgemme
+0x01b5|Sandgemme
+0x01b6|Flori
+0x01b7|Flori
+0x01b8|Flori
+0x01b9|Flori
+0x01ba|Flori
+0x01bb|Flori
+0x01bc|Flori
+0x01bd|Flori
+0x01be|Trostu
+0x01bf|Trostu
+0x01c0|Trostu
+0x01c1|Trostu
+0x01c2|Trostu
+0x01c3|Trostu
+0x01c4|Trostu
+0x01c5|Trostu
+0x01c6|Trostu
+0x01c7|Trostu
+0x01c8|Elyses
+0x01c9|Elyses
+0x01ca|Elyses
+0x01cb|Elyses
+0x01cc|Elyses
+0x01cd|Elyses
+0x01ce|Elyses
+0x01cf|Elyses
+0x01d0|Elyses
+0x01d1|Überlebensareal
+0x01d2|Überlebensareal
+0x01d3|Überlebensareal
+0x01d4|Überlebensareal
+0x01d5|Überlebensareal
+0x01d6|Überlebensareal
+0x01d7|Überlebensareal
+0x01d8|Überlebensareal
+0x01d9|Erholungsareal
+0x01da|Erholungsareal
+0x01db|Erholungsareal
+0x01dc|Erholungsareal
+0x01dd|Erholungsareal
+0x01de|Erholungsareal
+0x01df|Erholungsareal
+0x01e0|Erholungsareal
+0x01e1|Erholungsareal
+0x01e2|Erholungsareal
+0x01e3|Mysteriöser Ort
+0x01e4|Mysteriöser Ort
+0x01e5|Route 220
+0x01e6|Route 223
+0x01e7|Route 226
+0x01e8|Route 226
+0x01e9|Route 230
+0x01ea|Buhnenpfad
+0x01eb|Mysteriöser Ort
+0x01ec|Mysteriöser Ort
+0x01ed|Mysteriöser Ort
+0x01ee|Ewigenau
+0x01ef|Hamanasu-Park
+0x01f0|Hamanasu-Park (Weisungskammer)
+0x01f1|Hamanasu-Park (Kanto-Kammer)
+0x01f2|Hamanasu-Park (Johto-Kammer)
+0x01f3|Hamanasu-Park (Gefühlskammer)
+0x01f4|Hamanasu-Park (Kontinentkammer)
+0x01f5|Hamanasu-Park (Meereskammer)
+0x01f6|Hamanasu-Park (Himmelskammer)
+0x01f7|Hamanasu-Park (Regenbogenkammer)
+0x01f8|Hamanasu-Park (Sturmkammer)
+0x01f9|Hamanasu-Park (Genkammer)
+0x01fa|Hamanasu-Park (Makelloser Ort)
+0x01fb|Hamanasu-Park (Rätselhafter Ort)
+0x01fc|Untergrundhöhlen
+0x01fd|Untergrundhöhlen
+0x01fe|Untergrundhöhlen
+0x01ff|Untergrundhöhlen
+0x0200|Untergrundhöhlen
+0x0201|Untergrundhöhlen
+0x0202|Untergrundhöhlen
+0x0203|Untergrundhöhlen
+0x0204|Untergrundhöhlen
+0x0205|Untergrundhöhlen
+0x0206|Untergrundhöhlen
+0x0207|Untergrundhöhlen
+0x0208|Untergrundhöhlen
+0x0209|Untergrundhöhlen
+0x020a|Untergrundhöhlen
+0x020b|Untergrundhöhlen
+0x020c|Untergrundhöhlen
+0x020d|Untergrundhöhlen
+0x020e|Untergrundhöhlen
+0x020f|Untergrundhöhlen
+0x0210|Untergrundhöhlen
+0x0211|Untergrundhöhlen
+0x0212|Untergrundhöhlen
+0x0213|Untergrundhöhlen
+0x0214|Untergrundhöhlen
+0x0215|Untergrundhöhlen
+0x0216|Untergrundhöhlen
+0x0217|Untergrundhöhlen
+0x0218|Untergrundhöhlen
+0x0219|Untergrundhöhlen
+0x021a|Untergrundhöhlen
+0x021b|Untergrundhöhlen
+0x021c|Untergrundhöhlen
+0x021d|Untergrundhöhlen
+0x021e|Untergrundhöhlen
+0x021f|Untergrundhöhlen (Großgrotte)
+0x0220|Untergrundhöhlen (Wiesengrotte)
+0x0221|Untergrundhöhlen (Flussufergrotte)
+0x0222|Untergrundhöhlen (Großgrotte)
+0x0223|Untergrundhöhlen (Großgrotte)
+0x0224|Untergrundhöhlen (Moorgrotte)
+0x0225|Untergrundhöhlen (Wiesengrotte)
+0x0226|Untergrundhöhlen (Wasserlaufgrotte)
+0x0227|Untergrundhöhlen (Großgrotte)
+0x0228|Untergrundhöhlen (Wasserlaufgrotte)
+0x0229|Untergrundhöhlen (Wasserlaufgrotte)
+0x022a|Untergrundhöhlen (Großgrotte)
+0x022b|Untergrundhöhlen (Großgrotte)
+0x022c|Untergrundhöhlen (Felsengrotte)
+0x022d|Untergrundhöhlen (Magmagrotte)
+0x022e|Untergrundhöhlen (Großgrotte)
+0x022f|Untergrundhöhlen (Felsengrotte)
+0x0230|Untergrundhöhlen (Magmagrotte)
+0x0231|Untergrundhöhlen (Glitzergrotte)
+0x0232|Untergrundhöhlen (Glühsandgrotte)
+0x0233|Untergrundhöhlen (Großgrotte)
+0x0234|Untergrundhöhlen (Großgrotte)
+0x0235|Untergrundhöhlen (Felsengrotte)
+0x0236|Untergrundhöhlen (Großgrotte)
+0x0237|Untergrundhöhlen (Wiesengrotte)
+0x0238|Untergrundhöhlen (Flussufergrotte)
+0x0239|Untergrundhöhlen (Großgrotte)
+0x023a|Untergrundhöhlen (Wiesengrotte)
+0x023b|Untergrundhöhlen (Wasserlaufgrotte)
+0x023c|Untergrundhöhlen (Moorgrotte)
+0x023d|Untergrundhöhlen (Großgrotte)
+0x023e|Untergrundhöhlen (Großgrotte)
+0x023f|Untergrundhöhlen (Großgrotte)
+0x0240|Untergrundhöhlen (Moorgrotte)
+0x0241|Untergrundhöhlen (Flussufergrotte)
+0x0242|Untergrundhöhlen (Eiszapfengrotte)
+0x0243|Untergrundhöhlen (Glitzergrotte)
+0x0244|Untergrundhöhlen (Glitzergrotte)
+0x0245|Untergrundhöhlen (Eiszapfengrotte)
+0x0246|Untergrundhöhlen (Eiszapfengrotte)
+0x0247|Untergrundhöhlen (Eiszapfengrotte)
+0x0248|Untergrundhöhlen (Großgrotte)
+0x0249|Untergrundhöhlen (Großgrotte)
+0x024a|Untergrundhöhlen (Schneesturmgrotte)
+0x024b|Untergrundhöhlen (Schneesturmgrotte)
+0x024c|Untergrundhöhlen (Schneesturmgrotte)
+0x024d|Untergrundhöhlen (Schneesturmgrotte)
+0x024e|Untergrundhöhlen (Moorgrotte)
+0x024f|Untergrundhöhlen (Wasserlaufgrotte)
+0x0250|Untergrundhöhlen (Großgrotte)
+0x0251|Untergrundhöhlen (Moorgrotte)
+0x0252|Untergrundhöhlen (Großgrotte)
+0x0253|Untergrundhöhlen (Wasserlaufgrotte)
+0x0254|Untergrundhöhlen (Felsengrotte)
+0x0255|Untergrundhöhlen (Moorgrotte)
+0x0256|Untergrundhöhlen (Großgrotte)
+0x0257|Untergrundhöhlen (Glühsandgrotte)
+0x0258|Untergrundhöhlen (Magmagrotte)
+0x0259|Untergrundhöhlen (Glitzergrotte)
+0x025a|Untergrundhöhlen (Magmagrotte)
+0x025b|Untergrundhöhlen (Felsengrotte)
+0x025c|Untergrundhöhlen (Wasserlaufgrotte)
+0x025d|Untergrundhöhlen (Wiesengrotte)
+0x025e|Untergrundhöhlen (Großgrotte)
+0x025f|Untergrundhöhlen (Moorgrotte)
+0x0260|Untergrundhöhlen (Felsengrotte)
+0x0261|Untergrundhöhlen (Glühsandgrotte)
+0x0262|Untergrundhöhlen (Magmagrotte)
+0x0263|Untergrundhöhlen (Spiegelseegrotte)
+0x0264|Untergrundhöhlen (Klippengrotte)
+0x0265|Untergrundhöhlen (Lichtstrahlgrotte)
+0x0266|Untergrundhöhlen (Funkelsterngrotte)
+0x0267|Untergrundhöhlen (Gletschergrotte)
+0x0268|Untergrundhöhlen (Sickersumpfgrotte)
+0x0269|Untergrundhöhlen (Tornupto-Grotte)
+0x026a|Halle des Beginns
+0x026b|Hamanasu-Park (Zerrkammer)
+0x026c|Untergrundhöhlen (Geheimbasis)
+0x026d|Untergrundhöhlen (Geheimbasis)
+0x026e|Untergrundhöhlen (Geheimbasis)
+0x026f|Untergrundhöhlen (Geheimbasis)
+0x0270|Hamanasu-Park (Zerrkammer)
+0x0271|Hamanasu-Park
+0x0272|Jubelstadt
+0x0273|Untergrundhöhlen (Geheimbasis)
+0x0274|Untergrundhöhlen (Geheimbasis)
+0x0275|Untergrundhöhlen (Geheimbasis)
+0x0276|Untergrundhöhlen (Geheimbasis)
+0x0277|Untergrundhöhlen (Geheimbasis)
+0x0278|Untergrundhöhlen (Geheimbasis)
+0x0279|Untergrundhöhlen (Geheimbasis)
+0x027a|Untergrundhöhlen (Geheimbasis)
+0x027b|Untergrundhöhlen (Geheimbasis)
+0x027c|Untergrundhöhlen (Geheimbasis)
+0x027d|Untergrundhöhlen (Geheimbasis)
+0x027e|Untergrundhöhlen (Geheimbasis)
+0x027f|Untergrundhöhlen (Geheimbasis)
+0x0280|Untergrundhöhlen (Geheimbasis)
+0x0281|Untergrundhöhlen (Geheimbasis)
+0x0282|Untergrundhöhlen (Geheimbasis)
+0x0283|Untergrundhöhlen (Geheimbasis)
+0x0284|Untergrundhöhlen (Geheimbasis)
+0x0285|Untergrundhöhlen (Geheimbasis)
+0x0286|Untergrundhöhlen (Geheimbasis)
+0x0287|Untergrundhöhlen (Geheimbasis)
+0x0288|Hamanasu-Park (Weisungskammer)
+0x0289|Hamanasu-Park (Kanto-Kammer)
+0x028a|Hamanasu-Park (Johto-Kammer)
+0x028b|Hamanasu-Park (Gefühlskammer)
+0x028c|Hamanasu-Park (Kontinentkammer)
+0x028d|Hamanasu-Park (Meereskammer)
+0x028e|Hamanasu-Park (Himmelskammer)
+0x028f|Hamanasu-Park (Regenbogenkammer)
+0x0290|Hamanasu-Park (Sturmkammer)
+0x0291|Hamanasu-Park (Genkammer)
+0x7531|Link-Tausch
+0x7532|Link-Tausch
+0x7533|Kanto-Region
+0x7534|Johto-Region
+0x7535|Hoenn-Region
+0x7536|Sinnoh-Region
+0x7537|Fernes Land
+0x7538|－－－－－－－－－－
+0x7539|Einall-Region
+0x753a|Kalos-Region
+0x753b|Pokémon-Link
+0x753c|Pokémon GO
+0x753d|Kanto-Region
+0x753e|Hoenn-Region
+0x753f|Alola-Region
+0x7540|Pokémon-Resort
+0x7541|Johto-Region
+0x7542|Pokémon HOME
+0x7543|Kanto-Region
+0x7544|Galar-Region
+0x7546|Sinnoh-Region
+0x9c41|Netter Ort
+0x9c42|Ferner Ort
+0x9c43|Pokémon-Film
+0x9c45|Pokémon-Film 2019
+0x9c46|Pokémon-Film 2020
+0x9c47|Pokémon-Film 2021
+0x9c48|Pokémon-Film 2022
+0x9c49|Pokémon-Film 2023
+0x9c4a|Pokémon-Film 2024
+0x9c4b|Pokémon-Zeichentrickserie
+0x9c4c|Pokémon Center
+0x9c4d|Pokémon Center Tohoku
+0x9c4e|WCS
+0x9c50|WCS 2019
+0x9c51|WCS 2020
+0x9c52|WCS 2021
+0x9c53|WCS 2022
+0x9c54|WCS 2023
+0x9c55|WCS 2024
+0x9c56|Worlds
+0x9c58|Worlds 2019
+0x9c59|Worlds 2020
+0x9c5a|Worlds 2021
+0x9c5b|Worlds 2022
+0x9c5c|Worlds 2023
+0x9c5d|Worlds 2024
+0x9c5e|VGE
+0x9c60|VGE 2019
+0x9c61|VGE 2020
+0x9c62|VGE 2021
+0x9c63|VGE 2022
+0x9c64|VGE 2023
+0x9c65|VGE 2024
+0x9c66|Pokémon-Veranstaltung
+0x9c67|Kampfturnier
+0x9c68|Videospiel-Veranstaltung
+0x9c69|Pokémon Daisuki Club
+0x9c6a|Pokémon-TV-Programm
+0x9c6b|Konzert
+0x9c6c|Online-Geschenk
+0x9c6d|PGL
+0x9c6f|Pokémon-Veranstaltung 2019
+0x9c70|Pokémon-Veranstaltung 2020
+0x9c71|Pokémon-Veranstaltung 2021
+0x9c72|Pokémon-Veranstaltung 2022
+0x9c73|Pokémon-Veranstaltung 2023
+0x9c74|Pokémon-Veranstaltung 2024
+0x9c75|Pokémon-Veranstaltung
+0x9c77|Pokémon-Veranstaltung 2019
+0x9c78|Pokémon-Veranstaltung 2020
+0x9c79|Pokémon-Veranstaltung 2021
+0x9c7a|Pokémon-Veranstaltung 2022
+0x9c7b|Pokémon-Veranstaltung 2023
+0x9c7c|Pokémon-Veranstaltung 2024
+0x9c7d|PokéPark
+0x9c7f|PokéPark 2019
+0x9c80|PokéPark 2020
+0x9c81|PokéPark 2021
+0x9c82|PokéPark 2022
+0x9c83|PokéPark 2023
+0x9c84|PokéPark 2024
+0x9c85|Veranstaltung
+0x9c86|GAME FREAK
+0x9c87|Stadion
+0x9c88|VGC
+0x9c8a|VGC 2019
+0x9c8b|VGC 2020
+0x9c8c|VGC 2021
+0x9c8d|VGC 2022
+0x9c8e|VGC 2023
+0x9c8f|VGC 2024
+0x9c90|Virtual Console
+0x9c91|Pokémon GO
+0x9c92|Pokémon Bank
+0x9c93|Pokémon-Geschäft
+0x9c94|Demoversion
+0x9c95|Pokéball Plus
+0x9c96|Pokémon HOME
+0xea61|Ferne Person
+0xea62|Hortleiterinnen
+0xea63|Schatzsucher
+0xea64|Dame der Heißen Quellen
+0xea65|Urs
+0xea66|Hort-Pärchen
+0xea67|Reisender
+0xea6a|Hort-Pärchen

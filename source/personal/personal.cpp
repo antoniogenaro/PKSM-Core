@@ -35,6 +35,7 @@
 #include "personal7b.h"
 #include "personal8.h"
 #include "personal8a.h"
+#include "personal8b.h"
 #include "personal9.h"
 #include "personal9a.h"
 #include "utils/endian.hpp"
@@ -113,6 +114,12 @@ namespace
     const u8* personal8a()
     {
         static auto personal = READ_PERSONAL("personal8a", personal8a_size);
+        return personal.get();
+    }
+
+    const u8* personal8b()
+    {
+        static auto personal = READ_PERSONAL("personal8b", personal8b_size);
         return personal.get();
     }
 
@@ -713,6 +720,92 @@ namespace pksm
         u8 formCount(u16 formSpecies)
         {
             return personal8a()[formSpecies * personal8a_entrysize + 0x20];
+        }
+    }
+
+    namespace PersonalBDSP
+    {
+        u8 baseHP(u16 formSpecies)
+        {
+            return personal8b()[formSpecies * personal8b_entrysize + 0x00];
+        }
+
+        u8 baseAtk(u16 formSpecies)
+        {
+            return personal8b()[formSpecies * personal8b_entrysize + 0x01];
+        }
+
+        u8 baseDef(u16 formSpecies)
+        {
+            return personal8b()[formSpecies * personal8b_entrysize + 0x02];
+        }
+
+        u8 baseSpe(u16 formSpecies)
+        {
+            return personal8b()[formSpecies * personal8b_entrysize + 0x03];
+        }
+
+        u8 baseSpa(u16 formSpecies)
+        {
+            return personal8b()[formSpecies * personal8b_entrysize + 0x04];
+        }
+
+        u8 baseSpd(u16 formSpecies)
+        {
+            return personal8b()[formSpecies * personal8b_entrysize + 0x05];
+        }
+
+        Type type1(u16 formSpecies)
+        {
+            return Type{personal8b()[formSpecies * personal8b_entrysize + 0x06]};
+        }
+
+        Type type2(u16 formSpecies)
+        {
+            return Type{personal8b()[formSpecies * personal8b_entrysize + 0x07]};
+        }
+
+        u8 gender(u16 formSpecies)
+        {
+            return personal8b()[formSpecies * personal8b_entrysize + 0x12];
+        }
+
+        u8 baseFriendship(u16 formSpecies)
+        {
+            return personal8b()[formSpecies * personal8b_entrysize + 0x14];
+        }
+
+        u8 expType(u16 formSpecies)
+        {
+            return personal8b()[formSpecies * personal8b_entrysize + 0x15];
+        }
+
+        Ability ability(u16 formSpecies, u8 n)
+        {
+            return Ability{LittleEndian::convertTo<u16>(
+                personal8b() + formSpecies * personal8b_entrysize + 0x18 + 2 * n)};
+        }
+
+        u16 formStatIndex(u16 formSpecies)
+        {
+            return LittleEndian::convertTo<u16>(
+                personal8b() + formSpecies * personal8b_entrysize + 0x1E);
+        }
+
+        u8 formCount(u16 formSpecies)
+        {
+            return personal8b()[formSpecies * personal8b_entrysize + 0x20];
+        }
+
+        u16 pokedexIndex(u16 formSpecies)
+        {
+            return LittleEndian::convertTo<u16>(
+                personal8b() + formSpecies * personal8b_entrysize + 0x42);
+        }
+
+        bool isPresentInGame(u16 formSpecies)
+        {
+            return (personal8b()[formSpecies * personal8b_entrysize + 0x21] >> 6) & 1;
         }
     }
 

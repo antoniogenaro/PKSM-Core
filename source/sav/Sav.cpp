@@ -47,6 +47,7 @@
 #include "sav/SavHGSS.hpp"
 #include "sav/SavLGPE.hpp"
 #include "sav/SavORAS.hpp"
+#include "sav/SavBS.hpp"
 #include "sav/SavPLA.hpp"
 #include "sav/SavPT.hpp"
 #include "sav/SavRS.hpp"
@@ -115,6 +116,15 @@ namespace pksm
                 if (pksm::crypto::swsh::verify(dt, length))
                 {
                     return std::make_unique<SavPLA>(dt, length);
+                }
+                return nullptr;
+            case SavBS::SIZE_G8BDSP_0:
+            case SavBS::SIZE_G8BDSP_1:
+            case SavBS::SIZE_G8BDSP_2:
+            case SavBS::SIZE_G8BDSP_3:
+                if (SavBS::isBDSP(dt, length))
+                {
+                    return std::make_unique<SavBS>(dt, length);
                 }
                 return nullptr;
             // SV base game sizes

@@ -73,6 +73,9 @@ namespace pksm::crypto
 
     [[nodiscard]] std::array<u8, 32> sha256(std::span<const u8> data);
 
+    // RFC 1321 MD5, which Brilliant Diamond and Shining Pearl sign their saves with.
+    [[nodiscard]] std::array<u8, 16> md5(std::span<const u8> data);
+
     class SHA1
     {
     private:

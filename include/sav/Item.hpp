@@ -45,6 +45,7 @@ namespace pksm
     class Item7b;
     class Item8;
     class Item8a;
+    class Item8b;
     class Item9a;
 
     class Item
@@ -657,6 +658,82 @@ namespace pksm
         using Item::operator Item7b;
         [[nodiscard]] operator Item8(void) const override;
         using Item::operator Item9a;
+    };
+
+    // Brilliant Diamond and Shining Pearl keep one 16-byte record per item number: count (u32),
+    // 0 while the item is still new (u32), 1 when it is a favourite (u32), and its place in its
+    // pouch (u16, 0 while the player has never had it).
+    class Item8b : public Item
+    {
+    private:
+        std::array<u8, 16> itemData;
+        u16 itemId = 0;
+
+    public:
+        Item8b(const u8* data = nullptr, u16 id = 0) : itemId(id)
+        {
+            if (data)
+            {
+                std::copy(data, data + 16, itemData.data());
+            }
+            else
+            {
+                itemData = {};
+            }
+        }
+
+        using Item::operator Item1;
+        using Item::operator Item2;
+        using Item::operator Item3;
+        using Item::operator Item4;
+        using Item::operator Item5;
+        using Item::operator Item6;
+        using Item::operator Item7;
+        using Item::operator Item7b;
+        using Item::operator Item8;
+        using Item::operator Item9a;
+
+        [[nodiscard]] Generation generation(void) const override { return Generation::EIGHT; }
+
+        [[nodiscard]] u16 maxCount(void) const override { return 999; }
+
+        [[nodiscard]] u16 id(void) const override { return itemId; }
+
+        void id(u16 v) override { itemId = v; }
+
+        [[nodiscard]] u16 count(void) const override
+        {
+            return static_cast<u16>(
+                std::min(LittleEndian::convertTo<u32>(itemData.data()), u32(0xFFFF)));
+        }
+
+        void count(u16 v) override { LittleEndian::convertFrom<u32>(itemData.data(), u32(v)); }
+
+        [[nodiscard]] bool newFlag(void) const
+        {
+            return LittleEndian::convertTo<u32>(itemData.data() + 4) == 0;
+        }
+
+        void newFlag(bool v) { LittleEndian::convertFrom<u32>(itemData.data() + 4, v ? 0 : 1); }
+
+        [[nodiscard]] bool favoriteFlag(void) const
+        {
+            return LittleEndian::convertTo<u32>(itemData.data() + 8) == 1;
+        }
+
+        void favoriteFlag(bool v) { LittleEndian::convertFrom<u32>(itemData.data() + 8, v ? 1 : 0); }
+
+        [[nodiscard]] u16 sortOrder(void) const
+        {
+            return LittleEndian::convertTo<u16>(itemData.data() + 12);
+        }
+
+        void sortOrder(u16 v) { LittleEndian::convertFrom<u16>(itemData.data() + 12, v); }
+
+        [[nodiscard]] SmallVector<u8, 16> bytes(void) const override
+        {
+            return {std::span(itemData)};
+        }
     };
 
     class Item9a : public Item

@@ -9,11 +9,12 @@ The strings directory defaults to the one next to this script. It writes:
 - species.txt, moves.txt, abilities.txt and items.txt for every language but English, whose
   lists are kept by hand: one name a line, line N naming number N. PKHeX's lists hold the
   names of the latest games, up to Legends: Z-A.
-- locationsPLA.txt, locations9.txt and locationsZA.txt for every language: "0xNNNN|name"
-  lines with the met and egg locations of Legends: Arceus, Scarlet and Violet, and
-  Legends: Z-A. Numbers without a name are left out.
+- locationsBDSP.txt, locationsPLA.txt, locations9.txt and locationsZA.txt for every
+  language: "0xNNNN|name" lines with the met and egg locations of Brilliant Diamond and
+  Shining Pearl, Legends: Arceus, Scarlet and Violet, and Legends: Z-A. Numbers without a
+  name are left out.
 
-Files are written with CRLF line endings, like the rest of strings/.
+Files are written with LF line endings, like the rest of the repository.
 """
 
 import os
@@ -42,6 +43,10 @@ NAME_LISTS = [
 
 # The list in strings/, then PKHeX's files: (first number, file), with {0} for the language code.
 LOCATION_LISTS = [
+    ("locationsBDSP.txt", [(0, "locations/gen8b/text_bdsp_00000_{0}.txt"),
+                           (30000, "locations/gen8b/text_bdsp_30000_{0}.txt"),
+                           (40000, "locations/gen8b/text_bdsp_40000_{0}.txt"),
+                           (60000, "locations/gen8b/text_bdsp_60000_{0}.txt")]),
     ("locationsPLA.txt", [(0, "locations/gen8a/text_la_00000_{0}.txt"),
                           (30000, "locations/gen8a/text_la_30000_{0}.txt"),
                           (40000, "locations/gen8a/text_la_40000_{0}.txt"),
@@ -66,7 +71,7 @@ def read_lines(path):
 
 
 def write_text(path, text):
-    with open(path, "w", encoding="utf-8", newline="\r\n") as file:
+    with open(path, "w", encoding="utf-8", newline="\n") as file:
         file.write(text)
 
 

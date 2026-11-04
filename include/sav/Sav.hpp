@@ -68,6 +68,7 @@ namespace pksm
             LGPE,
             SWSH,
             PLA,
+            BDSP,
             SV,
             ZA,
             RS,

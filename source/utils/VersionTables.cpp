@@ -182,6 +182,114 @@ namespace
         0x3F,
     };
 
+    // BDSP (Gen 8b), from PKHeX MoveInfo8b
+    constexpr u8 DummiedMoves_BDSP[] = {
+        0x1C,
+        0x20,
+        0x00,
+        0x0C,
+        0x00,
+        0x02,
+        0x02,
+        0x00,
+        0x00,
+        0x00,
+        0x04,
+        0x00,
+        0x09,
+        0x00,
+        0xA1,
+        0x22,
+        0x19,
+        0x10,
+        0x26,
+        0xC0,
+        0x00,
+        0x0A,
+        0x00,
+        0x02,
+        0x02,
+        0x00,
+        0x00,
+        0x45,
+        0x10,
+        0x00,
+        0x00,
+        0x00,
+        0x00,
+        0x02,
+        0x04,
+        0x80,
+        0x26,
+        0x70,
+        0x00,
+        0x50,
+        0x91,
+        0x00,
+        0x00,
+        0x04,
+        0x60,
+        0x08,
+        0x20,
+        0x67,
+        0x04,
+        0x00,
+        0x00,
+        0x00,
+        0x00,
+        0x24,
+        0x00,
+        0x28,
+        0x00,
+        0x01,
+        0x04,
+        0x20,
+        0x22,
+        0x00,
+        0x04,
+        0x18,
+        0xD0,
+        0x81,
+        0xB8,
+        0xAA,
+        0xFF,
+        0xE7,
+        0x8B,
+        0x0E,
+        0x45,
+        0x98,
+        0x07,
+        0xCB,
+        0xE4,
+        0xE3,
+        0xFF,
+        0xFF,
+        0xFF,
+        0xFF,
+        0xFF,
+        0xA7,
+        0x74,
+        0xEB,
+        0xAF,
+        0xFF,
+        0xB7,
+        0xF7,
+        0xFF,
+        0xFF,
+        0xFF,
+        0xFF,
+        0xFF,
+        0xFF,
+        0xFF,
+        0xFE,
+        0x7F,
+        0xFF,
+        0xFF,
+        0xFF,
+        0xFF,
+        0x07,
+    };
+
     // PLA (Gen 8a)
     constexpr u8 DummiedMoves_PLA[] = {
         0x7E,
@@ -682,6 +790,41 @@ namespace pksm
             {
                 static const std::set<int> items =
                     std::invoke([]() { return create_set_consecutive<int>(0, 1607); });
+                return items;
+            }
+            case GameVersion::BD:
+            case GameVersion::SP:
+            {
+                static const std::set<int> items = {
+                    1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20, 21, 22,
+                    23, 24, 25, 26, 27, 28, 29, 30, 31, 32, 33, 34, 35, 36, 37, 38, 39, 40, 41, 42,
+                    43, 44, 45, 46, 47, 48, 49, 50, 51, 52, 53, 54, 55, 56, 57, 58, 59, 60, 61, 62,
+                    63, 72, 73, 74, 75, 76, 77, 78, 79, 80, 81, 82, 83, 84, 85, 86, 87, 88, 89, 90,
+                    91, 92, 93, 94, 99, 100, 101, 102, 103, 104, 105, 106, 107, 108, 109, 110, 111,
+                    112, 135, 136, 149, 150, 151, 152, 153, 154, 155, 156, 157, 158, 159, 160, 161,
+                    162, 163, 164, 165, 166, 167, 168, 169, 170, 171, 172, 173, 174, 175, 176, 177,
+                    178, 179, 180, 181, 182, 183, 184, 185, 186, 187, 188, 189, 190, 191, 192, 193,
+                    194, 195, 196, 197, 198, 199, 200, 201, 202, 203, 204, 205, 206, 207, 208, 209,
+                    210, 211, 212, 213, 214, 215, 217, 218, 219, 220, 221, 222, 223, 224, 225, 226,
+                    227, 228, 229, 230, 231, 232, 233, 234, 235, 236, 237, 238, 239, 240, 241, 242,
+                    243, 244, 245, 246, 247, 248, 249, 250, 251, 252, 253, 254, 255, 256, 257, 258,
+                    259, 260, 261, 262, 263, 264, 265, 266, 267, 268, 269, 270, 271, 272, 273, 274,
+                    275, 276, 277, 278, 279, 280, 281, 282, 283, 284, 285, 286, 287, 288, 289, 290,
+                    291, 292, 293, 294, 295, 296, 297, 298, 299, 300, 301, 302, 303, 304, 305, 306,
+                    307, 308, 309, 310, 311, 312, 313, 314, 315, 316, 317, 318, 319, 320, 321, 322,
+                    323, 324, 325, 326, 327, 328, 329, 330, 331, 332, 333, 334, 335, 336, 337, 338,
+                    339, 340, 341, 342, 343, 344, 345, 346, 347, 348, 349, 350, 351, 352, 353, 354,
+                    355, 356, 357, 358, 359, 360, 361, 362, 363, 364, 365, 366, 367, 368, 369, 370,
+                    371, 372, 373, 374, 375, 376, 377, 378, 379, 380, 381, 382, 383, 384, 385, 386,
+                    387, 388, 389, 390, 391, 392, 393, 394, 395, 396, 397, 398, 399, 400, 401, 402,
+                    403, 404, 405, 406, 407, 408, 409, 410, 411, 412, 413, 414, 415, 416, 417, 418,
+                    419, 420, 421, 422, 423, 424, 425, 426, 427, 428, 431, 432, 433, 438, 439, 440,
+                    443, 445, 446, 447, 448, 449, 450, 451, 452, 453, 454, 455, 459, 460, 461, 462,
+                    463, 464, 466, 467, 492, 493, 494, 495, 496, 497, 498, 499, 500, 537, 565, 566,
+                    567, 568, 569, 570, 576, 631, 632, 644, 645, 686, 795, 796, 849, 851, 1231,
+                    1232, 1233, 1234, 1235, 1236, 1237, 1238, 1239, 1240, 1241, 1242, 1243, 1244,
+                    1245, 1246, 1247, 1248, 1249, 1250, 1251, 1267, 1278, 1606, 1808, 1809, 1810,
+                    1811, 1812, 1813, 1814, 1815, 1816, 1817, 1818, 1819, 1820, 1821, 1822};
                 return items;
             }
             case GameVersion::PLA:
@@ -1645,6 +1788,17 @@ namespace pksm
                     });
                 return items;
             }
+            case GameVersion::BD:
+            case GameVersion::SP:
+            {
+                static const std::set<Move> items = std::invoke(
+                    []()
+                    {
+                        return create_set_excluding_dummied(
+                            Move::EerieSpell, DummiedMoves_BDSP, sizeof(DummiedMoves_BDSP));
+                    });
+                return items;
+            }
             case GameVersion::PLA:
             {
                 static const std::set<Move> items = std::invoke(
@@ -1724,6 +1878,8 @@ namespace pksm
             case GameVersion::Pt:
             case GameVersion::HG:
             case GameVersion::SS:
+            case GameVersion::BD:
+            case GameVersion::SP:
             {
                 static const std::set<Species> items = std::invoke(
                     []()
@@ -2193,6 +2349,8 @@ namespace pksm
                 return items;
             }
             case GameVersion::SW:
+            case GameVersion::BD:
+            case GameVersion::SP:
             case GameVersion::SH:
             case GameVersion::PLA:
             case GameVersion::SL:
@@ -2327,6 +2485,9 @@ namespace pksm
             case GameVersion::SW:
             case GameVersion::SH:
                 return 1607;
+            case GameVersion::BD:
+            case GameVersion::SP:
+                return 1822;
             case GameVersion::PLA:
                 return 1828;
             case GameVersion::SL:
@@ -2387,6 +2548,9 @@ namespace pksm
             case GameVersion::SW:
             case GameVersion::SH:
                 return Move::EerieSpell;
+            case GameVersion::BD:
+            case GameVersion::SP:
+                return Move::EerieSpell;
             case GameVersion::PLA:
                 return Move::TakeHeart;
             case GameVersion::SL:
@@ -2446,6 +2610,9 @@ namespace pksm
             case GameVersion::SW:
             case GameVersion::SH:
                 return Species::Calyrex;
+            case GameVersion::BD:
+            case GameVersion::SP:
+                return Species::Arceus;
             case GameVersion::PLA:
                 return Species::Enamorus;
             case GameVersion::SL:
@@ -2494,6 +2661,8 @@ namespace pksm
             case GameVersion::GP:
                 return Ability::Neuroforce;
             case GameVersion::SW:
+            case GameVersion::BD:
+            case GameVersion::SP:
             case GameVersion::SH:
             case GameVersion::PLA:
             case GameVersion::SL:
@@ -2630,6 +2799,9 @@ namespace pksm
             case GameVersion::SW:
             case GameVersion::SH:
                 return PersonalSWSH::formCount(u16(species));
+            case GameVersion::BD:
+            case GameVersion::SP:
+                return PersonalBDSP::formCount(u16(species));
             case GameVersion::PLA:
                 return PersonalPLA::formCount(u16(species));
             case GameVersion::SL:

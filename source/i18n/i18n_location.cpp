@@ -41,6 +41,7 @@ namespace i18n
         std::map<u16, std::string> locationsLGPE;
         std::map<u16, std::string> locations8;
         std::map<u16, std::string> locationsPLA;
+        std::map<u16, std::string> locationsBDSP;
         std::map<u16, std::string> locations9;
         std::map<u16, std::string> locationsZA;
 
@@ -55,6 +56,7 @@ namespace i18n
             locationsLGPE.clear();
             locations8.clear();
             locationsPLA.clear();
+            locationsBDSP.clear();
             locations9.clear();
             locationsZA.clear();
         }
@@ -97,6 +99,10 @@ namespace i18n
             {
                 return &locationsPLA;
             }
+            if (version == pksm::GameVersion::BD || version == pksm::GameVersion::SP)
+            {
+                return &locationsBDSP;
+            }
             if (version == pksm::GameVersion::ZA)
             {
                 return &locationsZA;
@@ -125,6 +131,7 @@ namespace i18n
         load(lang, "/locationsLGPE.txt", tmp.locationsLGPE);
         load(lang, "/locations8.txt", tmp.locations8);
         load(lang, "/locationsPLA.txt", tmp.locationsPLA);
+        load(lang, "/locationsBDSP.txt", tmp.locationsBDSP);
         load(lang, "/locations9.txt", tmp.locations9);
         load(lang, "/locationsZA.txt", tmp.locationsZA);
         locationss.insert_or_assign(lang, std::move(tmp));

@@ -120,6 +120,10 @@ namespace pksm
                 SH = 45,
                 /// Pokémon Legends: Arceus (NX)
                 PLA = 47,
+                /// Pokémon Brilliant Diamond (NX)
+                BD = 48,
+                /// Pokémon Shining Pearl (NX)
+                SP = 49,
                 /// Pokémon Scarlet (NX)
                 SL = 50,
                 /// Pokémon Violet (NX)
@@ -183,6 +187,8 @@ namespace pksm
                     case GameVersionEnum::SW:  // 44:
                     case GameVersionEnum::SH:  // 45:
                     case GameVersionEnum::PLA: // 47:
+                    case GameVersionEnum::BD:  // 48:
+                    case GameVersionEnum::SP:  // 49:
                         return Generation::EIGHT;
                     case GameVersionEnum::SL: // 50:
                     case GameVersionEnum::VL: // 51:
@@ -383,6 +389,10 @@ namespace pksm
         static constexpr internal::GameVersion_impl SH{EnumType::SH};
         /// Pokémon Legends: Arceus (NX)
         static constexpr internal::GameVersion_impl PLA{EnumType::PLA};
+        /// Pokémon Brilliant Diamond (NX)
+        static constexpr internal::GameVersion_impl BD{EnumType::BD};
+        /// Pokémon Shining Pearl (NX)
+        static constexpr internal::GameVersion_impl SP{EnumType::SP};
         /// Pokémon Scarlet (NX)
         static constexpr internal::GameVersion_impl SL{EnumType::SL};
         /// Pokémon Violet (NX)
