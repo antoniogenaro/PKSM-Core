@@ -1524,27 +1524,30 @@ namespace pksm
                     break;
             }
 
-            // PID
+            // PID. The card's shiny type: 0 never, 1 random, 2 always star, 3 always square,
+            // 4 fixed.
             switch (wa9.PIDType())
             {
-                case 0: // Fixed value
-                    pa9->PID(wa9.PID());
+                case 0: // Never shiny
+                    pa9->PID(pksm::randomNumber(0, 0xFFFFFFFF));
+                    pa9->shiny(false);
                     break;
                 case 1: // Random
                     pa9->PID(pksm::randomNumber(0, 0xFFFFFFFF));
                     break;
-                case 2: // Force shiny
-                case 3:
-                    pa9->PID(pksm::randomNumber(0, 0xFFFFFFFF));
-                    pa9->PID(((pa9->TID() ^ pa9->SID() ^ (pa9->PID() & 0xFFFF) ^ 1) << 16) |
-                             (pa9->PID() & 0xFFFF));
+                case 2: // Always star shiny
+                case 3: // Always square shiny
+                {
+                    // A star shiny's PID differs from the trainer's IDs by 1, a square's by 0.
+                    const u32 xorValue = wa9.PIDType() == 2 ? 1 : 0;
+                    const u32 low      = pksm::randomNumber(0, 0xFFFF);
+                    const u32 high     = (pa9->TID() ^ pa9->SID() ^ low ^ xorValue) & 0xFFFF;
+                    pa9->PID((high << 16) | low);
                     break;
-                case 4: // Fixed PID value
+                }
+                case 4: // Fixed value
+                default:
                     pa9->PID(wa9.PID());
-                    break;
-                default: // Never shiny
-                    pa9->PID(pksm::randomNumber(0, 0xFFFFFFFF));
-                    pa9->shiny(false);
                     break;
             }
 

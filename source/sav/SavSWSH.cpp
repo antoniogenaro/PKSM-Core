@@ -795,28 +795,30 @@ namespace pksm
                         break;
                 }
 
-                // PID
+                // PID. The card's shiny type: 0 never, 1 random, 2 always star, 3 always square,
+                // 4 fixed.
                 switch (wc8.PIDType())
                 {
-                    case 0: // Fixed value
-                        pk8->PID(wc8.PID());
+                    case 0: // Never shiny
+                        pk8->PID(pksm::randomNumber(0, 0xFFFFFFFF));
+                        pk8->shiny(false);
                         break;
                     case 1: // Random
                         pk8->PID(pksm::randomNumber(0, 0xFFFFFFFF));
                         break;
-                    case 5: // Always star shiny
-                        pk8->PID(pksm::randomNumber(0, 0xFFFFFFFF));
-                        pk8->PID(((pk8->TID() ^ pk8->SID() ^ (pk8->PID() & 0xFFFF) ^ 1) << 16) |
-                                 (pk8->PID() & 0xFFFF));
+                    case 2: // Always star shiny
+                    case 3: // Always square shiny
+                    {
+                        // A star shiny's PID differs from the trainer's IDs by 1, a square's by 0.
+                        const u32 xorValue = wc8.PIDType() == 2 ? 1 : 0;
+                        const u32 low      = pksm::randomNumber(0, 0xFFFF);
+                        const u32 high     = (pk8->TID() ^ pk8->SID() ^ low ^ xorValue) & 0xFFFF;
+                        pk8->PID((high << 16) | low);
                         break;
-                    case 6: // Always square shiny
-                        pk8->PID(pksm::randomNumber(0, 0xFFFFFFFF));
-                        pk8->PID(((pk8->TID() ^ pk8->SID() ^ (pk8->PID() & 0xFFFF) ^ 0) << 16) |
-                                 (pk8->PID() & 0xFFFF));
-                        break;
-                    case 3: // Never shiny
-                        pk8->PID(pksm::randomNumber(0, 0xFFFFFFFF));
-                        pk8->shiny(false);
+                    }
+                    case 4: // Fixed value
+                    default:
+                        pk8->PID(wc8.PID());
                         break;
                 }
 
