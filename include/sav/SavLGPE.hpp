@@ -29,6 +29,7 @@
 
 #include "personal/personal.hpp"
 #include "sav/Sav.hpp"
+#include <optional>
 
 namespace pksm
 {
@@ -69,7 +70,21 @@ namespace pksm
         void followPkm(u16 v);
         [[nodiscard]] u16 partyBoxSlot(u8 slot) const;
         void partyBoxSlot(u8 slot, u16 v);
+        // Moves every Pokémon to the front of the 1000-slot list, keeping the party and the
+        // follower on them.
         void compressBox(void);
+        // What a party place holds when it is empty.
+        static constexpr u16 NO_PARTY_SLOT = 1001;
+        // The party place (0-5) that holds the Pokémon at `boxSlot`, if any.
+        [[nodiscard]] std::optional<u8> partyPlace(u16 boxSlot) const;
+        // Keeps the party and the follower on their Pokémon after the Pokémon at slots `a` and
+        // `b` swapped places.
+        void slotsSwapped(u16 a, u16 b);
+        // Empties the party places whose slot holds no Pokémon, then closes the gaps.
+        void removeEmptyFromParty(void);
+        // Gets the list ready for the game: the Pokémon at its front, the party without gaps,
+        // and the count of stored Pokémon.
+        void packBoxes(void);
         void fixParty(void) override;
 
         [[nodiscard]] u16 TID(void) const override;

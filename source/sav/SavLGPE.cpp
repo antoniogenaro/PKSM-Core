@@ -149,7 +149,8 @@ namespace pksm
                         &data[emptyOffset], &data[emptyOffset + PB7::PARTY_LENGTH], emptyData);
                     std::copy(&data[offset], &data[offset + PB7::PARTY_LENGTH], &data[emptyOffset]);
                     std::copy(emptyData, emptyData + PB7::PARTY_LENGTH, &data[offset]);
-                    for (int j = 0; j < partyCount(); j++)
+                    // Every place: the party may have gaps.
+                    for (u8 j = 0; j < 6; j++)
                     {
                         if (partyBoxSlot(j) == i)
                         {
@@ -164,6 +165,54 @@ namespace pksm
                 }
             }
         }
+    }
+
+    std::optional<u8> SavLGPE::partyPlace(u16 boxSlot) const
+    {
+        for (u8 place = 0; place < 6; place++)
+        {
+            if (partyBoxSlot(place) == boxSlot)
+            {
+                return place;
+            }
+        }
+        return std::nullopt;
+    }
+
+    void SavLGPE::slotsSwapped(u16 a, u16 b)
+    {
+        const auto follow = [a, b](u16 at) { return at == a ? b : at == b ? a : at; };
+        for (u8 place = 0; place < 6; place++)
+        {
+            partyBoxSlot(place, follow(partyBoxSlot(place)));
+        }
+        followPkm(follow(followPkm()));
+    }
+
+    void SavLGPE::removeEmptyFromParty()
+    {
+        for (u8 place = 0; place < 6; place++)
+        {
+            const u16 at = partyBoxSlot(place);
+            if (at != NO_PARTY_SLOT &&
+                (at >= maxSlot() || !isPKM(&data[boxOffset(at / 30, at % 30)])))
+            {
+                partyBoxSlot(place, NO_PARTY_SLOT);
+            }
+        }
+        fixParty();
+    }
+
+    void SavLGPE::packBoxes()
+    {
+        fixParty();
+        compressBox();
+        u16 stored = 0;
+        while (stored < maxSlot() && isPKM(&data[boxOffset(stored / 30, stored % 30)]))
+        {
+            stored++;
+        }
+        boxedPkm(stored);
     }
 
     void SavLGPE::resign()
