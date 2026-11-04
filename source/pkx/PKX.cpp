@@ -41,6 +41,7 @@
 #include "utils/endian.hpp"
 #include "utils/random.hpp"
 #include "utils/VersionTables.hpp"
+#include "utils/TrainerID.hpp"
 
 namespace pksm
 {
@@ -465,84 +466,38 @@ namespace pksm
 
     u32 PKX::versionTID() const
     {
-        switch (version())
-        {
-            default:
-                return TID();
-            case GameVersion::SN:
-            case GameVersion::MN:
-            case GameVersion::US:
-            case GameVersion::UM:
-            case GameVersion::GP:
-            case GameVersion::GE:
-            case GameVersion::SW:
-            case GameVersion::SH:
-            case GameVersion::ZA:
-                return u32(SID() << 16 | TID()) % 1000000;
-        }
+        const Generation origin = Generation(version());
+        return TrainerID::sixDigits(origin) ? TrainerID::shownTID(origin, TID(), SID()) : TID();
     }
 
     u32 PKX::versionSID() const
     {
-        switch (version())
-        {
-            default:
-                return SID();
-            case GameVersion::SN:
-            case GameVersion::MN:
-            case GameVersion::US:
-            case GameVersion::UM:
-            case GameVersion::GP:
-            case GameVersion::GE:
-            case GameVersion::SW:
-            case GameVersion::SH:
-            case GameVersion::ZA:
-                return u32(SID() << 16 | TID()) / 1000000;
-        }
+        const Generation origin = Generation(version());
+        return TrainerID::sixDigits(origin) ? TrainerID::shownSID(origin, TID(), SID()) : SID();
     }
 
     u32 PKX::formatTID() const
     {
-        switch (generation())
-        {
-            case Generation::ONE:
-            case Generation::TWO:
-            case Generation::THREE:
-            case Generation::FOUR:
-            case Generation::FIVE:
-            case Generation::SIX:
-                return TID();
-            case Generation::SEVEN:
-            case Generation::LGPE:
-            case Generation::EIGHT:
-            case Generation::NINE:
-                return u32(SID() << 16 | TID()) % 1000000;
-            case Generation::UNUSED:
-                return 0;
-        }
-        return 0;
+        return TrainerID::shownTID(generation(), TID(), SID());
     }
 
     u32 PKX::formatSID() const
     {
-        switch (generation())
-        {
-            case Generation::THREE:
-            case Generation::FOUR:
-            case Generation::FIVE:
-            case Generation::SIX:
-                return SID();
-            case Generation::SEVEN:
-            case Generation::LGPE:
-            case Generation::EIGHT:
-            case Generation::NINE:
-                return u32(SID() << 16 | TID()) / 1000000;
-            case Generation::UNUSED:
-            case Generation::ONE:
-            case Generation::TWO:
-                return 0;
-        }
-        return 0;
+        return TrainerID::shownSID(generation(), TID(), SID());
+    }
+
+    void PKX::formatTID(u32 v)
+    {
+        const auto [tid, sid] = TrainerID::stored(generation(), v, formatSID());
+        TID(tid);
+        SID(sid);
+    }
+
+    void PKX::formatSID(u32 v)
+    {
+        const auto [tid, sid] = TrainerID::stored(generation(), formatTID(), v);
+        TID(tid);
+        SID(sid);
     }
 
     std::unique_ptr<PKX> PKX::getPKM(Generation gen, u8* data, size_t length, bool directAccess)

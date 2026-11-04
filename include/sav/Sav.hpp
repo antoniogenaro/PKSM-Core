@@ -189,8 +189,12 @@ namespace pksm
         // returns an empty span.
         [[nodiscard]] virtual std::span<const u8> otNameTrash(void) const { return {}; }
 
+        // The IDs as the game shows them; see utils/TrainerID.hpp. Setting one keeps the other
+        // as shown.
         [[nodiscard]] u32 displayTID(void) const;
         [[nodiscard]] u32 displaySID(void) const;
+        void displayTID(u32 v);
+        void displaySID(u32 v);
 
         [[nodiscard]] virtual u8 currentBox(void) const            = 0;
         virtual void currentBox(u8 v)                              = 0;

@@ -25,50 +25,17 @@
  */
 
 #include "wcx/WCX.hpp"
+#include "utils/TrainerID.hpp"
 
 namespace pksm
 {
     u32 WCX::formatTID() const
     {
-        switch (generation())
-        {
-            case Generation::ONE:
-            case Generation::TWO:
-            case Generation::THREE:
-            case Generation::FOUR:
-            case Generation::FIVE:
-            case Generation::SIX:
-                return TID();
-            case Generation::SEVEN:
-            case Generation::LGPE:
-            case Generation::EIGHT:
-            case Generation::NINE:
-                return u32(SID() << 16 | TID()) % 1000000;
-            case Generation::UNUSED:
-                return 0;
-        }
-        return 0;
+        return TrainerID::shownTID(generation(), TID(), SID());
     }
 
     u32 WCX::formatSID() const
     {
-        switch (generation())
-        {
-            case Generation::THREE:
-            case Generation::FOUR:
-            case Generation::FIVE:
-            case Generation::SIX:
-                return SID();
-            case Generation::SEVEN:
-            case Generation::LGPE:
-            case Generation::EIGHT:
-            case Generation::NINE:
-                return u32(SID() << 16 | TID()) / 1000000;
-            case Generation::UNUSED:
-            case Generation::ONE:
-            case Generation::TWO:
-                return 0;
-        }
-        return 0;
+        return TrainerID::shownSID(generation(), TID(), SID());
     }
 }

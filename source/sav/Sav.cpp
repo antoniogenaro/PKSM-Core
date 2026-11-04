@@ -59,6 +59,7 @@
 #include "utils/crypto.hpp"
 #include "utils/endian.hpp"
 #include "utils/ValueConverter.hpp"
+#include "utils/TrainerID.hpp"
 
 namespace pksm
 {
@@ -452,46 +453,26 @@ namespace pksm
 
     u32 Sav::displayTID() const
     {
-        switch (generation())
-        {
-            case Generation::ONE:
-            case Generation::TWO:
-            case Generation::THREE:
-            case Generation::FOUR:
-            case Generation::FIVE:
-            case Generation::SIX:
-                return TID();
-            case Generation::SEVEN:
-            case Generation::LGPE:
-            case Generation::EIGHT:
-            case Generation::NINE:
-                return u32(SID() << 16 | TID()) % 1000000;
-            case Generation::UNUSED:
-                return 0;
-        }
-        return 0;
+        return TrainerID::shownTID(generation(), TID(), SID());
     }
 
     u32 Sav::displaySID() const
     {
-        switch (generation())
-        {
-            case Generation::THREE:
-            case Generation::FOUR:
-            case Generation::FIVE:
-            case Generation::SIX:
-                return SID();
-            case Generation::SEVEN:
-            case Generation::LGPE:
-            case Generation::EIGHT:
-            case Generation::NINE:
-                return u32(SID() << 16 | TID()) / 1000000;
-            case Generation::UNUSED:
-            case Generation::ONE:
-            case Generation::TWO:
-                return 0;
-        }
-        return 0;
+        return TrainerID::shownSID(generation(), TID(), SID());
+    }
+
+    void Sav::displayTID(u32 v)
+    {
+        const auto [tid, sid] = TrainerID::stored(generation(), v, displaySID());
+        TID(tid);
+        SID(sid);
+    }
+
+    void Sav::displaySID(u32 v)
+    {
+        const auto [tid, sid] = TrainerID::stored(generation(), displayTID(), v);
+        TID(tid);
+        SID(sid);
     }
 
     Sav::BadTransferReason Sav::invalidTransferReason(const PKX& pk) const

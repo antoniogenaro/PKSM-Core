@@ -374,8 +374,12 @@ namespace pksm
         [[nodiscard]] virtual u16 PSV(void) const     = 0;
         [[nodiscard]] u32 versionTID(void) const;
         [[nodiscard]] u32 versionSID(void) const;
+        // The IDs as the Pokémon's format shows them; see utils/TrainerID.hpp. Setting one keeps
+        // the other as shown.
         [[nodiscard]] u32 formatTID(void) const;
         [[nodiscard]] u32 formatSID(void) const;
+        void formatTID(u32 v);
+        void formatSID(u32 v);
         [[nodiscard]] u8 level(void) const override       = 0;
         void level(u8 v) override                         = 0;
         [[nodiscard]] bool shiny(void) const override     = 0;
