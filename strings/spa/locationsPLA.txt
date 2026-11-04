@@ -1,0 +1,261 @@
+0x0000|－
+0x0002|Lugar misterioso
+0x0004|Lugar lejano
+0x0006|Villa Jubileo
+0x0007|Pradera Obsidiana
+0x0008|Pantanal Carmesí
+0x0009|Costa Cobalto
+0x000a|Ladera Corona
+0x000b|Tundra Alba
+0x000c|Antigua Aldea Oculta
+0x000d|Colina del Anhelo
+0x000e|Prado Herradura
+0x000f|Senda del Venado
+0x0010|Loma del Venado
+0x0011|Cascada Obsidiana
+0x0012|Gruta Pirita
+0x0013|Alacena del Bosque
+0x0014|Bosque Recóndito
+0x0015|Arena del Gran Árbol
+0x0016|Foresta Funesta
+0x0017|Lago Veraz
+0x0018|Planicie Arena
+0x0019|Presa del Estuario
+0x001a|Campo Aromaflor
+0x001b|Isla Hansa
+0x001c|base de la pradera
+0x001d|base de la loma
+0x001e|Vereda del Viento
+0x001f|Campo Aromaflor
+0x0020|Puente Erosionado
+0x0021|Roca musgo
+0x0022|Pradera Áurea
+0x0023|Ruinas Sosiego
+0x0024|Ciénaga Bocazas
+0x0025|Loma Lodosa
+0x0026|Ciénaga Bermeja
+0x0027|Ladera Derrumbe
+0x0028|Poblado Diamante
+0x0029|Lago Valor
+0x002a|Rellano Nebuloso
+0x002b|Ruinas de la Niebla
+0x002d|Banco del Juicio
+0x002e|Pradera Aleteo
+0x002f|base del pantanal
+0x0030|base del páramo
+0x0031|Paso Costanero
+0x0032|Playa Ginkgo
+0x0033|Arboleda Tétrica
+0x0034|Cala Oculta
+0x0035|Camino del Tómbolo
+0x0036|Cabo Rocavelo
+0x0037|Vergel Marino
+0x0038|Isla Escupefuego
+0x0039|Casa de Erio
+0x003a|Vía Manantial
+0x003b|Guarida del Gran Pez
+0x003c|Costa Ínsola
+0x003d|Bosque Rompeviento
+0x003f|Gruta Pasamar
+0x0040|Cueva Costera
+0x0041|base de la playa
+0x0042|base de la costa
+0x0043|Cueva Retorno
+0x0044|Altar Domo Lava
+0x0045|base de la ladera
+0x0046|Loma Sagrada
+0x0047|Bosque Extravío
+0x0048|Cantera Ancestral
+0x0049|Senda Celestial
+0x004a|Manantial Solitario
+0x004b|Fuente de las Hadas
+0x004c|Cordillera Derrumbe
+0x004d|Cañón Lítico
+0x004f|Caverna Inmemorial
+0x0050|Risco Riscoso
+0x0051|Ruinas Celestiales
+0x0052|Arena de la Luna
+0x0053|base de la cima
+0x0054|Paso Píleo
+0x0055|Columnas Lanza
+0x0056|Cueva Extravío
+0x0057|base de las nieves
+0x0058|Valle Nevasca
+0x0059|Pasaje de la Grieta
+0x005a|Páramo Algente
+0x005c|Témpano Avalugg
+0x005d|Terraza Glaciar
+0x005e|Lago Agudeza
+0x005f|Templo Puntaneva
+0x0060|Caverna Hiberna
+0x0061|Cascada Glaliar
+0x0062|Desfiladero Alud
+0x0063|Senda de la Arena
+0x0064|Poblado Perla
+0x0065|Peñasco Espíritu
+0x0066|Cámara Carámbano
+0x0067|base del glaciar
+0x0068|Caverna Veraz
+0x0069|Caverna Valor
+0x006a|Prado Erióforo
+0x006b|base de la montaña
+0x006c|Umbral Pétreo
+0x006d|Templo de Sinnoh
+0x006e|Roca helada
+0x006f|Caverna Agudeza
+0x0070|Gruta Glacial
+0x0071|Pasaje Oculto
+0x0072|Sede Galaxia
+0x0073|Bazar
+0x0074|Puesto de caramelos
+0x0075|Taller
+0x0076|Compañía Ginkgo
+0x0077|Puesto de trueque
+0x0078|Redil
+0x0079|Sastrería
+0x007a|Salón de peluquería
+0x007b|Estudio fotográfico
+0x007c|Huerta
+0x007d|Dojo
+0x007e|Estatuilla sagrada
+0x007f|Residencia
+0x0080|Playa del Errante
+0x0081|Mano de Arena
+0x0082|Senda del Peregrino
+0x0083|Ágora de la Plegaria
+0x0084|Puerta principal
+0x0085|Puerta costera
+0x0086|Vía Canal
+0x0087|Vía Aromaflor
+0x0088|Playa del Albor
+0x0089|Campo de Práctica
+0x008a|Lugar desconocido
+0x008b|Arena del Escenario
+0x008c|Arena del Magma
+0x008d|Arena del Glaciar
+0x008e|Termas Nevavista
+0x008f|Planta baja
+0x0090|Primera planta
+0x0091|Segunda planta
+0x0092|Sótano
+0x0093|Palestra Ursa
+0x0094|Llanura Diamante
+0x0095|Cerro Aipom
+0x0096|Albuferas Chapuzón
+0x0097|Bahía Silente
+0x0098|Sede Galaxia
+0x0099|Puerta principal
+0x009a|Huerta
+0x009b|Dojo
+0x7531|Intercambio en conexión
+0x7532|Intercambio en conexión
+0x7533|Kanto
+0x7534|Johto
+0x7535|Hoenn
+0x7536|Sinnoh
+0x7537|Tierra lejana
+0x7538|－－－－－－－－－－
+0x7539|Teselia
+0x753a|Kalos
+0x753b|Nexo Pokémon
+0x753c|Pokémon GO
+0x753d|Kanto
+0x753e|Hoenn
+0x753f|Alola
+0x7540|Poké Resort
+0x7541|Johto
+0x7542|Pokémon HOME
+0x7543|Kanto
+0x7544|Galar
+0x7545|Hisui
+0x7546|Sinnoh
+0x9c41|Lugar encantador
+0x9c42|Lugar lejano
+0x9c43|Película Pokémon
+0x9c44|[~ 3]
+0x9c45|Película Pokémon 2019
+0x9c46|Película Pokémon 2020
+0x9c47|Película Pokémon 2021
+0x9c48|Película Pokémon 2022
+0x9c49|Película Pokémon 2023
+0x9c4a|Película Pokémon 2024
+0x9c4b|Dibujos animados Pokémon
+0x9c4c|Pokémon Center
+0x9c4d|Pokémon Center Tohoku
+0x9c4e|WCS
+0x9c4f|[~ 14]
+0x9c50|WCS 2019
+0x9c51|WCS 2020
+0x9c52|WCS 2021
+0x9c53|WCS 2022
+0x9c54|WCS 2023
+0x9c55|WCS 2024
+0x9c56|Worlds
+0x9c57|[~ 22]
+0x9c58|Worlds 2019
+0x9c59|Worlds 2020
+0x9c5a|Worlds 2021
+0x9c5b|Worlds 2022
+0x9c5c|Worlds 2023
+0x9c5d|Worlds 2024
+0x9c5e|Evento de Videojuegos
+0x9c5f|[~ 30]
+0x9c60|Evento Videojuegos 2019
+0x9c61|Evento Videojuegos 2020
+0x9c62|Evento Videojuegos 2021
+0x9c63|Evento Videojuegos 2022
+0x9c64|Evento Videojuegos 2023
+0x9c65|Evento Videojuegos 2024
+0x9c66|Evento Pokémon
+0x9c67|Torneo
+0x9c68|Evento de Videojuegos
+0x9c69|Pokémon Daisuki Club
+0x9c6a|Programa sobre Pokémon
+0x9c6b|Concierto
+0x9c6c|Regalo en línea
+0x9c6d|Pokémon Global Link
+0x9c6e|[~ 45]
+0x9c6f|Evento Pokémon 2019
+0x9c70|Evento Pokémon 2020
+0x9c71|Evento Pokémon 2021
+0x9c72|Evento Pokémon 2022
+0x9c73|Evento Pokémon 2023
+0x9c74|Evento Pokémon 2024
+0x9c75|Evento Pokémon
+0x9c76|[~ 53]
+0x9c77|Evento Pokémon 2019
+0x9c78|Evento Pokémon 2020
+0x9c79|Evento Pokémon 2021
+0x9c7a|Evento Pokémon 2022
+0x9c7b|Evento Pokémon 2023
+0x9c7c|Evento Pokémon 2024
+0x9c7d|PokéPark
+0x9c7e|[~ 61]
+0x9c7f|PokéPark 2019
+0x9c80|PokéPark 2020
+0x9c81|PokéPark 2021
+0x9c82|PokéPark 2022
+0x9c83|PokéPark 2023
+0x9c84|PokéPark 2024
+0x9c85|Evento
+0x9c86|GAME FREAK
+0x9c87|Estadio
+0x9c88|VGC
+0x9c89|[~ 72]
+0x9c8a|VGC 2019
+0x9c8b|VGC 2020
+0x9c8c|VGC 2021
+0x9c8d|VGC 2022
+0x9c8e|VGC 2023
+0x9c8f|VGC 2024
+0x9c90|Consola Virtual
+0x9c91|Pokémon GO
+0x9c92|Banco de Pokémon
+0x9c93|Establecimiento Pokémon
+0x9c94|Versión de prueba
+0x9c95|Poké Ball Plus
+0x9c96|Pokémon HOME
+0xea61|Persona lejana
+0xea62|Cuidados Pokémon
+0xea63|Buscatesoros
+0xea64|Anciana del Balneario

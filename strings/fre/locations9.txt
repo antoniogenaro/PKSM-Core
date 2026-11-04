@@ -1,0 +1,227 @@
+0x0000|－－－－－－－－－－
+0x0002|Endroit mystérieux
+0x0004|Endroit lointain
+0x0006|Zone Sud nº 1
+0x0008|Mesaledo
+0x000a|Ligue Pokémon
+0x000c|Zone Sud nº 2
+0x000e|Zone Sud nº 4
+0x0010|Zone Sud nº 6
+0x0012|Zone Sud nº 5
+0x0014|Zone Sud nº 3
+0x0016|Zone Ouest nº 1
+0x0018|Désert Rôtissable
+0x001a|Zone Ouest nº 2
+0x001c|Zone Ouest nº 3
+0x001e|Bosquet Tagué
+0x0020|Zone Est nº 3
+0x0022|Zone Est nº 1
+0x0024|Zone Est nº 2
+0x0026|Mont Nappé
+0x0028|Lac Asrol
+0x002a|Mont Nappé
+0x002c|Zone Nord nº 3
+0x002e|Zone Nord nº 1
+0x0030|Zone Nord nº 2
+0x0032|Cratère de Paldea
+0x0034|Portail Zéro
+0x0036|Portail Zéro
+0x0038|Mer du Sud de Paldea
+0x003a|Mer de l’Ouest de Paldea
+0x003c|Mer de l’Est de Paldea
+0x003e|Mer du Nord de Paldea
+0x0040|Caverne de la Crique
+0x0042|Zone Sud nº 6
+0x0043|Grotte d’Alforneira
+0x0044|Mont Nappé
+0x0045|Tunnel Mezcla-Pincho
+0x0046|Route de Cuchalaga
+0x0048|Mesaledo
+0x004a|Mesaledo
+0x004c|Jarramanca
+0x004e|Levalendura
+0x0050|Cuchalaga
+0x0052|Plato Real
+0x0054|Sevaro
+0x0056|Cuencia
+0x0058|Porto Marinada
+0x005a|Mezclamora
+0x005c|Pinchoria
+0x005e|Frigao
+0x0060|Alforneira
+0x0062|Zone Nord nº 2
+0x0063|Repaire du Groupe Caph
+0x0064|Zone Ouest nº 1
+0x0065|Repaire du Groupe Segin
+0x0066|Zone Nord nº 3
+0x0067|Repaire du Groupe Ruchbah
+0x0068|Zone Est nº 1
+0x0069|Repaire du Groupe Schedar
+0x006a|Bosquet Tagué
+0x006b|Repaire du Groupe Tsih
+0x006c|Lac Asrol
+0x006d|Forêt Toastée
+0x006e|Zone Zéro
+0x006f|Poste d’Observation 1
+0x0070|Zone Zéro
+0x0071|Poste d’Observation 2
+0x0072|Zone Zéro
+0x0073|Poste d’Observation 3
+0x0074|Zone Zéro
+0x0075|Poste d’Observation 4
+0x0076|Laboratoire Zéro
+0x0078|Laboratoire Zéro
+0x007a|Laboratoire Zéro
+0x007c|Zone Zéro
+0x007e|Zone Zéro
+0x0080|Zone Zéro
+0x0082|Académie Orange
+0x0083|Académie Raisin
+0x0084|Route de Septentria
+0x0086|Jaderaude
+0x0088|Coteau Pommes
+0x008a|Parc Adorami
+0x008c|Sentier de la Liesse
+0x008e|Septemplion
+0x0090|Mont Strueux
+0x0092|Antre Interdit
+0x0093|Mont Strueux
+0x0094|Gueule du Monstre
+0x0095|Mont Strueux
+0x0096|Mont Strueux
+0x0098|Lac Cristallin
+0x0099|Sommet du Mont Strueux
+0x009a|Lac Cristallin
+0x009b|Sommet du Mont Strueux
+0x009c|Plaine des Glycines
+0x009e|Rives du Confluent
+0x00a0|Gorge de la Corne
+0x00a2|Lande de la Quiétude
+0x00a4|Terres Vierges de Septentria
+0x00a6|Forêt Ternelle
+0x00a7|Terres Vierges de Septentria
+0x00a8|Val Infernal
+0x00a9|Mont Strueux
+0x00aa|Grotte Douche Froide
+0x00ac|Institut Myrtille
+0x00ae|Zone Savane
+0x00b0|Zone Côtière
+0x00b2|Zone Canyon
+0x00b4|Zone Polaire
+0x00b6|Poste Central
+0x00b8|Poste Savane
+0x00ba|Poste Côtier
+0x00bc|Poste Canyon
+0x00be|Poste Polaire
+0x00c0|Caverne Électrolithe
+0x00c2|Dédale des Torches
+0x00c4|Abîme Zéro
+0x00c6|Abîme Zéro
+0x00c8|Terra-Dôme
+0x7531|Échange en réseau
+0x7532|Échange en réseau
+0x7533|Kanto
+0x7534|Johto
+0x7535|Hoenn
+0x7536|Sinnoh
+0x7537|Pays lointain
+0x7538|－－－－－－－－－－
+0x7539|Unys
+0x753a|Kalos
+0x753b|Poké Lien
+0x753c|Pokémon GO
+0x753d|Kanto
+0x753e|Hoenn
+0x753f|Alola
+0x7540|Poké Loisir
+0x7541|Johto
+0x7542|Pokémon HOME
+0x7543|Kanto
+0x7544|Galar
+0x7545|Hisui
+0x7546|Sinnoh
+0x7547|Pique-nique
+0x7548|Grotte de cristal
+0x9c41|Endroit superbe
+0x9c42|Endroit lointain
+0x9c43|Film Pokémon
+0x9c44|Film Pokémon 2023
+0x9c45|Film Pokémon 2024
+0x9c46|Film Pokémon 2025
+0x9c47|Film Pokémon 2026
+0x9c48|Film Pokémon 2027
+0x9c49|Film Pokémon 2028
+0x9c4a|Dessin animé Pokémon
+0x9c4b|Pokémon Center
+0x9c4c|Pokémon Center Tohoku
+0x9c4d|WCS
+0x9c4e|WCS 2023
+0x9c4f|WCS 2024
+0x9c50|WCS 2025
+0x9c51|WCS 2026
+0x9c52|WCS 2027
+0x9c53|WCS 2028
+0x9c54|Worlds
+0x9c55|Worlds 2023
+0x9c56|Worlds 2024
+0x9c57|Worlds 2025
+0x9c58|Worlds 2026
+0x9c59|Worlds 2027
+0x9c5a|Worlds 2028
+0x9c5b|Évènement Jeu Vidéo
+0x9c5c|Évènement Jeu Vidéo 2023
+0x9c5d|Évènement Jeu Vidéo 2024
+0x9c5e|Évènement Jeu Vidéo 2025
+0x9c5f|Évènement Jeu Vidéo 2026
+0x9c60|Évènement Jeu Vidéo 2027
+0x9c61|Évènement Jeu Vidéo 2028
+0x9c62|Évènement Pokémon
+0x9c63|Compétition
+0x9c64|Évènement
+0x9c65|Pokémon Daisuki Club
+0x9c66|Émission Pokémon
+0x9c67|Concert
+0x9c68|Cadeau téléchargeable
+0x9c69|Pokémon Global Link
+0x9c6a|Évènement Pokémon 2023
+0x9c6b|Évènement Pokémon 2024
+0x9c6c|Évènement Pokémon 2025
+0x9c6d|Évènement Pokémon 2026
+0x9c6e|Évènement Pokémon 2027
+0x9c6f|Évènement Pokémon 2028
+0x9c70|Évènement Pokémon
+0x9c71|Évènement Pokémon 2023
+0x9c72|Évènement Pokémon 2024
+0x9c73|Évènement Pokémon 2025
+0x9c74|Évènement Pokémon 2026
+0x9c75|Évènement Pokémon 2027
+0x9c76|Évènement Pokémon 2028
+0x9c77|PokéPark
+0x9c78|PokéPark 2023
+0x9c79|PokéPark 2024
+0x9c7a|PokéPark 2025
+0x9c7b|PokéPark 2026
+0x9c7c|PokéPark 2027
+0x9c7d|PokéPark 2028
+0x9c7e|Lieu d’évènement
+0x9c7f|GAME FREAK
+0x9c80|Stade
+0x9c81|VGC
+0x9c82|VGC 2023
+0x9c83|VGC 2024
+0x9c84|VGC 2025
+0x9c85|VGC 2026
+0x9c86|VGC 2027
+0x9c87|VGC 2028
+0x9c88|Console virtuelle
+0x9c89|Pokémon GO
+0x9c8a|Banque Pokémon
+0x9c8b|Magasin Pokémon
+0x9c8c|Démo
+0x9c8d|Poké Ball Plus
+0x9c8e|Pokémon HOME
+0xea61|Personne lointaine
+0xea62|Responsable de la Garderie
+0xea63|Chercheur de Trésors
+0xea64|Dame des Eaux Thermales
+0xea65|Jacq

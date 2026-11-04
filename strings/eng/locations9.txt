@@ -1,0 +1,227 @@
+0x0000|——————
+0x0002|Mystery Zone
+0x0004|Faraway place
+0x0006|South Province (Area One)
+0x0008|Mesagoza
+0x000a|Pokémon League
+0x000c|South Province (Area Two)
+0x000e|South Province (Area Four)
+0x0010|South Province (Area Six)
+0x0012|South Province (Area Five)
+0x0014|South Province (Area Three)
+0x0016|West Province (Area One)
+0x0018|Asado Desert
+0x001a|West Province (Area Two)
+0x001c|West Province (Area Three)
+0x001e|Tagtree Thicket
+0x0020|East Province (Area Three)
+0x0022|East Province (Area One)
+0x0024|East Province (Area Two)
+0x0026|Glaseado Mountain
+0x0028|Casseroya Lake
+0x002a|Glaseado Mountain
+0x002c|North Province (Area Three)
+0x002e|North Province (Area One)
+0x0030|North Province (Area Two)
+0x0032|Great Crater of Paldea
+0x0034|Zero Gate
+0x0036|Zero Gate
+0x0038|South Paldean Sea
+0x003a|West Paldean Sea
+0x003c|East Paldean Sea
+0x003e|North Paldean Sea
+0x0040|Inlet Grotto
+0x0042|South Province (Area Six)
+0x0043|Alfornada Cavern
+0x0044|Glaseado Mountain
+0x0045|Dalizapa Passage
+0x0046|Poco Path
+0x0048|Mesagoza
+0x004a|Mesagoza
+0x004c|Cascarrafa
+0x004e|Levincia
+0x0050|Cabo Poco
+0x0052|Los Platos
+0x0054|Cortondo
+0x0056|Artazon
+0x0058|Porto Marinada
+0x005a|Medali
+0x005c|Zapapico
+0x005e|Montenevera
+0x0060|Alfornada
+0x0062|North Province (Area Two)
+0x0063|Caph Squad’s Base
+0x0064|West Province (Area One)
+0x0065|Segin Squad’s Base
+0x0066|North Province (Area Three)
+0x0067|Ruchbah Squad’s Base
+0x0068|East Province (Area One)
+0x0069|Schedar Squad’s Base
+0x006a|Tagtree Thicket
+0x006b|Navi Squad’s Base
+0x006c|Casseroya Lake
+0x006d|Socarrat Trail
+0x006e|Area Zero
+0x006f|Research Station No. 1
+0x0070|Area Zero
+0x0071|Research Station No. 2
+0x0072|Area Zero
+0x0073|Research Station No. 3
+0x0074|Area Zero
+0x0075|Research Station No. 4
+0x0076|Zero Lab
+0x0078|Zero Lab
+0x007a|Zero Lab
+0x007c|Area Zero
+0x007e|Area Zero
+0x0080|Area Zero
+0x0082|Naranja Academy
+0x0083|Uva Academy
+0x0084|Kitakami Road
+0x0086|Mossui Town
+0x0088|Apple Hills
+0x008a|Loyalty Plaza
+0x008c|Reveler’s Road
+0x008e|Kitakami Hall
+0x0090|Oni Mountain
+0x0092|Dreaded Den
+0x0093|Oni Mountain
+0x0094|Oni’s Maw
+0x0095|Oni Mountain
+0x0096|Oni Mountain
+0x0098|Crystal Pool
+0x0099|Oni Mountain Summit
+0x009a|Crystal Pool
+0x009b|Oni Mountain Summit
+0x009c|Wistful Fields
+0x009e|Mossfell Confluence
+0x00a0|Fellhorn Gorge
+0x00a2|Paradise Barrens
+0x00a4|Kitakami Wilds
+0x00a6|Timeless Woods
+0x00a7|Kitakami Wilds
+0x00a8|Infernal Pass
+0x00a9|Oni Mountain
+0x00aa|Chilling Waterhead
+0x00ac|Blueberry Academy
+0x00ae|Savanna Biome
+0x00b0|Coastal Biome
+0x00b2|Canyon Biome
+0x00b4|Polar Biome
+0x00b6|Central Plaza
+0x00b8|Savanna Plaza
+0x00ba|Coastal Plaza
+0x00bc|Canyon Plaza
+0x00be|Polar Plaza
+0x00c0|Chargestone Cavern
+0x00c2|Torchlit Labyrinth
+0x00c4|Area Zero Underdepths
+0x00c6|Area Zero Underdepths
+0x00c8|Terarium
+0x7531|a Link Trade
+0x7532|a Link Trade
+0x7533|the Kanto region
+0x7534|the Johto region
+0x7535|the Hoenn region
+0x7536|the Sinnoh region
+0x7537|a distant land
+0x7538|——————
+0x7539|the Unova region
+0x753a|the Kalos region
+0x753b|Pokémon Link
+0x753c|Pokémon GO
+0x753d|the Kanto region
+0x753e|the Hoenn region
+0x753f|the Alola region
+0x7540|Poké Pelago
+0x7541|the Johto region
+0x7542|Pokémon HOME
+0x7543|the Kanto region
+0x7544|the Galar region
+0x7545|the Hisui region
+0x7546|the Sinnoh region
+0x7547|a picnic
+0x7548|a crystal cavern
+0x9c41|a lovely place
+0x9c42|a faraway place
+0x9c43|a Pokémon movie
+0x9c44|a 2023 Pokémon movie
+0x9c45|a 2024 Pokémon movie
+0x9c46|a 2025 Pokémon movie
+0x9c47|a 2026 Pokémon movie
+0x9c48|a 2027 Pokémon movie
+0x9c49|a 2028 Pokémon movie
+0x9c4a|the Pokémon animated show
+0x9c4b|a Pokémon Center
+0x9c4c|Pokémon Center Tohoku
+0x9c4d|a WCS
+0x9c4e|WCS 2023
+0x9c4f|WCS 2024
+0x9c50|WCS 2025
+0x9c51|WCS 2026
+0x9c52|WCS 2027
+0x9c53|WCS 2028
+0x9c54|Worlds
+0x9c55|2023 Worlds
+0x9c56|2024 Worlds
+0x9c57|2025 Worlds
+0x9c58|2026 Worlds
+0x9c59|2027 Worlds
+0x9c5a|2028 Worlds
+0x9c5b|a VGE
+0x9c5c|VGE 2023
+0x9c5d|VGE 2024
+0x9c5e|VGE 2025
+0x9c5f|VGE 2026
+0x9c60|VGE 2027
+0x9c61|VGE 2028
+0x9c62|a Pokémon event
+0x9c63|a Battle Competition
+0x9c64|a game event
+0x9c65|the Pokémon Daisuki Club
+0x9c66|a Pokémon TV program
+0x9c67|a concert
+0x9c68|an online present
+0x9c69|the PGL
+0x9c6a|a 2023 Pokémon event
+0x9c6b|a 2024 Pokémon event
+0x9c6c|a 2025 Pokémon event
+0x9c6d|a 2026 Pokémon event
+0x9c6e|a 2027 Pokémon event
+0x9c6f|a 2028 Pokémon event
+0x9c70|a Pokémon event
+0x9c71|a 2023 Pokémon event
+0x9c72|a 2024 Pokémon event
+0x9c73|a 2025 Pokémon event
+0x9c74|a 2026 Pokémon event
+0x9c75|a 2027 Pokémon event
+0x9c76|a 2028 Pokémon event
+0x9c77|PokéPark
+0x9c78|PokéPark 2023
+0x9c79|PokéPark 2024
+0x9c7a|PokéPark 2025
+0x9c7b|PokéPark 2026
+0x9c7c|PokéPark 2027
+0x9c7d|PokéPark 2028
+0x9c7e|an event site
+0x9c7f|GAME FREAK
+0x9c80|a stadium
+0x9c81|a VGC event
+0x9c82|the VGC 2023
+0x9c83|the VGC 2024
+0x9c84|the VGC 2025
+0x9c85|the VGC 2026
+0x9c86|the VGC 2027
+0x9c87|the VGC 2028
+0x9c88|a Virtual Console game
+0x9c89|Pokémon GO
+0x9c8a|Pokémon Bank
+0x9c8b|a Pokémon shop
+0x9c8c|a demo version
+0x9c8d|the Poké Ball Plus
+0x9c8e|Pokémon HOME
+0xea61|someone far away
+0xea62|a Nursery worker
+0xea63|a treasure hunter
+0xea64|an old hot-springs visitor
+0xea65|Jacq

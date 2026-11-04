@@ -1,0 +1,227 @@
+0x0000|----------
+0x0002|Zona misteriosa
+0x0004|Luogo remoto
+0x0006|Area 1 Sud
+0x0008|Mesapoli
+0x000a|Lega Pokémon
+0x000c|Area 2 Sud
+0x000e|Area 4 Sud
+0x0010|Area 6 Sud
+0x0012|Area 5 Sud
+0x0014|Area 3 Sud
+0x0016|Area 1 Ovest
+0x0018|Deserto Alasar
+0x001a|Area 2 Ovest
+0x001c|Area 3 Ovest
+0x001e|Boschetto dei Segni
+0x0020|Area 3 Est
+0x0022|Area 1 Est
+0x0024|Area 2 Est
+0x0026|Sierra Napada
+0x0028|Lago Gran Caldero
+0x002a|Sierra Napada
+0x002c|Area 3 Nord
+0x002e|Area 1 Nord
+0x0030|Area 2 Nord
+0x0032|Voragine di Paldea
+0x0034|Varco Zero
+0x0036|Varco Zero
+0x0038|Mare di Paldea (sud)
+0x003a|Mare di Paldea (ovest)
+0x003c|Mare di Paldea (est)
+0x003e|Mare di Paldea (nord)
+0x0040|Grotta della Baia
+0x0042|Area 6 Sud
+0x0043|Caverna di Las Brasas
+0x0044|Sierra Napada
+0x0045|Passaggio Mescadia
+0x0046|Sentiero di Dosilla
+0x0048|Mesapoli
+0x004a|Mesapoli
+0x004c|Garrafopoli
+0x004e|Leudapoli
+0x0050|Dosilla
+0x0052|Platia
+0x0054|Moldulcia
+0x0056|Los Tazones
+0x0058|Marinada
+0x005a|Mesturia
+0x005c|Picadia
+0x005e|Neveria
+0x0060|Las Brasas
+0x0062|Area 2 Nord
+0x0063|Base della Banda Caph
+0x0064|Area 1 Ovest
+0x0065|Base della Banda Segin
+0x0066|Area 3 Nord
+0x0067|Base della Banda Ruchbah
+0x0068|Area 1 Est
+0x0069|Base della Banda Schedar
+0x006a|Boschetto dei Segni
+0x006b|Base della Banda Tsih
+0x006c|Lago Gran Caldero
+0x006d|Bosco Torrado
+0x006e|Area Zero
+0x006f|Stazione di Monitoraggio 1
+0x0070|Area Zero
+0x0071|Stazione di Monitoraggio 2
+0x0072|Area Zero
+0x0073|Stazione di Monitoraggio 3
+0x0074|Area Zero
+0x0075|Stazione di Monitoraggio 4
+0x0076|Laboratorio Zero
+0x0078|Laboratorio Zero
+0x007a|Laboratorio Zero
+0x007c|Area Zero
+0x007e|Area Zero
+0x0080|Area Zero
+0x0082|Accademia Arancia
+0x0083|Accademia Uva
+0x0084|Via Nordivia
+0x0086|Verdegiada
+0x0088|Colle Mele
+0x008a|Parco dei beniamici
+0x008c|Sentiero del Tripudio
+0x008e|Centro Nordivia
+0x0090|Monte Orco
+0x0092|Antro del Terrore
+0x0093|Monte Orco
+0x0094|Bocca dell’Orco
+0x0095|Monte Orco
+0x0096|Monte Orco
+0x0098|Lago Cristallìo
+0x0099|Vetta del Monte Orco
+0x009a|Lago Cristallìo
+0x009b|Vetta del Monte Orco
+0x009c|Piana dei Glicini
+0x009e|Piana Duefiumi
+0x00a0|Canyon del Corno
+0x00a2|Landa Paradisiaca
+0x00a4|Terre Primeve di Nordivia
+0x00a6|Foresta Perpetua
+0x00a7|Terre Primeve di Nordivia
+0x00a8|Pendio Infernale
+0x00a9|Monte Orco
+0x00aa|Grotta Doccia Fredda
+0x00ac|Istituto Mirtillo
+0x00ae|Settore Savana
+0x00b0|Settore Costa
+0x00b2|Settore Canyon
+0x00b4|Settore Ghiacciai
+0x00b6|Piazza Centrale
+0x00b8|Piazza della Savana
+0x00ba|Piazza della Costa
+0x00bc|Piazza del Canyon
+0x00be|Piazza dei Ghiacciai
+0x00c0|Grotta Pietrelettrica
+0x00c2|Labirinto dei Lumi
+0x00c4|Grande Abisso Zero
+0x00c6|Grande Abisso Zero
+0x00c8|Bioterarium
+0x7531|con uno scambio in link
+0x7532|con uno scambio in link
+0x7533|da Kanto
+0x7534|da Johto
+0x7535|da Hoenn
+0x7536|da Sinnoh
+0x7537|da una terra lontana
+0x7538|da ----------
+0x7539|da Unima
+0x753a|da Kalos
+0x753b|con il Pokémon Link
+0x753c|da Pokémon GO
+0x753d|da Kanto
+0x753e|da Hoenn
+0x753f|da Alola
+0x7540|dal Poké Resort
+0x7541|da Johto
+0x7542|da Pokémon HOME
+0x7543|da Kanto
+0x7544|da Galar
+0x7545|da Hisui
+0x7546|da Sinnoh
+0x7547|durante un picnic
+0x7548|in una grotta dei cristalli
+0x9c41|un luogo grazioso
+0x9c42|un luogo remoto
+0x9c43|un film Pokémon
+0x9c44|un film Pokémon (2023)
+0x9c45|un film Pokémon (2024)
+0x9c46|un film Pokémon (2025)
+0x9c47|un film Pokémon (2026)
+0x9c48|un film Pokémon (2027)
+0x9c49|un film Pokémon (2028)
+0x9c4a|il cartone animato Pokémon
+0x9c4b|un Pokémon Center
+0x9c4c|il Pokémon Center Tohoku
+0x9c4d|i WCS
+0x9c4e|i WCS 2023
+0x9c4f|i WCS 2024
+0x9c50|i WCS 2025
+0x9c51|i WCS 2026
+0x9c52|i WCS 2027
+0x9c53|i WCS 2028
+0x9c54|i Worlds
+0x9c55|i Worlds 2023
+0x9c56|i Worlds 2024
+0x9c57|i Worlds 2025
+0x9c58|i Worlds 2026
+0x9c59|i Worlds 2027
+0x9c5a|i Worlds 2028
+0x9c5b|un VGE
+0x9c5c|un VGE (2023)
+0x9c5d|un VGE (2024)
+0x9c5e|un VGE (2025)
+0x9c5f|un VGE (2026)
+0x9c60|un VGE (2027)
+0x9c61|un VGE (2028)
+0x9c62|un evento Pokémon
+0x9c63|una gara
+0x9c64|un evento di gioco
+0x9c65|il Pokémon Daisuki Club
+0x9c66|un programma TV Pokémon
+0x9c67|un concerto
+0x9c68|regalo online
+0x9c69|il PGL
+0x9c6a|un evento Pokémon (2023)
+0x9c6b|un evento Pokémon (2024)
+0x9c6c|un evento Pokémon (2025)
+0x9c6d|un evento Pokémon (2026)
+0x9c6e|un evento Pokémon (2027)
+0x9c6f|un evento Pokémon (2028)
+0x9c70|un evento Pokémon
+0x9c71|un evento Pokémon (2023)
+0x9c72|un evento Pokémon (2024)
+0x9c73|un evento Pokémon (2025)
+0x9c74|un evento Pokémon (2026)
+0x9c75|un evento Pokémon (2027)
+0x9c76|un evento Pokémon (2028)
+0x9c77|PokéPark
+0x9c78|PokéPark (2023)
+0x9c79|PokéPark (2024)
+0x9c7a|PokéPark (2025)
+0x9c7b|PokéPark (2026)
+0x9c7c|PokéPark (2027)
+0x9c7d|PokéPark (2028)
+0x9c7e|un evento
+0x9c7f|GAME FREAK
+0x9c80|uno stadio
+0x9c81|i VGC
+0x9c82|i VGC 2023
+0x9c83|i VGC 2024
+0x9c84|i VGC 2025
+0x9c85|i VGC 2026
+0x9c86|i VGC 2027
+0x9c87|i VGC 2028
+0x9c88|la Virtual Console
+0x9c89|Pokémon GO
+0x9c8a|Banca Pokémon
+0x9c8b|un negozio Pokémon
+0x9c8c|una versione demo
+0x9c8d|la Poké Ball Plus
+0x9c8e|Pokémon HOME
+0xea61|da una persona lontana
+0xea62|all’Ostello Pokémon
+0xea63|da un Cercatesori
+0xea64|dalla vecchina delle terme
+0xea65|(regalo di Zim)

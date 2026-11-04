@@ -33,7 +33,7 @@ Paratonnerre
 Sérénité
 Glissade
 Chlorophylle
-Lumiattirance
+Luminescence
 Calque
 Coloforce
 Point Poison
@@ -199,7 +199,7 @@ Bouclier-Carcan
 Filature
 Aquabulle
 Expert Acier
-Dracolère
+Folle Furie
 Chasse-Neige
 Longue Portée
 Hydrata-Son
@@ -266,3 +266,46 @@ Blanche Ruade
 Sombre Ruade
 Osmose Équine
 Osmose Équine
+Odeur Tenace
+Semencier
+Thermodynamique
+Courroupace
+Sel Purificateur
+Bien Cuit
+Aéroporté
+Chien de Garde
+Porte-Roche
+Turbine Éolienne
+Supermutation
+Commandant
+Grecharge
+Paléosynthèse
+Charge Quantique
+Corps en Or
+Urne du Fléau
+Épée du Fléau
+Bois du Fléau
+Perles du Fléau
+Pouls Orichalque
+Moteur à Hadrons
+Opportuniste
+Ruminant
+Incisif
+Général Suprême
+Collab
+Dépôt Toxique
+Armure Caudale
+Absorbe-Terre
+Force Fongique
+Aux Petits Soins
+Œil Révélateur
+Force Mémorielle
+Force Mémorielle
+Force Mémorielle
+Force Mémorielle
+Chaîne Toxique
+Nectar Mielleux
+Téramorphose
+Téra-Carapace
+Téraformation 0
+Emprise Toxique

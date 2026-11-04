@@ -1,0 +1,261 @@
+0x0000|－－－－－－－－－－
+0x0002|Mysteriöser Ort
+0x0004|Ferner Ort
+0x0006|Jubeldorf
+0x0007|Obsidian-Grasland
+0x0008|Rotes Sumpfland
+0x0009|Kobalt-Küstenland
+0x000a|Kraterberg-Hochland
+0x000b|Weißes Frostland
+0x000c|Uralte Siedlung
+0x000d|Ambitionshügel
+0x000e|Hufeisenwiesen
+0x000f|Geweihbergweg
+0x0010|Geweihanhöhe
+0x0011|Obsidian-Wasserfall
+0x0012|Erztunnel
+0x0013|Waldesküche
+0x0014|Innerwald
+0x0015|Baumriesenkampffeld
+0x0016|Strapazenhain
+0x0017|See der Wahrheit
+0x0018|Sandgemmenheide
+0x0019|Mündungsdamm
+0x001a|Flora-Rodefläche
+0x001b|Hamanasu-Insel
+0x001c|Graslandbasis
+0x001d|Anhöhenbasis
+0x001e|Windpassage
+0x001f|Flora-Rodefläche
+0x0020|Felsenbrücke
+0x0021|Moosfelsen
+0x0022|Güldene Felder
+0x0023|Ruinen des Trostes
+0x0024|Großmaulmoor
+0x0025|Schlammplateau
+0x0026|Purpurrotes Moor
+0x0027|Geröllhügel
+0x0028|Diamant-Siedlung
+0x0029|See der Kühnheit
+0x002a|Wolkenmeerkamm
+0x002b|Nebelruinen
+0x002d|Prüfungsbarre
+0x002e|Surrende Felder
+0x002f|Sumpflandbasis
+0x0030|Ödnisbasis
+0x0031|Übergangshang
+0x0032|Ginkgo-Strand
+0x0033|Schauriger Welkwald
+0x0034|Versteckte Bucht
+0x0035|Tombolo-Weg
+0x0036|Schleierkap
+0x0037|Seegrasidyll
+0x0038|Feuerspei-Insel
+0x0039|Haus von Susuki
+0x003a|Quellenpfad
+0x003b|Großfischfelsen
+0x003c|Inselblickufer
+0x003d|Windbruchwald
+0x003f|Gezeitentunnel
+0x0040|Kleine Meeresgrotte
+0x0041|Strandbasis
+0x0042|Küstenlandbasis
+0x0043|Höhle der Umkehr
+0x0044|Lavadom-Schrein
+0x0045|Hochlandbasis
+0x0046|Sakralplateau
+0x0047|Wirrwald
+0x0048|Uralter Steinbruch
+0x0049|Elysien-Bergpfad
+0x004a|Einsame Quelle
+0x004b|Feenweiher
+0x004c|Geröllberge
+0x004d|Steinplattenpass
+0x004f|Urzeitliche Höhle
+0x0050|Kletterklippe
+0x0051|Elysien-Tempelruinen
+0x0052|Mondgrußkampffeld
+0x0053|Gipfelbasis
+0x0054|Gipfelschwadentunnel
+0x0055|Speersäule
+0x0056|Bizarre Höhle
+0x0057|Schneefeldbasis
+0x0058|Blizzardtal
+0x0059|Gletscherpassage
+0x005a|Eisige Ödnis
+0x005c|Arktilas-Eisblock
+0x005d|Gletscherstufen
+0x005e|See der Stärke
+0x005f|Blizzard-Tempel
+0x0060|Winterschlafhöhle
+0x0061|Firnfälle
+0x0062|Lawinenhügel
+0x0063|Pfad zum Kampffeld
+0x0064|Perl-Siedlung
+0x0065|Geistesfelsen
+0x0066|Eissäulenkammer
+0x0067|Eisgipfelbasis
+0x0068|Wahrheitsgrotte
+0x0069|Kühnheitsgrotte
+0x006a|Wollgraswiese
+0x006b|Bergbasis
+0x006c|Steinpforte
+0x006d|Sinnoh-Tempel
+0x006e|Eisfelsen
+0x006f|Stärkegrotte
+0x0070|Eisgipfelhöhle
+0x0071|Geheime Höhle
+0x0072|Galaktik-Hauptsitz
+0x0073|Gemischtwarenladen
+0x0074|Bonbonstand
+0x0075|Handwerksladen
+0x0076|Ginkgo-Gilde
+0x0077|Tauschbörse
+0x0078|Weide
+0x0079|Schneiderei
+0x007a|Friseursalon
+0x007b|Fotoatelier
+0x007c|Acker
+0x007d|Übungsplatz
+0x007e|Glücksschrein
+0x007f|Quartier
+0x0080|Küste der Verirrten
+0x0081|Sandfinger
+0x0082|Pilgerpfad
+0x0083|Platz der Huldigung
+0x0084|Haupttor
+0x0085|Strandtor
+0x0086|Fleetstraße
+0x0087|Floristraße
+0x0088|Strand des Aufbruchs
+0x0089|Übungsgelände
+0x008a|Unbekannter Ort
+0x008b|Bühnenkampffeld
+0x008c|Lavakampffeld
+0x008d|Eisgipfelkampffeld
+0x008e|Schneeblicktherme
+0x008f|Erdgeschoss
+0x0090|Erste Etage
+0x0091|Zweite Etage
+0x0092|Untergeschoss
+0x0093|Prankenplatz
+0x0094|Diamant-Ebene
+0x0095|Griffel-Hügel
+0x0096|Badelagune
+0x0097|Stilles Binnenmeer
+0x0098|Galaktik-Hauptsitz
+0x0099|Haupttor
+0x009a|Acker
+0x009b|Übungsplatz
+0x7531|Link-Tausch
+0x7532|Link-Tausch
+0x7533|Kanto-Region
+0x7534|Johto-Region
+0x7535|Hoenn-Region
+0x7536|Sinnoh-Region
+0x7537|Fernes Land
+0x7538|－－－－－－－－－－
+0x7539|Einall-Region
+0x753a|Kalos-Region
+0x753b|Pokémon-Link
+0x753c|Pokémon GO
+0x753d|Kanto-Region
+0x753e|Hoenn-Region
+0x753f|Alola-Region
+0x7540|Pokémon-Resort
+0x7541|Johto-Region
+0x7542|Pokémon HOME
+0x7543|Kanto-Region
+0x7544|Galar-Region
+0x7545|Hisui-Region
+0x7546|Sinnoh-Region
+0x9c41|Netter Ort
+0x9c42|Ferner Ort
+0x9c43|Pokémon-Film
+0x9c44|[~ 3]
+0x9c45|Pokémon-Film 2019
+0x9c46|Pokémon-Film 2020
+0x9c47|Pokémon-Film 2021
+0x9c48|Pokémon-Film 2022
+0x9c49|Pokémon-Film 2023
+0x9c4a|Pokémon-Film 2024
+0x9c4b|Pokémon-Zeichentrickserie
+0x9c4c|Pokémon Center
+0x9c4d|Pokémon Center Tohoku
+0x9c4e|WCS
+0x9c4f|[~ 14]
+0x9c50|WCS 2019
+0x9c51|WCS 2020
+0x9c52|WCS 2021
+0x9c53|WCS 2022
+0x9c54|WCS 2023
+0x9c55|WCS 2024
+0x9c56|Worlds
+0x9c57|[~ 22]
+0x9c58|Worlds 2019
+0x9c59|Worlds 2020
+0x9c5a|Worlds 2021
+0x9c5b|Worlds 2022
+0x9c5c|Worlds 2023
+0x9c5d|Worlds 2024
+0x9c5e|VGE
+0x9c5f|[~ 30]
+0x9c60|VGE 2019
+0x9c61|VGE 2020
+0x9c62|VGE 2021
+0x9c63|VGE 2022
+0x9c64|VGE 2023
+0x9c65|VGE 2024
+0x9c66|Pokémon-Veranstaltung
+0x9c67|Kampfturnier
+0x9c68|Videospiel-Veranstaltung
+0x9c69|Pokémon Daisuki Club
+0x9c6a|Pokémon-TV-Programm
+0x9c6b|Konzert
+0x9c6c|Online-Geschenk
+0x9c6d|PGL
+0x9c6e|[~ 45]
+0x9c6f|Pokémon-Veranstaltung 2019
+0x9c70|Pokémon-Veranstaltung 2020
+0x9c71|Pokémon-Veranstaltung 2021
+0x9c72|Pokémon-Veranstaltung 2022
+0x9c73|Pokémon-Veranstaltung 2023
+0x9c74|Pokémon-Veranstaltung 2024
+0x9c75|Pokémon-Veranstaltung
+0x9c76|[~ 53]
+0x9c77|Pokémon-Veranstaltung 2019
+0x9c78|Pokémon-Veranstaltung 2020
+0x9c79|Pokémon-Veranstaltung 2021
+0x9c7a|Pokémon-Veranstaltung 2022
+0x9c7b|Pokémon-Veranstaltung 2023
+0x9c7c|Pokémon-Veranstaltung 2024
+0x9c7d|PokéPark
+0x9c7e|[~ 61]
+0x9c7f|PokéPark 2019
+0x9c80|PokéPark 2020
+0x9c81|PokéPark 2021
+0x9c82|PokéPark 2022
+0x9c83|PokéPark 2023
+0x9c84|PokéPark 2024
+0x9c85|Veranstaltung
+0x9c86|GAME FREAK
+0x9c87|Stadion
+0x9c88|VGC
+0x9c89|[~ 72]
+0x9c8a|VGC 2019
+0x9c8b|VGC 2020
+0x9c8c|VGC 2021
+0x9c8d|VGC 2022
+0x9c8e|VGC 2023
+0x9c8f|VGC 2024
+0x9c90|Virtual Console
+0x9c91|Pokémon GO
+0x9c92|Pokémon Bank
+0x9c93|Pokémon-Geschäft
+0x9c94|Demoversion
+0x9c95|Pokéball Plus
+0x9c96|Pokémon HOME
+0xea61|Ferne Person
+0xea62|Hortleiterinnen
+0xea63|Schatzsucher
+0xea64|Dame der Heißen Quellen

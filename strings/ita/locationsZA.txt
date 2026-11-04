@@ -1,0 +1,358 @@
+0x0000|----------
+0x0002|Zona misteriosa
+0x0004|Luogo remoto
+0x0006|Quartiere Verde
+0x0007|Quartiere Blu
+0x0008|Quartiere Rosa
+0x0009|Quartiere Rosso
+0x000a|Quartiere Giallo
+0x000b|Piazza Centrale
+0x000c|Viale Primavera
+0x000d|Viale Estate
+0x000e|Viale Autunno
+0x000f|Viale Inverno
+0x0010|Canal des Saisons
+0x0011|Boulevard Verde
+0x0012|Boulevard Verde
+0x0013|Corso Basso
+0x0014|Corso Basso
+0x0015|1º isolato del Quartiere Verde
+0x0016|3º isolato del Quartiere Verde
+0x0017|Canal Couler
+0x0018|6º isolato del Quartiere Verde
+0x0019|7º isolato del Quartiere Verde
+0x001a|Piazzale del terminal
+0x001b|2º isolato del Quartiere Verde
+0x001c|4º isolato del Quartiere Verde
+0x001d|5º isolato del Quartiere Verde
+0x001e|8º isolato del Quartiere Verde
+0x001f|9º isolato del Quartiere Verde
+0x0020|Piazza Verde
+0x0021|Boulevard Blu
+0x0022|Boulevard Blu
+0x0023|Corso Basso
+0x0024|Corso Basso
+0x0025|1º isolato del Quartiere Blu
+0x0026|3º isolato del Quartiere Blu
+0x0027|Parco Distratto
+0x0028|5º isolato del Quartiere Blu
+0x0029|7º isolato del Quartiere Blu
+0x002a|2º isolato del Quartiere Blu
+0x002b|4º isolato del Quartiere Blu
+0x002c|Spazio Rienafaire
+0x002d|6º isolato del Quartiere Blu
+0x002e|8º isolato del Quartiere Blu
+0x002f|9º isolato del Quartiere Blu
+0x0030|10º isolato del Quartiere Blu
+0x0031|Piazza Blu
+0x0032|Boulevard Rosa
+0x0033|Boulevard Rosa
+0x0034|Corso Basso
+0x0035|Corso Alto
+0x0036|1º isolato del Quartiere Rosa
+0x0037|3º isolato del Quartiere Rosa
+0x0038|5º isolato del Quartiere Rosa
+0x0039|6º isolato del Quartiere Rosa
+0x003a|Sottostazione elettrica
+0x003b|2º isolato del Quartiere Rosa
+0x003c|4º isolato del Quartiere Rosa
+0x003d|7º isolato del Quartiere Rosa
+0x003e|Q-asar Inc.
+0x003f|8º isolato del Quartiere Rosa
+0x0040|9º isolato del Quartiere Rosa
+0x0041|Piazza Rosa
+0x0042|Boulevard Rosso
+0x0043|Boulevard Rosso
+0x0044|Corso Alto
+0x0045|Corso Alto
+0x0046|1º isolato del Quartiere Rosso
+0x0047|3º isolato del Quartiere Rosso
+0x0048|4º isolato del Quartiere Rosso
+0x0049|5º isolato del Quartiere Rosso
+0x004a|7º isolato del Quartiere Rosso
+0x004b|2º isolato del Quartiere Rosso
+0x004c|Istituto Étoile
+0x004d|6º isolato del Quartiere Rosso
+0x004e|Cimitero Dormibien
+0x004f|8º isolato del Quartiere Rosso
+0x0050|Piazza Rossa
+0x0051|Boulevard Giallo
+0x0052|Boulevard Giallo
+0x0053|Corso Alto
+0x0054|Corso Alto
+0x0055|1º isolato del Quartiere Giallo
+0x0056|3º isolato del Quartiere Giallo
+0x0057|4º isolato del Quartiere Giallo
+0x0058|5º isolato del Quartiere Giallo
+0x0059|7º isolato del Quartiere Giallo
+0x005a|8º isolato del Quartiere Giallo
+0x005b|2º isolato del Quartiere Giallo
+0x005c|Riva del Canal des Saisons
+0x005d|6º isolato del Quartiere Giallo
+0x005e|9º isolato del Quartiere Giallo
+0x005f|10º isolato del Quartiere Giallo
+0x0060|11º isolato del Quartiere Giallo
+0x0061|12º isolato del Quartiere Giallo
+0x0062|Piazza Gialla
+0x0063|Promenade du Vent
+0x0064|Museo di Luminopoli
+0x0065|Centro Pokémon del Quartiere Verde
+0x0066|Hotel Z
+0x0067|Laboratorio Pokémon
+0x0068|Torre Prisma
+0x0069|Agenzia Bellocchio
+0x006a|Q-asar Inc.
+0x006b|Costruzioni Racines
+0x006c|Piazza Verde
+0x006d|Terminal di Luminopoli
+0x006e|Piazza Blu
+0x006f|Sede del Clan Ruggine
+0x0070|Centro Pokémon del Quartiere Blu
+0x0071|Centro Pokémon di Viale Primavera
+0x0072|Piazza Rosa
+0x0073|Caffè Elisio
+0x0074|Centro Pokémon del Quartiere Rosa
+0x0075|Centro Pokémon di Piazza Rosa
+0x0076|Piazza Rossa
+0x0077|Grand Hotel Fior di Quattrini
+0x0078|Centro Pokémon del Quartiere Rosso
+0x0079|Centro Pokémon di Piazza Centrale
+0x007a|Piazza Gialla
+0x007b|Dojo del Gruppo Justice
+0x007c|Centro Pokémon del Quartiere Giallo
+0x007d|Centro Pokémon di Viale Inverno
+0x007e|Salone Acconciature
+0x007f|Gioielleria
+0x0080|Negozio di Poké Ball
+0x0081|Gears
+0x0082|Boutique Chic-à-Porter
+0x0083|Ristorante Bocca Buona
+0x0084|Caffè Burrasca
+0x0085|Caffè À la Mode
+0x0086|Bar I Timidi
+0x0087|Empty Room (Abandoned Building)
+0x0088|Sewer Entrance
+0x0089|Neat Edge
+0x008a|BRAVELY
+0x008b|Dessert du Chef
+0x008c|Mercato Blu
+0x008d|In The Zone
+0x008e|BACKFLIP
+0x008f|Triathlon Blu
+0x0090|Defog Ottica
+0x0091|Equip
+0x0092|Salone Camerino
+0x0093|Caffè Qua la Zampa
+0x0094|Café Soleil
+0x0095|Bar Lo Scatto
+0x0096|Acquedotto di Luminopoli
+0x0097|Caffè io&te
+0x0098|Caffè Slalom
+0x0099|Caffè I Ragazzi
+0x009a|Caffè La Tazza Vuota
+0x009b|Il Solito
+0x009c|Énergétique
+0x009d|Passe-temps
+0x009e|Porte-Chance
+0x009f|Pinceau
+0x00a0|Penni Kelly
+0x00a1|Sol et Baskets
+0x00a2|Marquage
+0x00a3|Girly Imp
+0x00a4|Pretty Imp
+0x00a5|Sporty Imp
+0x00a6|Nyx Nox
+0x00a7|Cappotti & Paltò
+0x00a8|Rite de Minuit
+0x00a9|Mode Mature
+0x00aa|La Lanterna
+0x00ab|Mode Magnifique
+0x00ac|GRAN FAN
+0x00ad|DENSOKU Luminopoli
+0x00ae|La Chaussure
+0x00af|Atelier Capoccia
+0x00b0|Cute Imp
+0x00b1|Kikonashi
+0x00b2|SUBATOMIC
+0x00b3|SUBATOMIC 4
+0x00b4|Prima Scelta
+0x00b5|Le Pays des Vêtements
+0x00b6|Triathlon Rosso
+0x00b7|Le Pays des Pieds
+0x00b8|Tornado
+0x00b9|Ristorante La Buona Forchetta
+0x00ba|Ristorante Girasogno
+0x00bb|Ristorante Gourmet
+0x00bc|Acquedotto di Luminopoli
+0x00bd|Caffè Concordia
+0x00be|Caffè I Patiti
+0x00bf|Caffè Ciak
+0x00c0|Caffè Le Lotte
+0x00c1|Zona selvaggia 17
+0x00c2|Zona selvaggia 1
+0x00c3|Zona selvaggia 2
+0x00c4|Zona selvaggia 12
+0x00c5|Zona selvaggia 10
+0x00c6|Zona selvaggia 5
+0x00c7|Zona selvaggia 16
+0x00c8|Zona selvaggia 14
+0x00c9|Zona selvaggia 9
+0x00ca|Zona selvaggia 18
+0x00cb|Zona selvaggia 7
+0x00cc|Zona selvaggia 13
+0x00cd|Zona selvaggia 4
+0x00ce|Zona selvaggia 3
+0x00cf|Zona selvaggia 15
+0x00d0|Zona selvaggia 19
+0x00d1|Zona selvaggia 6
+0x00d2|Zona selvaggia 11
+0x00d3|Zona selvaggia 8
+0x00d4|Zona selvaggia 20
+0x00d5|Zona lotta
+0x00d6|Passage du Bonheur
+0x00d7|Passage de l’Ombre
+0x00d8|Galleria Clair de Lune
+0x00d9|Passage du Palais
+0x00da|Dojo del Gruppo Justice
+0x00db|Hotel Z
+0x00dc|Costruzioni Racines
+0x00dd|Grand Hotel Fior di Quattrini
+0x00de|Sede del Clan Ruggine
+0x00df|Terminal di Luminopoli
+0x00e0|Q-asar Inc.
+0x00e1|Ristorante Bocca Buona
+0x00e2|Ristorante La Buona Forchetta
+0x00e3|Ristorante Gourmet
+0x00e4|Ristorante Girasogno
+0x00e5|Agenzia Bellocchio
+0x00e6|Laboratorio Pokémon
+0x00e7|Edificio commerciale
+0x00e8|Museo di Luminopoli
+0x00e9|Caffè Elisio
+0x00ea|Laboratori Elisio
+0x00eb|Acquedotto
+0x00ec|Stanza 201
+0x00ed|Stanza 202
+0x00ee|Stanza 203
+0x00ef|Stanza 204
+0x0111|Luminopoli dimensionale
+0x0112|Varco d’ingresso dimensionale
+0x0113|Luogo della catastrofe (Luminopoli dimensionale)
+0x0114|Terra di caccia solitaria (Luminopoli dimensionale)
+0x0115|Sushi-bar satollo (Luminopoli dimensionale)
+0x0116|Sala del veggente (Luminopoli dimensionale)
+0x0117|Inferno di fiamme (Luminopoli dimensionale)
+0x0118|Incubo dell’Isola Lunanuova (Luminopoli dimensionale)
+0x0119|Mare primordiale (Luminopoli dimensionale)
+0x011a|Terra estrema (Luminopoli dimensionale)
+0x011b|Pilastro dei cieli (Luminopoli dimensionale)
+0x7531|scambio in link
+0x7532|scambio in link
+0x7533|Kanto
+0x7534|Johto
+0x7535|Hoenn
+0x7536|Sinnoh
+0x7537|terra lontana
+0x7538|----------
+0x7539|Unima
+0x753a|Kalos
+0x753b|Pokémon Link
+0x753c|Pokémon GO
+0x753d|Kanto
+0x753e|Hoenn
+0x753f|Alola
+0x7540|Poké Resort
+0x7541|Johto
+0x7542|Pokémon HOME
+0x7543|Kanto
+0x7544|Galar
+0x7545|Hisui
+0x7546|Sinnoh
+0x7547|picnic
+0x7548|grotta dei cristalli
+0x7549|Paldea
+0x754a|Luminopoli
+0x754b|Laboratorio Pokémon
+0x754c|zona selvaggia 11
+0x754d|Museo di Luminopoli
+0x754e|Istituto Étoile
+0x754f|2º isolato del Quartiere Rosa
+0x7550|Corso Alto
+0x7551|1º isolato del Quartiere Rosso
+0x7552|Luminopoli dimensionale
+0x7553|Q-asar Inc.
+0x9c41|luogo grazioso
+0x9c42|luogo remoto
+0x9c43|film Pokémon
+0x9c44|film Pokémon (2024)
+0x9c45|film Pokémon (2025)
+0x9c46|film Pokémon (2026)
+0x9c47|film Pokémon (2027)
+0x9c48|film Pokémon (2028)
+0x9c49|cartone animato Pokémon
+0x9c4a|Pokémon Center
+0x9c4b|Pokémon Center Tohoku
+0x9c4c|WCS
+0x9c4d|WCS 2024
+0x9c4e|WCS 2025
+0x9c4f|WCS 2026
+0x9c50|WCS 2027
+0x9c51|WCS 2028
+0x9c52|Worlds
+0x9c53|Worlds 2024
+0x9c54|Worlds 2025
+0x9c55|Worlds 2026
+0x9c56|Worlds 2027
+0x9c57|Worlds 2028
+0x9c58|VGE
+0x9c59|VGE (2024)
+0x9c5a|VGE (2025)
+0x9c5b|VGE (2026)
+0x9c5c|VGE (2027)
+0x9c5d|VGE (2028)
+0x9c5e|evento Pokémon
+0x9c5f|gara
+0x9c60|evento di gioco
+0x9c61|Pokémon Daisuki Club
+0x9c62|programma TV Pokémon
+0x9c63|concerto
+0x9c64|regalo online
+0x9c65|PGL
+0x9c66|evento Pokémon (2024)
+0x9c67|evento Pokémon (2025)
+0x9c68|evento Pokémon (2026)
+0x9c69|evento Pokémon (2027)
+0x9c6a|evento Pokémon (2028)
+0x9c6b|evento Pokémon
+0x9c6c|evento Pokémon (2024)
+0x9c6d|evento Pokémon (2025)
+0x9c6e|evento Pokémon (2026)
+0x9c6f|evento Pokémon (2027)
+0x9c70|evento Pokémon (2028)
+0x9c71|PokéPark
+0x9c72|PokéPark (2024)
+0x9c73|PokéPark (2025)
+0x9c74|PokéPark (2026)
+0x9c75|PokéPark (2027)
+0x9c76|PokéPark (2028)
+0x9c77|evento
+0x9c78|GAME FREAK
+0x9c79|stadio
+0x9c7a|VGC
+0x9c7b|VGC 2024
+0x9c7c|VGC 2025
+0x9c7d|VGC 2026
+0x9c7e|VGC 2027
+0x9c7f|VGC 2028
+0x9c80|Virtual Console
+0x9c81|Pokémon GO
+0x9c82|Banca Pokémon
+0x9c83|negozio Pokémon
+0x9c84|demo
+0x9c85|Poké Ball Plus
+0x9c86|Pokémon HOME
+0xea61|persona lontana
+0xea62|Ostello Pokémon
+0xea63|Cercatesori
+0xea64|vecchina delle terme
+0xea65|Luminopoli

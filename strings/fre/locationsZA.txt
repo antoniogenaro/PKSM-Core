@@ -1,0 +1,358 @@
+0x0000|－－－－－－－－－－
+0x0002|Endroit mystérieux
+0x0004|Endroit lointain
+0x0006|Beau-Vert
+0x0007|Valcyan
+0x0008|Rosavilliers
+0x0009|Maurouge
+0x000a|Jaunemont
+0x000b|Place Centrale
+0x000c|Avenue Floréal
+0x000d|Avenue Thermidor
+0x000e|Avenue Vendémiaire
+0x000f|Avenue Ventôse
+0x0010|Canal des Saisons
+0x0011|Avenue Verte
+0x0012|Avenue Verte
+0x0013|Rue Méridionale
+0x0014|Rue Méridionale
+0x0015|1ᵉʳ arrondissement de Beau-Vert
+0x0016|3ᵉ arrondissement de Beau-Vert
+0x0017|Canal Lacoulée
+0x0018|6ᵉ arrondissement de Beau-Vert
+0x0019|7ᵉ arrondissement de Beau-Vert
+0x001a|Parvis d’Illumis Sud
+0x001b|2ᵉ arrondissement de Beau-Vert
+0x001c|4ᵉ arrondissement de Beau-Vert
+0x001d|5ᵉ arrondissement de Beau-Vert
+0x001e|8ᵉ arrondissement de Beau-Vert
+0x001f|9ᵉ arrondissement de Beau-Vert
+0x0020|Place Verte
+0x0021|Avenue Cyan
+0x0022|Avenue Cyan
+0x0023|Rue Méridionale
+0x0024|Rue Méridionale
+0x0025|1ᵉʳ arrondissement de Valcyan
+0x0026|3ᵉ arrondissement de Valcyan
+0x0027|Parc Montprélasse
+0x0028|5ᵉ arrondissement de Valcyan
+0x0029|7ᵉ arrondissement de Valcyan
+0x002a|2ᵉ arrondissement de Valcyan
+0x002b|4ᵉ arrondissement de Valcyan
+0x002c|Allée Ranavoir
+0x002d|6ᵉ arrondissement de Valcyan
+0x002e|8ᵉ arrondissement de Valcyan
+0x002f|9ᵉ arrondissement de Valcyan
+0x0030|10ᵉ arrondissement de Valcyan
+0x0031|Place Cyan
+0x0032|Avenue Rose
+0x0033|Avenue Rose
+0x0034|Rue Méridionale
+0x0035|Rue Septentrionale
+0x0036|1ᵉʳ arrondissement de Rosavilliers
+0x0037|3ᵉ arrondissement de Rosavilliers
+0x0038|5ᵉ arrondissement de Rosavilliers
+0x0039|6ᵉ arrondissement de Rosavilliers
+0x003a|Poste Électrique d’Illumis
+0x003b|2ᵉ arrondissement de Rosavilliers
+0x003c|4ᵉ arrondissement de Rosavilliers
+0x003d|7ᵉ arrondissement de Rosavilliers
+0x003e|Société Quazar
+0x003f|8ᵉ arrondissement de Rosavilliers
+0x0040|9ᵉ arrondissement de Rosavilliers
+0x0041|Place Rose
+0x0042|Avenue Rouge
+0x0043|Avenue Rouge
+0x0044|Rue Septentrionale
+0x0045|Rue Septentrionale
+0x0046|1ᵉʳ arrondissement de Maurouge
+0x0047|3ᵉ arrondissement de Maurouge
+0x0048|4ᵉ arrondissement de Maurouge
+0x0049|5ᵉ arrondissement de Maurouge
+0x004a|7ᵉ arrondissement de Maurouge
+0x004b|2ᵉ arrondissement de Maurouge
+0x004c|Institut Nivers
+0x004d|6ᵉ arrondissement de Maurouge
+0x004e|Cimetière Dussommeil
+0x004f|8ᵉ arrondissement de Maurouge
+0x0050|Place Rouge
+0x0051|Avenue Jaune
+0x0052|Avenue Jaune
+0x0053|Rue Septentrionale
+0x0054|Rue Septentrionale
+0x0055|1ᵉʳ arrondissement de Jaunemont
+0x0056|3ᵉ arrondissement de Jaunemont
+0x0057|4ᵉ arrondissement de Jaunemont
+0x0058|5ᵉ arrondissement de Jaunemont
+0x0059|7ᵉ arrondissement de Jaunemont
+0x005a|8ᵉ arrondissement de Jaunemont
+0x005b|2ᵉ arrondissement de Jaunemont
+0x005c|Quai du Canal des Saisons
+0x005d|6ᵉ arrondissement de Jaunemont
+0x005e|9ᵉ arrondissement de Jaunemont
+0x005f|10ᵉ arrondissement de Jaunemont
+0x0060|11ᵉ arrondissement de Jaunemont
+0x0061|12ᵉ arrondissement de Jaunemont
+0x0062|Place Jaune
+0x0063|Boulevard du Vent
+0x0064|Musée d’Illumis
+0x0065|Centre Pokémon de Beau-Vert
+0x0066|Hôtel Z
+0x0067|Laboratoire Pokémon
+0x0068|Tour Prismatique
+0x0069|Agence Beladonis
+0x006a|Société Quazar
+0x006b|Bâti-Racines
+0x006c|Place Verte
+0x006d|Illumis Sud
+0x006e|Place Cyan
+0x006f|Agence Dérouillard
+0x0070|Centre Pokémon de Valcyan
+0x0071|Centre Pokémon de l’Avenue Floréal
+0x0072|Place Rose
+0x0073|Café Lysandre
+0x0074|Centre Pokémon de Rosavilliers
+0x0075|Centre Pokémon de la Place Rose
+0x0076|Place Rouge
+0x0077|Le Crésus
+0x0078|Centre Pokémon de Maurouge
+0x0079|Centre Pokémon de la Place Centrale
+0x007a|Place Jaune
+0x007b|Dojo de la Justice
+0x007c|Centre Pokémon de Jaunemont
+0x007d|Centre Pokémon de l’Avenue Ventôse
+0x007e|Salon de coiffure
+0x007f|Le Joyau de Kalos
+0x0080|Le Ball-Bazar
+0x0081|Gears
+0x0082|Au Chic-à-Porter
+0x0083|L’Étoilé
+0x0084|La Drôle d’Embringue
+0x0085|Le Lounge Café
+0x0086|Les Timides
+0x0087|Empty Room (Abandoned Building)
+0x0088|Sewer Entrance
+0x0089|La Pointe de la Mode
+0x008a|Braverry
+0x008b|Régal et Vous
+0x008c|Halle Cyan
+0x008d|Outlet’s Play
+0x008e|Folha
+0x008f|Triathlon Valcyan
+0x0090|Optique Defog
+0x0091|Prêt-à-Équiper
+0x0092|Détente et Beauté
+0x0093|Café Toutou
+0x0094|Café Soleil
+0x0095|Un Autre Regard
+0x0096|Égouts d’Illumis
+0x0097|Café Récré
+0x0098|Café Slalom
+0x0099|Le Café des Compères
+0x009a|Au Coucou
+0x009b|Comd’hab
+0x009c|Énergie
+0x009d|Passe-Temps
+0x009e|Porte-Chance
+0x009f|Pinceau
+0x00a0|Beaudodo
+0x00a1|Sol et Baskets
+0x00a2|Marquage
+0x00a3|Kawaï Joli
+0x00a4|Kawaï Choupi
+0x00a5|Kawaï Sporty
+0x00a6|Alter & Goth
+0x00a7|Mantotop
+0x00a8|Rituel Nocturne
+0x00a9|Mode Mature
+0x00aa|De Mèche
+0x00ab|Mode Magnifique
+0x00ac|Cinéfil
+0x00ad|Kaminari Illumis
+0x00ae|La Chaussure
+0x00af|Atelier Chapelier
+0x00b0|Kawaï Mimi
+0x00b1|Kikonashi
+0x00b2|Physix
+0x00b3|Physix 4
+0x00b4|Lex & Lans
+0x00b5|Le Paradis du Vêtement
+0x00b6|Triathlon Maurouge
+0x00b7|Le Paradis du Pied
+0x00b8|Tornade
+0x00b9|Les Algolides
+0x00ba|Sushi Sans Chichis
+0x00bb|Le Firmament
+0x00bc|Égouts d’Illumis
+0x00bd|Les Partenaires
+0x00be|L’Ultimate
+0x00bf|Café Clap
+0x00c0|La Bataille
+0x00c1|Zone sauvage nº 17
+0x00c2|Zone sauvage nº 1
+0x00c3|Zone sauvage nº 2
+0x00c4|Zone sauvage nº 12
+0x00c5|Zone sauvage nº 10
+0x00c6|Zone sauvage nº 5
+0x00c7|Zone sauvage nº 16
+0x00c8|Zone sauvage nº 14
+0x00c9|Zone sauvage nº 9
+0x00ca|Zone sauvage nº 18
+0x00cb|Zone sauvage nº 7
+0x00cc|Zone sauvage nº 13
+0x00cd|Zone sauvage nº 4
+0x00ce|Zone sauvage nº 3
+0x00cf|Zone sauvage nº 15
+0x00d0|Zone sauvage nº 19
+0x00d1|Zone sauvage nº 6
+0x00d2|Zone sauvage nº 11
+0x00d3|Zone sauvage nº 8
+0x00d4|Zone sauvage nº 20
+0x00d5|Zone de combat
+0x00d6|Passage du Bonheur
+0x00d7|Passage de l’Ombre
+0x00d8|Galerie Clair de Lune
+0x00d9|Passage du Palais
+0x00da|Dojo de la Justice
+0x00db|Hôtel Z
+0x00dc|Bâti-Racines
+0x00dd|Grand Hôtel Le Crésus
+0x00de|Agence Dérouillard
+0x00df|Illumis Sud
+0x00e0|Société Quazar
+0x00e1|L’Étoilé
+0x00e2|Les Algolides
+0x00e3|Le Firmament
+0x00e4|Sushi Sans Chichis
+0x00e5|Agence Beladonis
+0x00e6|Laboratoire Pokémon
+0x00e7|Immeuble de bureaux
+0x00e8|Musée d’Illumis
+0x00e9|Café Lysandre
+0x00ea|Labos Lysandre
+0x00eb|Égouts
+0x00ec|Chambre 201
+0x00ed|Chambre 202
+0x00ee|Chambre 203
+0x00ef|Chambre 204
+0x0111|Extra Illumis
+0x0112|Portail d’accès vers Extra Illumis
+0x0113|Zone du Désastre
+0x0114|Territoire du Chasseur Solitaire
+0x0115|Au Mât Cassé
+0x0116|Antre du Clairvoyant
+0x0117|Enfer Embrasé
+0x0118|Cauchemar de Nouvellune
+0x0119|Mer Primaire
+0x011a|Terre Finale
+0x011b|Pilier des Cieux
+0x7531|Échange en réseau
+0x7532|Échange en réseau
+0x7533|Kanto
+0x7534|Johto
+0x7535|Hoenn
+0x7536|Sinnoh
+0x7537|Pays lointain
+0x7538|－－－－－－－－－－
+0x7539|Unys
+0x753a|Kalos
+0x753b|Poké Lien
+0x753c|Pokémon GO
+0x753d|Kanto
+0x753e|Hoenn
+0x753f|Alola
+0x7540|Poké Loisir
+0x7541|Johto
+0x7542|Pokémon HOME
+0x7543|Kanto
+0x7544|Galar
+0x7545|Hisui
+0x7546|Sinnoh
+0x7547|Pique-nique
+0x7548|Grotte de cristal
+0x7549|Paldea
+0x754a|Illumis
+0x754b|Laboratoire Pokémon
+0x754c|Zone sauvage nº 11
+0x754d|Musée d’Illumis
+0x754e|Institut Nivers
+0x754f|2ᵉ arrondissement de Rosavilliers
+0x7550|Rue Septentrionale
+0x7551|1ᵉʳ arrondissement de Maurouge
+0x7552|Extra Illumis
+0x7553|Société Quazar
+0x9c41|Endroit superbe
+0x9c42|Endroit lointain
+0x9c43|Film Pokémon
+0x9c44|Film Pokémon 2024
+0x9c45|Film Pokémon 2025
+0x9c46|Film Pokémon 2026
+0x9c47|Film Pokémon 2027
+0x9c48|Film Pokémon 2028
+0x9c49|Dessin animé Pokémon
+0x9c4a|Pokémon Center
+0x9c4b|Pokémon Center Tohoku
+0x9c4c|WCS
+0x9c4d|WCS 2024
+0x9c4e|WCS 2025
+0x9c4f|WCS 2026
+0x9c50|WCS 2027
+0x9c51|WCS 2028
+0x9c52|Worlds
+0x9c53|Worlds 2024
+0x9c54|Worlds 2025
+0x9c55|Worlds 2026
+0x9c56|Worlds 2027
+0x9c57|Worlds 2028
+0x9c58|Évènement Jeu Vidéo
+0x9c59|Évènement Jeu Vidéo 2024
+0x9c5a|Évènement Jeu Vidéo 2025
+0x9c5b|Évènement Jeu Vidéo 2026
+0x9c5c|Évènement Jeu Vidéo 2027
+0x9c5d|Évènement Jeu Vidéo 2028
+0x9c5e|Évènement Pokémon
+0x9c5f|Compétition
+0x9c60|Évènement
+0x9c61|Pokémon Daisuki Club
+0x9c62|Émission Pokémon
+0x9c63|Concert
+0x9c64|Cadeau téléchargeable
+0x9c65|Pokémon Global Link
+0x9c66|Évènement Pokémon 2024
+0x9c67|Évènement Pokémon 2025
+0x9c68|Évènement Pokémon 2026
+0x9c69|Évènement Pokémon 2027
+0x9c6a|Évènement Pokémon 2028
+0x9c6b|Évènement Pokémon
+0x9c6c|Évènement Pokémon 2024
+0x9c6d|Évènement Pokémon 2025
+0x9c6e|Évènement Pokémon 2026
+0x9c6f|Évènement Pokémon 2027
+0x9c70|Évènement Pokémon 2028
+0x9c71|PokéPark
+0x9c72|PokéPark 2024
+0x9c73|PokéPark 2025
+0x9c74|PokéPark 2026
+0x9c75|PokéPark 2027
+0x9c76|PokéPark 2028
+0x9c77|Lieu d’évènement
+0x9c78|GAME FREAK
+0x9c79|Stade
+0x9c7a|VGC
+0x9c7b|VGC 2024
+0x9c7c|VGC 2025
+0x9c7d|VGC 2026
+0x9c7e|VGC 2027
+0x9c7f|VGC 2028
+0x9c80|Console virtuelle
+0x9c81|Pokémon GO
+0x9c82|Banque Pokémon
+0x9c83|Magasin Pokémon
+0x9c84|Démo
+0x9c85|Poké Ball Plus
+0x9c86|Pokémon HOME
+0xea61|Personne lointaine
+0xea62|Responsable de la Garderie
+0xea63|Chercheur de Trésors
+0xea64|Dame des Eaux Thermales
+0xea65|Illumis

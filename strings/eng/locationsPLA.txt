@@ -1,0 +1,261 @@
+0x0000|——————
+0x0002|Mystery Zone
+0x0004|Faraway place
+0x0006|Jubilife Village
+0x0007|Obsidian Fieldlands
+0x0008|Crimson Mirelands
+0x0009|Cobalt Coastlands
+0x000a|Coronet Highlands
+0x000b|Alabaster Icelands
+0x000c|Ancient Retreat
+0x000d|Aspiration Hill
+0x000e|Horseshoe Plains
+0x000f|Deertrack Path
+0x0010|Deertrack Heights
+0x0011|Obsidian Falls
+0x0012|Oreburrow Tunnel
+0x0013|Nature’s Pantry
+0x0014|The Heartwood
+0x0015|Grandtree Arena
+0x0016|Grueling Grove
+0x0017|Lake Verity
+0x0018|Sandgem Flats
+0x0019|Tidewater Dam
+0x001a|Floaro Gardens
+0x001b|Ramanas Island
+0x001c|Fieldlands Camp
+0x001d|Heights Camp
+0x001e|Windswept Run
+0x001f|Floaro Gardens
+0x0020|Worn Bridge
+0x0021|Moss Rock
+0x0022|Golden Lowlands
+0x0023|Solaceon Ruins
+0x0024|Gapejaw Bog
+0x0025|Sludge Mound
+0x0026|Scarlet Bog
+0x0027|Bolderoll Slope
+0x0028|Diamond Settlement
+0x0029|Lake Valor
+0x002a|Cloudpool Ridge
+0x002b|Shrouded Ruins
+0x002d|Holm of Trials
+0x002e|Droning Meadow
+0x002f|Mirelands Camp
+0x0030|Bogbound Camp
+0x0031|Crossing Slope
+0x0032|Ginkgo Landing
+0x0033|Deadwood Haunt
+0x0034|Hideaway Bay
+0x0035|Tombolo Walk
+0x0036|Veilstone Cape
+0x0037|Seagrass Haven
+0x0038|Firespit Island
+0x0039|Iscan’s Home
+0x003a|Spring Path
+0x003b|Lunker’s Lair
+0x003c|Islespy Shore
+0x003d|Windbreak Stand
+0x003f|Tidal Passage
+0x0040|Seaside Hollow
+0x0041|Beachside Camp
+0x0042|Coastlands Camp
+0x0043|Turnback Cave
+0x0044|Lava Dome Sanctum
+0x0045|Highlands Camp
+0x0046|Heavenward Lookout
+0x0047|Wayward Wood
+0x0048|Ancient Quarry
+0x0049|Celestica Trail
+0x004a|Lonely Spring
+0x004b|Fabled Spring
+0x004c|Bolderoll Ravine
+0x004d|Stonetooth Rows
+0x004f|Primeval Grotto
+0x0050|Clamberclaw Cliffs
+0x0051|Celestica Ruins
+0x0052|Moonview Arena
+0x0053|Summit Camp
+0x0054|Cloudcap Pass
+0x0055|Spear Pillar
+0x0056|Wayward Cave
+0x0057|Snowfields Camp
+0x0058|Whiteout Valley
+0x0059|Crevasse Passage
+0x005a|Bonechill Wastes
+0x005c|Avalugg’s Legacy
+0x005d|Glacier Terrace
+0x005e|Lake Acuity
+0x005f|Snowpoint Temple
+0x0060|Hibernal Cave
+0x0061|Icebound Falls
+0x0062|Avalanche Slopes
+0x0063|Arena’s Approach
+0x0064|Pearl Settlement
+0x0065|Heart’s Crag
+0x0066|Ice Column Chamber
+0x0067|Icepeak Camp
+0x0068|Verity Cavern
+0x0069|Valor Cavern
+0x006a|Cottonsedge Prairie
+0x006b|Mountain Camp
+0x006c|Stone Portal
+0x006d|Temple of Sinnoh
+0x006e|Ice Rock
+0x006f|Acuity Cavern
+0x0070|Icepeak Cavern
+0x0071|Secret Hollow
+0x0072|Galaxy Hall
+0x0073|General Store
+0x0074|Candy Stand
+0x0075|Craftworks
+0x0076|Ginkgo Guild Cart
+0x0077|Trading Post
+0x0078|Pastures
+0x0079|Clothier
+0x007a|Hairdresser
+0x007b|Photography Studio
+0x007c|Farm
+0x007d|Training Grounds
+0x007e|Folk Shrine
+0x007f|Your Quarters
+0x0080|Castaway Shore
+0x0081|Sand’s Reach
+0x0082|Sonorous Path
+0x0083|Sacred Plaza
+0x0084|Front Gate
+0x0085|Seaside Gate
+0x0086|Canala Avenue
+0x0087|Floaro Main Street
+0x0088|Prelude Beach
+0x0089|Practice Field
+0x008a|???
+0x008b|Brava Arena
+0x008c|Molten Arena
+0x008d|Icepeak Arena
+0x008e|Snowfall Hot Spring
+0x008f|First Floor
+0x0090|Second Floor
+0x0091|Third Floor
+0x0092|Basement
+0x0093|Ursa’s Ring
+0x0094|Diamond Heath
+0x0095|Aipom Hill
+0x0096|Bathers’ Lagoon
+0x0097|Tranquility Cove
+0x0098|Galaxy Hall
+0x0099|Front Gate
+0x009a|Farm
+0x009b|Training Grounds
+0x7531|a Link Trade
+0x7532|a Link Trade
+0x7533|the Kanto region
+0x7534|the Johto region
+0x7535|the Hoenn region
+0x7536|the Sinnoh region
+0x7537|a distant land
+0x7538|——————
+0x7539|the Unova region
+0x753a|the Kalos region
+0x753b|Pokémon Link
+0x753c|Pokémon GO
+0x753d|the Kanto region
+0x753e|the Hoenn region
+0x753f|the Alola region
+0x7540|Poké Pelago
+0x7541|the Johto region
+0x7542|Pokémon HOME
+0x7543|the Kanto region
+0x7544|the Galar region
+0x7545|the Hisui region
+0x7546|the Sinnoh region
+0x9c41|a lovely place
+0x9c42|a faraway place
+0x9c43|a Pokémon movie
+0x9c44|[~ 3]
+0x9c45|a 2019 Pokémon movie
+0x9c46|a 2020 Pokémon movie
+0x9c47|a 2021 Pokémon movie
+0x9c48|a 2022 Pokémon movie
+0x9c49|a 2023 Pokémon movie
+0x9c4a|a 2024 Pokémon movie
+0x9c4b|the Pokémon animated show
+0x9c4c|a Pokémon Center
+0x9c4d|Pokémon Center Tohoku
+0x9c4e|a WCS
+0x9c4f|[~ 14]
+0x9c50|WCS 2019
+0x9c51|WCS 2020
+0x9c52|WCS 2021
+0x9c53|WCS 2022
+0x9c54|WCS 2023
+0x9c55|WCS 2024
+0x9c56|Worlds
+0x9c57|[~ 22]
+0x9c58|2019 Worlds
+0x9c59|2020 Worlds
+0x9c5a|2021 Worlds
+0x9c5b|2022 Worlds
+0x9c5c|2023 Worlds
+0x9c5d|2024 Worlds
+0x9c5e|a VGE
+0x9c5f|[~ 30]
+0x9c60|VGE 2019
+0x9c61|VGE 2020
+0x9c62|VGE 2021
+0x9c63|VGE 2022
+0x9c64|VGE 2023
+0x9c65|VGE 2024
+0x9c66|a Pokémon event
+0x9c67|a Battle Competition
+0x9c68|a game event
+0x9c69|the Pokémon Daisuki Club
+0x9c6a|a Pokémon TV program
+0x9c6b|a concert
+0x9c6c|an online present
+0x9c6d|the PGL
+0x9c6e|[~ 45]
+0x9c6f|a 2019 Pokémon event
+0x9c70|a 2020 Pokémon event
+0x9c71|a 2021 Pokémon event
+0x9c72|a 2022 Pokémon event
+0x9c73|a 2023 Pokémon event
+0x9c74|a 2024 Pokémon event
+0x9c75|a Pokémon event
+0x9c76|[~ 53]
+0x9c77|a 2019 Pokémon event
+0x9c78|a 2020 Pokémon event
+0x9c79|a 2021 Pokémon event
+0x9c7a|a 2022 Pokémon event
+0x9c7b|a 2023 Pokémon event
+0x9c7c|a 2024 Pokémon event
+0x9c7d|PokéPark
+0x9c7e|[~ 61]
+0x9c7f|PokéPark 2019
+0x9c80|PokéPark 2020
+0x9c81|PokéPark 2021
+0x9c82|PokéPark 2022
+0x9c83|PokéPark 2023
+0x9c84|PokéPark 2024
+0x9c85|an event site
+0x9c86|GAME FREAK
+0x9c87|a stadium
+0x9c88|a VGC event
+0x9c89|[~ 72]
+0x9c8a|the VGC 2019
+0x9c8b|the VGC 2020
+0x9c8c|the VGC 2021
+0x9c8d|the VGC 2022
+0x9c8e|the VGC 2023
+0x9c8f|the VGC 2024
+0x9c90|a Virtual Console game
+0x9c91|Pokémon GO
+0x9c92|Pokémon Bank
+0x9c93|a Pokémon shop
+0x9c94|a demo version
+0x9c95|the Poké Ball Plus
+0x9c96|Pokémon HOME
+0xea61|a stranger
+0xea62|a Nursery worker
+0xea63|a treasure hunter
+0xea64|an old hot-springs visitor

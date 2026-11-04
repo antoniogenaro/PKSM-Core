@@ -157,6 +157,13 @@ namespace i18n
         pksm::Language lang, pksm::Generation generation, u16 value);
     [[nodiscard]] const std::map<u16, std::string>& rawLocations(
         pksm::Language lang, pksm::Generation g);
+    // The met locations of the game `version`. Unlike the lists by generation, Legends: Arceus
+    // and Legends: Z-A get their own lists instead of Sword and Shield's or Scarlet and
+    // Violet's.
+    [[nodiscard]] const std::string& location(
+        pksm::Language lang, pksm::GameVersion version, u16 value);
+    [[nodiscard]] const std::map<u16, std::string>& rawLocations(
+        pksm::Language lang, pksm::GameVersion version);
 
     void initGeo(pksm::Language lang);
     void exitGeo(pksm::Language lang);

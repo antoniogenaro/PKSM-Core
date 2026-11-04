@@ -1,0 +1,358 @@
+0x0000|－－－－－－－－－－
+0x0002|Mysteriöser Ort
+0x0004|Ferner Ort
+0x0006|Zone Verte
+0x0007|Zone Cyan
+0x0008|Zone Rose
+0x0009|Zone Rouge
+0x000a|Zone Jaune
+0x000b|Zentral-Plaza
+0x000c|Frühlingsallee
+0x000d|Sommerallee
+0x000e|Herbstallee
+0x000f|Winterallee
+0x0010|Jahreszeitenkanal
+0x0011|Boulevard Vert
+0x0012|Boulevard Vert
+0x0013|Südring
+0x0014|Südring
+0x0015|Verte-Bezirk 1
+0x0016|Verte-Bezirk 3
+0x0017|Nasswasserweg
+0x0018|Verte-Bezirk 6
+0x0019|Verte-Bezirk 7
+0x001a|Bahnhofsplatz Illumina Süd
+0x001b|Verte-Bezirk 2
+0x001c|Verte-Bezirk 4
+0x001d|Verte-Bezirk 5
+0x001e|Verte-Bezirk 8
+0x001f|Verte-Bezirk 9
+0x0020|Place Verte
+0x0021|Boulevard Cyan
+0x0022|Boulevard Cyan
+0x0023|Südring
+0x0024|Südring
+0x0025|Cyan-Bezirk 1
+0x0026|Cyan-Bezirk 3
+0x0027|Bummelpark
+0x0028|Cyan-Bezirk 5
+0x0029|Cyan-Bezirk 7
+0x002a|Cyan-Bezirk 2
+0x002b|Cyan-Bezirk 4
+0x002c|Espace Vide
+0x002d|Cyan-Bezirk 6
+0x002e|Cyan-Bezirk 8
+0x002f|Cyan-Bezirk 9
+0x0030|Cyan-Bezirk 10
+0x0031|Place Cyan
+0x0032|Boulevard Rose
+0x0033|Boulevard Rose
+0x0034|Südring
+0x0035|Nordring
+0x0036|Rose-Bezirk 1
+0x0037|Rose-Bezirk 3
+0x0038|Rose-Bezirk 5
+0x0039|Rose-Bezirk 6
+0x003a|Illumina-Umspannwerk
+0x003b|Rose-Bezirk 2
+0x003c|Rose-Bezirk 4
+0x003d|Rose-Bezirk 7
+0x003e|Quazar Corporation
+0x003f|Rose-Bezirk 8
+0x0040|Rose-Bezirk 9
+0x0041|Place Rose
+0x0042|Boulevard Rouge
+0x0043|Boulevard Rouge
+0x0044|Nordring
+0x0045|Nordring
+0x0046|Rouge-Bezirk 1
+0x0047|Rouge-Bezirk 3
+0x0048|Rouge-Bezirk 4
+0x0049|Rouge-Bezirk 5
+0x004a|Rouge-Bezirk 7
+0x004b|Rouge-Bezirk 2
+0x004c|Académie Étoile
+0x004d|Rouge-Bezirk 6
+0x004e|Friedhof Bonne Nuit
+0x004f|Rouge-Bezirk 8
+0x0050|Place Rouge
+0x0051|Boulevard Jaune
+0x0052|Boulevard Jaune
+0x0053|Nordring
+0x0054|Nordring
+0x0055|Jaune-Bezirk 1
+0x0056|Jaune-Bezirk 3
+0x0057|Jaune-Bezirk 4
+0x0058|Jaune-Bezirk 5
+0x0059|Jaune-Bezirk 7
+0x005a|Jaune-Bezirk 8
+0x005b|Jaune-Bezirk 2
+0x005c|Kanalpromenade
+0x005d|Jaune-Bezirk 6
+0x005e|Jaune-Bezirk 9
+0x005f|Jaune-Bezirk 10
+0x0060|Jaune-Bezirk 11
+0x0061|Jaune-Bezirk 12
+0x0062|Place Jaune
+0x0063|Boulevard du Vent
+0x0064|Illumina-Kunstmuseum
+0x0065|Pokémon-Center (Verte)
+0x0066|Hotel Z
+0x0067|Pokémon-Labor
+0x0068|Prismaturm
+0x0069|LeBelle-Büro
+0x006a|Quazar Corporation
+0x006b|Baufirma Racine
+0x006c|Place Verte
+0x006d|Bahnhof Illumina Süd
+0x006e|Place Cyan
+0x006f|Corrosio-Clansitz
+0x0070|Pokémon-Center (Cyan)
+0x0071|Pokémon-Center (Frühlingsallee)
+0x0072|Place Rose
+0x0073|Bistro Flordelis
+0x0074|Pokémon-Center (Rose)
+0x0075|Pokémon-Center (Place Rose)
+0x0076|Place Rouge
+0x0077|Grand Hôtel Pique Faîne
+0x0078|Pokémon-Center (Rouge)
+0x0079|Pokémon-Center (Zentral-Plaza)
+0x007a|Place Jaune
+0x007b|Dojo der Gerechten
+0x007c|Pokémon-Center (Jaune)
+0x007d|Pokémon-Center (Winterallee)
+0x007e|Friseursalon
+0x007f|Stein-Boutique
+0x0080|Pokéball-Boutique
+0x0081|GEAR
+0x0082|Maison Très Chique
+0x0083|Restaurant Solala
+0x0084|Café Twister
+0x0085|Café à la Mode
+0x0086|Konnex-Café
+0x0087|Empty Room (Abandoned Building)
+0x0088|Sewer Entrance
+0x0089|Cutting Edge
+0x008a|Bravely
+0x008b|Le Dessert
+0x008c|Marché Cyan
+0x008d|Inner Space
+0x008e|Backspin
+0x008f|Sportsfreund Cyan
+0x0090|Defog Vision
+0x0091|Equip
+0x0092|Style-Salon
+0x0093|Café Wauwau
+0x0094|Café Soleil
+0x0095|Café Fokus
+0x0096|Illumina-Kanalisation
+0x0097|Café Spielstunde
+0x0098|Café Freestyle
+0x0099|Café Adonis
+0x009a|Café Coucou
+0x009b|ZéroHuit-15
+0x009c|Énergétique
+0x009d|Paston
+0x009e|Wams im Glück
+0x009f|Pinceau
+0x00a0|Heia Bubú
+0x00a1|SneakPeak
+0x00a2|Marquage
+0x00a3|Chichiffon Chic
+0x00a4|Chichiffon Pretty
+0x00a5|Chichiffon Sporty
+0x00a6|Eternuit
+0x00a7|1G-PAKT
+0x00a8|Minuit Rite
+0x00a9|Le Bon Goût
+0x00aa|Lichteloh
+0x00ab|Pomp & Ös
+0x00ac|CINEAST
+0x00ad|DENSOKU Illumina
+0x00ae|Schuhbidu
+0x00af|Prêt à Tête
+0x00b0|Chichiffon Cute
+0x00b1|ReFined
+0x00b2|SUBATOMIC
+0x00b3|SUBATOMIC 4
+0x00b4|Non + Ultra
+0x00b5|Kleiderkiste
+0x00b6|Sportsfreund Rouge
+0x00b7|Schuhschrank
+0x00b8|Tornado
+0x00b9|Restaurant chez Norme
+0x00ba|Sushi-Wok
+0x00bb|Restaurant de Luxe
+0x00bc|Illumina-Kanalisation
+0x00bd|Café Ami
+0x00be|Café Ultimo
+0x00bf|Café Nachdreh
+0x00c0|Café Bataille
+0x00c1|Wildsektor 17
+0x00c2|Wildsektor 1
+0x00c3|Wildsektor 2
+0x00c4|Wildsektor 12
+0x00c5|Wildsektor 10
+0x00c6|Wildsektor 5
+0x00c7|Wildsektor 16
+0x00c8|Wildsektor 14
+0x00c9|Wildsektor 9
+0x00ca|Wildsektor 18
+0x00cb|Wildsektor 7
+0x00cc|Wildsektor 13
+0x00cd|Wildsektor 4
+0x00ce|Wildsektor 3
+0x00cf|Wildsektor 15
+0x00d0|Wildsektor 19
+0x00d1|Wildsektor 6
+0x00d2|Wildsektor 11
+0x00d3|Wildsektor 8
+0x00d4|Wildsektor 20
+0x00d5|Kampfsektor
+0x00d6|Passage Bonheur
+0x00d7|Passage Ombre
+0x00d8|Galerie Clair de Lune
+0x00d9|Passage Palais
+0x00da|Dojo der Gerechten
+0x00db|Hotel Z
+0x00dc|Baufirma Racine
+0x00dd|Grand Hôtel Pique Faîne
+0x00de|Corrosio-Clansitz
+0x00df|Bahnhof Illumina Süd
+0x00e0|Quazar Corporation
+0x00e1|Restaurant Solala
+0x00e2|Restaurant chez Norme
+0x00e3|Restaurant de Luxe
+0x00e4|Sushi-Wok
+0x00e5|LeBelle-Büro
+0x00e6|Pokémon-Labor
+0x00e7|Geschäftsgebäude
+0x00e8|Illumina-Kunstmuseum
+0x00e9|Bistro Flordelis
+0x00ea|Labor von Flordelis
+0x00eb|Kanalisation
+0x00ec|Zimmer 201
+0x00ed|Zimmer 202
+0x00ee|Zimmer 203
+0x00ef|Zimmer 204
+0x0111|Dimensions-Illumina
+0x0112|Portal ins Dimensions-Illumina
+0x0113|Ort des Desasters
+0x0114|Stolze Jagdgründe
+0x0115|Sushi-Paradies
+0x0116|Sphäre des Hellsehers
+0x0117|Brodelndes Inferno
+0x0118|Neumondinsel der Alpträume
+0x0119|Urmeer
+0x011a|Endland
+0x011b|Großer Himmelturm
+0x7531|Link-Tausch
+0x7532|Link-Tausch
+0x7533|Kanto-Region
+0x7534|Johto-Region
+0x7535|Hoenn-Region
+0x7536|Sinnoh-Region
+0x7537|Fernes Land
+0x7538|－－－－－－－－－－
+0x7539|Einall-Region
+0x753a|Kalos-Region
+0x753b|Pokémon-Link
+0x753c|Pokémon GO
+0x753d|Kanto-Region
+0x753e|Hoenn-Region
+0x753f|Alola-Region
+0x7540|Pokémon-Resort
+0x7541|Johto-Region
+0x7542|Pokémon HOME
+0x7543|Kanto-Region
+0x7544|Galar-Region
+0x7545|Hisui-Region
+0x7546|Sinnoh-Region
+0x7547|Picknick
+0x7548|Kristallgrotte
+0x7549|Paldea-Region
+0x754a|Illumina City
+0x754b|Pokémon-Labor
+0x754c|Wildsektor 11
+0x754d|Illumina-Kunstmuseum
+0x754e|Académie Étoile
+0x754f|Rose-Bezirk 2
+0x7550|Nordring
+0x7551|Rouge-Bezirk 1
+0x7552|Dimensions-Illumina
+0x7553|Quazar Corporation
+0x9c41|Netter Ort
+0x9c42|Ferner Ort
+0x9c43|Pokémon-Film
+0x9c44|Pokémon-Film 2024
+0x9c45|Pokémon-Film 2025
+0x9c46|Pokémon-Film 2026
+0x9c47|Pokémon-Film 2027
+0x9c48|Pokémon-Film 2028
+0x9c49|Pokémon-Zeichentrickserie
+0x9c4a|Pokémon Center
+0x9c4b|Pokémon Center Tohoku
+0x9c4c|WCS
+0x9c4d|WCS 2024
+0x9c4e|WCS 2025
+0x9c4f|WCS 2026
+0x9c50|WCS 2027
+0x9c51|WCS 2028
+0x9c52|Worlds
+0x9c53|Worlds 2024
+0x9c54|Worlds 2025
+0x9c55|Worlds 2026
+0x9c56|Worlds 2027
+0x9c57|Worlds 2028
+0x9c58|VGE
+0x9c59|VGE 2024
+0x9c5a|VGE 2025
+0x9c5b|VGE 2026
+0x9c5c|VGE 2027
+0x9c5d|VGE 2028
+0x9c5e|Pokémon-Veranstaltung
+0x9c5f|Kampfturnier
+0x9c60|Videospiel-Veranstaltung
+0x9c61|Pokémon Daisuki Club
+0x9c62|Pokémon-TV-Programm
+0x9c63|Konzert
+0x9c64|Online-Geschenk
+0x9c65|PGL
+0x9c66|Pokémon-Veranstaltung 2024
+0x9c67|Pokémon-Veranstaltung 2025
+0x9c68|Pokémon-Veranstaltung 2026
+0x9c69|Pokémon-Veranstaltung 2027
+0x9c6a|Pokémon-Veranstaltung 2028
+0x9c6b|Pokémon-Veranstaltung
+0x9c6c|Pokémon-Veranstaltung 2024
+0x9c6d|Pokémon-Veranstaltung 2025
+0x9c6e|Pokémon-Veranstaltung 2026
+0x9c6f|Pokémon-Veranstaltung 2027
+0x9c70|Pokémon-Veranstaltung 2028
+0x9c71|PokéPark
+0x9c72|PokéPark 2024
+0x9c73|PokéPark 2025
+0x9c74|PokéPark 2026
+0x9c75|PokéPark 2027
+0x9c76|PokéPark 2028
+0x9c77|Veranstaltung
+0x9c78|GAME FREAK
+0x9c79|Stadion
+0x9c7a|VGC
+0x9c7b|VGC 2024
+0x9c7c|VGC 2025
+0x9c7d|VGC 2026
+0x9c7e|VGC 2027
+0x9c7f|VGC 2028
+0x9c80|Virtual Console
+0x9c81|Pokémon GO
+0x9c82|Pokémon Bank
+0x9c83|Pokémon-Geschäft
+0x9c84|Demoversion
+0x9c85|Pokéball Plus
+0x9c86|Pokémon HOME
+0xea61|Ferne Person
+0xea62|Hortleiterinnen
+0xea63|Schatzsucher
+0xea64|Dame der Heißen Quellen
+0xea65|Illumina City

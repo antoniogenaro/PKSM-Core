@@ -1,0 +1,358 @@
+0x0000|——————
+0x0002|Mystery Zone
+0x0004|Faraway place
+0x0006|Vert District
+0x0007|Bleu District
+0x0008|Magenta District
+0x0009|Rouge District
+0x000a|Jaune District
+0x000b|Centrico Plaza
+0x000c|Vernal Avenue
+0x000d|Estival Avenue
+0x000e|Autumnal Avenue
+0x000f|Hibernal Avenue
+0x0010|Saison Canal
+0x0011|Vert Street
+0x0012|Vert Street
+0x0013|South Boulevard
+0x0014|South Boulevard
+0x0015|Vert Sector 1
+0x0016|Vert Sector 3
+0x0017|Coulant Waterway
+0x0018|Vert Sector 6
+0x0019|Vert Sector 7
+0x001a|Station Front
+0x001b|Vert Sector 2
+0x001c|Vert Sector 4
+0x001d|Vert Sector 5
+0x001e|Vert Sector 8
+0x001f|Vert Sector 9
+0x0020|Vert Plaza
+0x0021|Bleu Street
+0x0022|Bleu Street
+0x0023|South Boulevard
+0x0024|South Boulevard
+0x0025|Bleu Sector 1
+0x0026|Bleu Sector 3
+0x0027|Aymlis Park
+0x0028|Bleu Sector 5
+0x0029|Bleu Sector 7
+0x002a|Bleu Sector 2
+0x002b|Bleu Sector 4
+0x002c|Espace Vide
+0x002d|Bleu Sector 6
+0x002e|Bleu Sector 8
+0x002f|Bleu Sector 9
+0x0030|Bleu Sector 10
+0x0031|Bleu Plaza
+0x0032|Magenta Street
+0x0033|Magenta Street
+0x0034|South Boulevard
+0x0035|North Boulevard
+0x0036|Magenta Sector 1
+0x0037|Magenta Sector 3
+0x0038|Magenta Sector 5
+0x0039|Magenta Sector 6
+0x003a|Electrical Substation
+0x003b|Magenta Sector 2
+0x003c|Magenta Sector 4
+0x003d|Magenta Sector 7
+0x003e|Quasartico Inc.
+0x003f|Magenta Sector 8
+0x0040|Magenta Sector 9
+0x0041|Magenta Plaza
+0x0042|Rouge Street
+0x0043|Rouge Street
+0x0044|North Boulevard
+0x0045|North Boulevard
+0x0046|Rouge Sector 1
+0x0047|Rouge Sector 3
+0x0048|Rouge Sector 4
+0x0049|Rouge Sector 5
+0x004a|Rouge Sector 7
+0x004b|Rouge Sector 2
+0x004c|Académie Étoile
+0x004d|Rouge Sector 6
+0x004e|Dormez Bien Cemetery
+0x004f|Rouge Sector 8
+0x0050|Rouge Plaza
+0x0051|Jaune Street
+0x0052|Jaune Street
+0x0053|North Boulevard
+0x0054|North Boulevard
+0x0055|Jaune Sector 1
+0x0056|Jaune Sector 3
+0x0057|Jaune Sector 4
+0x0058|Jaune Sector 5
+0x0059|Jaune Sector 7
+0x005a|Jaune Sector 8
+0x005b|Jaune Sector 2
+0x005c|Saison Canalside
+0x005d|Jaune Sector 6
+0x005e|Jaune Sector 9
+0x005f|Jaune Sector 10
+0x0060|Jaune Sector 11
+0x0061|Jaune Sector 12
+0x0062|Jaune Plaza
+0x0063|Promenade du Vent
+0x0064|Lumiose Museum
+0x0065|Vert Pokémon Center
+0x0066|Hotel Z
+0x0067|Pokémon Research Lab
+0x0068|Prism Tower
+0x0069|Looker Bureau
+0x006a|Quasartico Inc.
+0x006b|Racine Construction
+0x006c|Vert Plaza
+0x006d|Gare de Lumiose
+0x006e|Bleu Plaza
+0x006f|Rust Syndicate Office
+0x0070|Bleu Pokémon Center
+0x0071|Vernal Pokémon Center
+0x0072|Magenta Plaza
+0x0073|Lysandre Café
+0x0074|Magenta Pokémon Center
+0x0075|Magenta Plaza Pokémon Center
+0x0076|Rouge Plaza
+0x0077|Hotel Richissime
+0x0078|Rouge Pokémon Center
+0x0079|Centrico Pokémon Center
+0x007a|Jaune Plaza
+0x007b|Justice Dojo
+0x007c|Jaune Pokémon Center
+0x007d|Hibernal Pokémon Center
+0x007e|Hair Salon
+0x007f|Stone Emporium
+0x0080|Poké Ball Boutique
+0x0081|Changing Gears
+0x0082|Boutique Couture
+0x0083|Restaurant Le Nah
+0x0084|Café Cyclone
+0x0085|Café Classe
+0x0086|Café Introversion
+0x0087|Empty Room (Abandoned Building)
+0x0088|Sewer Entrance
+0x0089|Fresh Fits
+0x008a|BRAVELY
+0x008b|Dessert du Moment
+0x008c|Marché Bleu
+0x008d|In the Zone
+0x008e|Kickspin
+0x008f|Triathlon Bleu
+0x0090|DEFOG Eyewear
+0x0091|Équipement
+0x0092|Coiffure Clips
+0x0093|Café Woof
+0x0094|Café Soleil
+0x0095|Shutterbug Café
+0x0096|Lumiose Sewers
+0x0097|Café Pokémon-Amie
+0x0098|Café Rouleau
+0x0099|Café Gallant
+0x009a|Café Triste
+0x009b|The Usual
+0x009c|Énergie
+0x009d|Le Passe-temps
+0x009e|Porte-Chance
+0x009f|Pinceau
+0x00a0|Naptime
+0x00a1|Soil and Sneaks
+0x00a2|Marquage
+0x00a3|Glammor Girli
+0x00a4|Glammor Pretti
+0x00a5|Glammor Sporti
+0x00a6|NIGHTSIDE
+0x00a7|Bundle Up
+0x00a8|Midnight Rite
+0x00a9|Mode Mature
+0x00aa|Wisp
+0x00ab|Mode Magnifique
+0x00ac|FILMFAN
+0x00ad|DENSOKU Lumiose
+0x00ae|Les Chaussures
+0x00af|Atelier Heads
+0x00b0|Glammor Cuti
+0x00b1|Kikonashi
+0x00b2|SUBATOMIC
+0x00b3|SUBATOMIC 4
+0x00b4|Masterpiece
+0x00b5|Le Pays des Vêtements
+0x00b6|Triathlon Rouge
+0x00b7|Le Pays des Pieds
+0x00b8|La Tornade
+0x00b9|Restaurant Le Yeah
+0x00ba|Sushi High Roller
+0x00bb|Restaurant Le Wow
+0x00bc|Lumiose Sewers
+0x00bd|Café Kizuna
+0x00be|Café Ultimo
+0x00bf|Café Action!
+0x00c0|Café Bataille
+0x00c1|Wild Zone 17
+0x00c2|Wild Zone 1
+0x00c3|Wild Zone 2
+0x00c4|Wild Zone 12
+0x00c5|Wild Zone 10
+0x00c6|Wild Zone 5
+0x00c7|Wild Zone 16
+0x00c8|Wild Zone 14
+0x00c9|Wild Zone 9
+0x00ca|Wild Zone 18
+0x00cb|Wild Zone 7
+0x00cc|Wild Zone 13
+0x00cd|Wild Zone 4
+0x00ce|Wild Zone 3
+0x00cf|Wild Zone 15
+0x00d0|Wild Zone 19
+0x00d1|Wild Zone 6
+0x00d2|Wild Zone 11
+0x00d3|Wild Zone 8
+0x00d4|Wild Zone 20
+0x00d5|Battle Zone
+0x00d6|Passage de la Félicité
+0x00d7|Passage Ombragé
+0x00d8|Galerie de la Lune
+0x00d9|Passage du Palais
+0x00da|Justice Dojo
+0x00db|Hotel Z
+0x00dc|Racine Construction
+0x00dd|Hotel Richissime
+0x00de|Rust Syndicate Office
+0x00df|Gare de Lumiose
+0x00e0|Quasartico Inc.
+0x00e1|Restaurant Le Nah
+0x00e2|Restaurant Le Yeah
+0x00e3|Restaurant Le Wow
+0x00e4|Sushi High Roller
+0x00e5|Looker Bureau
+0x00e6|Pokémon Research Lab
+0x00e7|Old Building
+0x00e8|Lumiose Museum
+0x00e9|Lysandre Café
+0x00ea|Lysandre Labs
+0x00eb|The Sewers
+0x00ec|Room 201
+0x00ed|Room 202
+0x00ee|Room 203
+0x00ef|Room 204
+0x0111|Hyperspace Lumiose
+0x0112|Hyperspace Entry Point
+0x0113|Hyperspace Disaster Arena
+0x0114|Hyperspace Hunting Grounds
+0x0115|Hyperspace Sushi Paradise
+0x0116|Hyperspace Second-Sight Arena
+0x0117|Hyperspace Infernal Arena
+0x0118|Hyperspace Newmoon Nightmare
+0x0119|Hyperspace Primordial Sea
+0x011a|Hyperspace Desolate Land
+0x011b|Hyperspace Sky Pillar
+0x7531|a Link Trade
+0x7532|a Link Trade
+0x7533|the Kanto region
+0x7534|the Johto region
+0x7535|the Hoenn region
+0x7536|the Sinnoh region
+0x7537|a distant land
+0x7538|——————
+0x7539|the Unova region
+0x753a|the Kalos region
+0x753b|Pokémon Link
+0x753c|Pokémon GO
+0x753d|the Kanto region
+0x753e|the Hoenn region
+0x753f|the Alola region
+0x7540|Poké Pelago
+0x7541|the Johto region
+0x7542|Pokémon HOME
+0x7543|the Kanto region
+0x7544|the Galar region
+0x7545|the Hisui region
+0x7546|the Sinnoh region
+0x7547|a picnic
+0x7548|a crystal cavern
+0x7549|the Paldea region
+0x754a|Lumiose City
+0x754b|the Pokémon Research Lab
+0x754c|Wild Zone 11
+0x754d|the Lumiose Museum
+0x754e|Académie Étoile
+0x754f|Magenta Sector 2
+0x7550|North Boulevard
+0x7551|Rouge Sector 1
+0x7552|Hyperspace Lumiose
+0x7553|Quasartico Inc.
+0x9c41|a lovely place
+0x9c42|a faraway place
+0x9c43|a Pokémon movie
+0x9c44|a 2024 Pokémon movie
+0x9c45|a 2025 Pokémon movie
+0x9c46|a 2026 Pokémon movie
+0x9c47|a 2027 Pokémon movie
+0x9c48|a 2028 Pokémon movie
+0x9c49|the Pokémon animated show
+0x9c4a|a Pokémon Center
+0x9c4b|Pokémon Center Tohoku
+0x9c4c|a WCS
+0x9c4d|WCS 2024
+0x9c4e|WCS 2025
+0x9c4f|WCS 2026
+0x9c50|WCS 2027
+0x9c51|WCS 2028
+0x9c52|Worlds
+0x9c53|2024 Worlds
+0x9c54|2025 Worlds
+0x9c55|2026 Worlds
+0x9c56|2027 Worlds
+0x9c57|2028 Worlds
+0x9c58|a VGE
+0x9c59|VGE 2024
+0x9c5a|VGE 2025
+0x9c5b|VGE 2026
+0x9c5c|VGE 2027
+0x9c5d|VGE 2028
+0x9c5e|a Pokémon event
+0x9c5f|a Battle Competition
+0x9c60|a game event
+0x9c61|the Pokémon Daisuki Club
+0x9c62|a Pokémon TV program
+0x9c63|a concert
+0x9c64|an online present
+0x9c65|the PGL
+0x9c66|a 2024 Pokémon event
+0x9c67|a 2025 Pokémon event
+0x9c68|a 2026 Pokémon event
+0x9c69|a 2027 Pokémon event
+0x9c6a|a 2028 Pokémon event
+0x9c6b|a Pokémon event
+0x9c6c|a 2024 Pokémon event
+0x9c6d|a 2025 Pokémon event
+0x9c6e|a 2026 Pokémon event
+0x9c6f|a 2027 Pokémon event
+0x9c70|a 2028 Pokémon event
+0x9c71|PokéPark
+0x9c72|PokéPark 2024
+0x9c73|PokéPark 2025
+0x9c74|PokéPark 2026
+0x9c75|PokéPark 2027
+0x9c76|PokéPark 2028
+0x9c77|an event site
+0x9c78|GAME FREAK
+0x9c79|a stadium
+0x9c7a|a VGC event
+0x9c7b|the VGC 2024
+0x9c7c|the VGC 2025
+0x9c7d|the VGC 2026
+0x9c7e|the VGC 2027
+0x9c7f|the VGC 2028
+0x9c80|a Virtual Console game
+0x9c81|Pokémon GO
+0x9c82|Pokémon Bank
+0x9c83|a Pokémon shop
+0x9c84|a demo version
+0x9c85|the Poké Ball Plus
+0x9c86|Pokémon HOME
+0xea61|someone far away
+0xea62|a Nursery worker
+0xea63|a treasure hunter
+0xea64|an old hot-springs visitor
+0xea65|Lumiose City

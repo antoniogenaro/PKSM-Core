@@ -506,7 +506,7 @@ Exuviation
 Vibra Soin
 Châtiment
 Chute Libre
-Chgt Vitesse
+Change-Vitesse
 Projection
 Calcination
 À la Queue
@@ -519,7 +519,7 @@ Feu d’Enfer
 Aire d’Eau
 Aire de Feu
 Aire d’Herbe
-Change Éclair
+Change-Éclair
 Survinsecte
 Piétisol
 Souffle Glacé
@@ -825,3 +825,97 @@ Coup Fulgurant
 Lance de Glace
 Éclat Spectral
 Sort Sinistre
+Griffes Funestes
+Sprint Bouclier
+Échange Force
+Hache de Pierre
+Typhon Passionné
+Force Mystique
+Grand Courroux
+Aquatacle
+Herblast
+Bise Glaciaire
+Danse Victoire
+Assaut Frontal
+Multitoxik
+Ailes Psycho
+Cœur de Rancœur
+Mur Fumigène
+Triple Flèche
+Cortège Funèbre
+Vagues à Lames
+Typhon Hivernal
+Typhon Fulgurant
+Typhon Pyrosable
+Prière Lunaire
+Extravaillance
+Téra Explosion
+Piège de Fil
+Talon-Marteau
+Hommage Posthume
+Lumino-Impact
+Plat du Jour
+Poing Sonique
+Habanerage
+Dérapage
+Prolifération
+Cryo-Pirouette
+Charge Glaive
+Second Souffle
+Salaison
+Triple Plongeon
+Toupie Éclat
+Décalquage
+Décharnement
+Génusection
+Magie Florale
+Chant Flamboyant
+Danse Aquatique
+Taurogne
+Ruée d’Or
+Lame Psychique
+Hydrovapeur
+Cataclysme
+Nitro Crash
+Turbo Volt
+Queulonage
+Neigeux de Mots
+Grand Nettoyage
+Chute de Neige
+Bond
+Désherbaffe
+Douche Froide
+Hyperceuse
+Double Laser
+Poing de Colère
+Canon Blindé
+Lame en Peine
+Double Décharge
+Marteau Mastoc
+Vindicte
+Tranch’Aqua
+Crash Brûlant
+Crash Obscur
+Crash Toxique
+Crash Musclé
+Crash Magique
+Lune Rouge
+Mortier Matcha
+Bombe au Sirop
+Massue Liane
+Fulgurayon
+Pluie Térastrale
+Laser Hasard
+Rempart Brûlant
+Vif Éclair
+Lame Puissante
+Lame Tachyonique
+Pression Extrême
+Cri Draconique
+Voix Envoûtante
+Indignition
+Volt Assaut
+Dissonance Psy
+Prio-Parade
+Chaîne Malsaine
+Lux Nihilum

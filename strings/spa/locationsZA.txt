@@ -1,0 +1,358 @@
+0x0000|－
+0x0002|Lugar misterioso
+0x0004|Lugar lejano
+0x0006|Distrito Verde
+0x0007|Distrito Azul
+0x0008|Distrito Rosa
+0x0009|Distrito Rojo
+0x000a|Distrito Amarillo
+0x000b|Plaza Central
+0x000c|Avenida Primavera
+0x000d|Avenida Verano
+0x000e|Avenida Otoño
+0x000f|Avenida Invierno
+0x0010|Canal Saison
+0x0011|Vía Verde
+0x0012|Vía Verde
+0x0013|Bulevar Sur
+0x0014|Bulevar Sur
+0x0015|Distrito Verde: sector 1
+0x0016|Distrito Verde: sector 3
+0x0017|Canal Affluer
+0x0018|Distrito Verde: sector 6
+0x0019|Distrito Verde: sector 7
+0x001a|Estación Luminalia Sur
+0x001b|Distrito Verde: sector 2
+0x001c|Distrito Verde: sector 4
+0x001d|Distrito Verde: sector 5
+0x001e|Distrito Verde: sector 8
+0x001f|Distrito Verde: sector 9
+0x0020|Plaza Verde
+0x0021|Vía Azul
+0x0022|Vía Azul
+0x0023|Bulevar Sur
+0x0024|Bulevar Sur
+0x0025|Distrito Azul: sector 1
+0x0026|Distrito Azul: sector 3
+0x0027|Parque Embelese
+0x0028|Distrito Azul: sector 5
+0x0029|Distrito Azul: sector 7
+0x002a|Distrito Azul: sector 2
+0x002b|Distrito Azul: sector 4
+0x002c|Rincón Nadená
+0x002d|Distrito Azul: sector 6
+0x002e|Distrito Azul: sector 8
+0x002f|Distrito Azul: sector 9
+0x0030|Distrito Azul: sector 10
+0x0031|Plaza Azul
+0x0032|Vía Rosa
+0x0033|Vía Rosa
+0x0034|Bulevar Sur
+0x0035|Bulevar Norte
+0x0036|Distrito Rosa: sector 1
+0x0037|Distrito Rosa: sector 3
+0x0038|Distrito Rosa: sector 5
+0x0039|Distrito Rosa: sector 6
+0x003a|Subestación Eléctrica
+0x003b|Distrito Rosa: sector 2
+0x003c|Distrito Rosa: sector 4
+0x003d|Distrito Rosa: sector 7
+0x003e|Quastelar S. A.
+0x003f|Distrito Rosa: sector 8
+0x0040|Distrito Rosa: sector 9
+0x0041|Plaza Rosa
+0x0042|Vía Roja
+0x0043|Vía Roja
+0x0044|Bulevar Norte
+0x0045|Bulevar Norte
+0x0046|Distrito Rojo: sector 1
+0x0047|Distrito Rojo: sector 3
+0x0048|Distrito Rojo: sector 4
+0x0049|Distrito Rojo: sector 5
+0x004a|Distrito Rojo: sector 7
+0x004b|Distrito Rojo: sector 2
+0x004c|Escuela Perseida
+0x004d|Distrito Rojo: sector 6
+0x004e|Cementerio Bonnuit
+0x004f|Distrito Rojo: sector 8
+0x0050|Plaza Roja
+0x0051|Vía Amarilla
+0x0052|Vía Amarilla
+0x0053|Bulevar Norte
+0x0054|Bulevar Norte
+0x0055|Distrito Amarillo: sector 1
+0x0056|Distrito Amarillo: sector 3
+0x0057|Distrito Amarillo: sector 4
+0x0058|Distrito Amarillo: sector 5
+0x0059|Distrito Amarillo: sector 7
+0x005a|Distrito Amarillo: sector 8
+0x005b|Distrito Amarillo: sector 2
+0x005c|Paseo Saison
+0x005d|Distrito Amarillo: sector 6
+0x005e|Distrito Amarillo: sector 9
+0x005f|Distrito Amarillo: sector 10
+0x0060|Distrito Amarillo: sector 11
+0x0061|Distrito Amarillo: sector 12
+0x0062|Plaza Amarilla
+0x0063|Bulevar del Viento
+0x0064|Museo de Arte de Luminalia
+0x0065|Centro Pokémon del Distrito Verde
+0x0066|Hotel Z
+0x0067|Laboratorio Pokémon
+0x0068|Torre Prisma
+0x0069|Handsome & Cía.
+0x006a|Quastelar S. A.
+0x006b|Construcciones Radix
+0x006c|Plaza Verde
+0x006d|Estación Luminalia Sur
+0x006e|Plaza Azul
+0x006f|Sede del Clan Corrosión
+0x0070|Centro Pokémon del Distrito Azul
+0x0071|Centro Pokémon de la Avenida Primavera
+0x0072|Plaza Rosa
+0x0073|Café Lysson
+0x0074|Centro Pokémon del Distrito Rosa
+0x0075|Centro Pokémon de la Plaza Rosa
+0x0076|Plaza Roja
+0x0077|Gran Hotel Ricachilton
+0x0078|Centro Pokémon del Distrito Rojo
+0x0079|Centro Pokémon de la Plaza Central
+0x007a|Plaza Amarilla
+0x007b|Dojo del Círculo Justiciero
+0x007c|Centro Pokémon del Distrito Amarillo
+0x007d|Centro Pokémon de la Avenida Invierno
+0x007e|Peluquería
+0x007f|Boutique de la Piedra
+0x0080|Boutique Poké Ball
+0x0081|Gears
+0x0082|Boutique Très Chic
+0x0083|Restaurante Le Mindundi
+0x0084|Café Vorágine
+0x0085|Cafetería Prêt-à-Sorber
+0x0086|Café Rubor
+0x0087|Empty Room (Abandoned Building)
+0x0088|Sewer Entrance
+0x0089|Dispar
+0x008a|Héros
+0x008b|PosTrès Bon
+0x008c|Mercazul
+0x008d|Internaria
+0x008e|RitmiK
+0x008f|Triatlón Azul
+0x0090|Óptica Defog
+0x0091|Paramie
+0x0092|Salón Camerino
+0x0093|Café Can Can
+0x0094|Café Soleil
+0x0095|Cafetería Enfoque
+0x0096|Alcantarillas de Luminalia
+0x0097|Café Recreo
+0x0098|Café Sobre Ruedas
+0x0099|Café Galanes
+0x009a|Café Cuco
+0x009b|Decalle
+0x009c|Énergie
+0x009d|Passe-temps
+0x009e|La Suertuda
+0x009f|ARTElier
+0x00a0|Somnus
+0x00a1|Polvorosa
+0x00a2|El Marcadillo
+0x00a3|Brillí Fabulosa
+0x00a4|Brillí Glamurosa
+0x00a5|Brillí Sport
+0x00a6|Obscura
+0x00a7|De Buena Capa
+0x00a8|Rite Gothique
+0x00a9|Maduraleza
+0x00aa|Lucerna
+0x00ab|Corte Magnífico
+0x00ac|Muy Fan
+0x00ad|Densoku Luminalia
+0x00ae|Zapateau
+0x00af|Taller Testa
+0x00b0|Brillí Cuqui
+0x00b1|Kikonashi
+0x00b2|Luxon
+0x00b3|Luxon 4
+0x00b4|Élégance
+0x00b5|Ropatrópolis
+0x00b6|Triatlón Rojo
+0x00b7|País de Pisadas
+0x00b8|Tornade
+0x00b9|Restaurante Nifú Nifà
+0x00ba|Sushi Tres Delicias
+0x00bb|Restaurante Le Postín
+0x00bc|Alcantarillas de Luminalia
+0x00bd|Café Concordia
+0x00be|Café Quintaesencia
+0x00bf|La Claqueta
+0x00c0|Café Contienda
+0x00c1|Zona salvaje 17
+0x00c2|Zona salvaje 1
+0x00c3|Zona salvaje 2
+0x00c4|Zona salvaje 12
+0x00c5|Zona salvaje 10
+0x00c6|Zona salvaje 5
+0x00c7|Zona salvaje 16
+0x00c8|Zona salvaje 14
+0x00c9|Zona salvaje 9
+0x00ca|Zona salvaje 18
+0x00cb|Zona salvaje 7
+0x00cc|Zona salvaje 13
+0x00cd|Zona salvaje 4
+0x00ce|Zona salvaje 3
+0x00cf|Zona salvaje 15
+0x00d0|Zona salvaje 19
+0x00d1|Zona salvaje 6
+0x00d2|Zona salvaje 11
+0x00d3|Zona salvaje 8
+0x00d4|Zona salvaje 20
+0x00d5|Zona de combate
+0x00d6|Pasaje de la Alegría
+0x00d7|Pasaje de la Sombra
+0x00d8|Galería Claro de Luna
+0x00d9|Pasaje del Palacio
+0x00da|Dojo del Círculo Justiciero
+0x00db|Hotel Z
+0x00dc|Construcciones Radix
+0x00dd|Gran Hotel Ricachilton
+0x00de|Sede del Clan Corrosión
+0x00df|Estación Luminalia Sur
+0x00e0|Quastelar S. A.
+0x00e1|Restaurante Le Mindundi
+0x00e2|Restaurante Nifú Nifà
+0x00e3|Restaurante Le Postín
+0x00e4|Sushi Tres Delicias
+0x00e5|Handsome & Cía.
+0x00e6|Laboratorio Pokémon
+0x00e7|Local vacante
+0x00e8|Museo de Arte de Luminalia
+0x00e9|Café Lysson
+0x00ea|Laboratorios Lysson
+0x00eb|Alcantarillas
+0x00ec|Habitación 201
+0x00ed|Habitación 202
+0x00ee|Habitación 203
+0x00ef|Habitación 204
+0x0111|Luminalia Dimensional
+0x0112|Portal
+0x0113|Paraje Catastrófico
+0x0114|Coto Aislado
+0x0115|Buffet de Sushi
+0x0116|Espacio de la Clarividencia
+0x0117|Averno Abrasador
+0x0118|Isla Lunanueva de Pesadilla
+0x0119|Mar del Albor
+0x011a|Tierra del Ocaso
+0x011b|Gran Pilar Celeste
+0x7531|Intercambio en conexión
+0x7532|Intercambio en conexión
+0x7533|Kanto
+0x7534|Johto
+0x7535|Hoenn
+0x7536|Sinnoh
+0x7537|Tierra lejana
+0x7538|－－－－－－－－－－
+0x7539|Teselia
+0x753a|Kalos
+0x753b|Nexo Pokémon
+0x753c|Pokémon GO
+0x753d|Kanto
+0x753e|Hoenn
+0x753f|Alola
+0x7540|Poké Resort
+0x7541|Johto
+0x7542|Pokémon HOME
+0x7543|Kanto
+0x7544|Galar
+0x7545|Hisui
+0x7546|Sinnoh
+0x7547|Pícnic
+0x7548|Cueva cristalina
+0x7549|Paldea
+0x754a|Ciudad Luminalia
+0x754b|Laboratorio Pokémon
+0x754c|Zona salvaje 11
+0x754d|Museo de Arte de Luminalia
+0x754e|Escuela Perseida
+0x754f|Distrito Rosa: sector 2
+0x7550|Bulevar Norte
+0x7551|Distrito Rojo: sector 1
+0x7552|Luminalia Dimensional
+0x7553|Quastelar S. A.
+0x9c41|Lugar encantador
+0x9c42|Lugar lejano
+0x9c43|Película Pokémon
+0x9c44|Película Pokémon 2024
+0x9c45|Película Pokémon 2025
+0x9c46|Película Pokémon 2026
+0x9c47|Película Pokémon 2027
+0x9c48|Película Pokémon 2028
+0x9c49|Dibujos animados Pokémon
+0x9c4a|Pokémon Center
+0x9c4b|Pokémon Center Tohoku
+0x9c4c|WCS
+0x9c4d|WCS 2024
+0x9c4e|WCS 2025
+0x9c4f|WCS 2026
+0x9c50|WCS 2027
+0x9c51|WCS 2028
+0x9c52|Worlds
+0x9c53|Worlds 2024
+0x9c54|Worlds 2025
+0x9c55|Worlds 2026
+0x9c56|Worlds 2027
+0x9c57|Worlds 2028
+0x9c58|Evento de Videojuegos
+0x9c59|Evento de Videojuegos 2024
+0x9c5a|Evento de Videojuegos 2025
+0x9c5b|Evento de Videojuegos 2026
+0x9c5c|Evento de Videojuegos 2027
+0x9c5d|Evento de Videojuegos 2028
+0x9c5e|Evento Pokémon
+0x9c5f|Torneo
+0x9c60|Evento de Videojuegos
+0x9c61|Pokémon Daisuki Club
+0x9c62|Programa sobre Pokémon
+0x9c63|Concierto
+0x9c64|Regalo en línea
+0x9c65|Pokémon Global Link
+0x9c66|Evento Pokémon 2024
+0x9c67|Evento Pokémon 2025
+0x9c68|Evento Pokémon 2026
+0x9c69|Evento Pokémon 2027
+0x9c6a|Evento Pokémon 2028
+0x9c6b|Evento Pokémon
+0x9c6c|Evento Pokémon 2024
+0x9c6d|Evento Pokémon 2025
+0x9c6e|Evento Pokémon 2026
+0x9c6f|Evento Pokémon 2027
+0x9c70|Evento Pokémon 2028
+0x9c71|PokéPark
+0x9c72|PokéPark 2024
+0x9c73|PokéPark 2025
+0x9c74|PokéPark 2026
+0x9c75|PokéPark 2027
+0x9c76|PokéPark 2028
+0x9c77|Evento
+0x9c78|GAME FREAK
+0x9c79|Estadio
+0x9c7a|VGC
+0x9c7b|VGC 2024
+0x9c7c|VGC 2025
+0x9c7d|VGC 2026
+0x9c7e|VGC 2027
+0x9c7f|VGC 2028
+0x9c80|Consola Virtual
+0x9c81|Pokémon GO
+0x9c82|Banco de Pokémon
+0x9c83|Establecimiento Pokémon
+0x9c84|Versión de prueba
+0x9c85|Poké Ball Plus
+0x9c86|Pokémon HOME
+0xea61|Persona lejana
+0xea62|Cuidados Pokémon
+0xea63|Buscatesoros
+0xea64|Anciana del Balneario
+0xea65|Ciudad Luminalia

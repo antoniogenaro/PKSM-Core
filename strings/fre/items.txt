@@ -430,13 +430,13 @@ Explorakit
 Sac Butin
 Livre Règles
 Poké Radar
-Carte Points
-Journal
-Boîte Sceaux
+Carte à Points
+Notes d’Aventure
+Boîte à Sceaux
 Coffret Mode
 Sac Sceaux
 Registre Ami
-Clé Centrale
+Clé Parc Éolien
 Vieux Grigri
 Clé Galaxie
 Chaîne Rouge
@@ -447,11 +447,11 @@ Canne
 Super Canne
 Méga Canne
 Kwakarrosoir
-Boîte Poffin
+Boîte à Poffins
 Bicyclette
-Clé Chambre
+Clé de Chambre
 Lettre Chen
-Lun’Aile
+Plume Lune
 Carte Membre
 Flûte Azur
 Passe Bateau
@@ -461,8 +461,8 @@ Colis
 Bon 1
 Bon 2
 Bon 3
-Clé Stockage
-Potion Secrète
+Clé du Hangar
+Remède Secret
 Magnéto VS
 Gracidée
 Clé Secrète
@@ -732,7 +732,7 @@ Clé Salle 1
 Clé Salle 2
 Clé Salle 4
 Clé Salle 6
-Clé Stockage
+Clé du Hangar
 Devon Scope
 Passe Bateau
 CS07
@@ -1606,3 +1606,1080 @@ Dynamaxium
 Graines Carotte
 Patch Talent
 Rênes de l’Unité
+Pacifi-Temps
+Pacifi-Espace
+Pacifisphère
+Fil de Liaison
+Muffin Tradition
+Noigrume
+Rusti-Muffin
+Double Extra
+Muscle +
+Papillote Choix
+Bouchée Double
+En-cas Contraire
+Feuille Ronde
+Graine Maîtrise
+Poké Ball
+???
+Glaçon Éternel
+Griffe de Créhelf
+Croc de Créfadet
+Aile de Créfollet
+Galet
+Flûte Céleste
+Remède
+Super Remède
+Miel Kibrille
+Riz Zélé
+Fève Dodue
+Champi Toumou
+Sel Rochedur
+Bois
+Herbe Souveraine
+Pacifi-Marais
+Poké Ball
+Super Ball
+Hyper Ball
+Plume Ball
+Poupée Pokéshi
+???
+Bombe Aveuglante
+Sachet Pétarade
+Boule Gluante
+Morceau d’Étoile
+Appât Toumou
+Plante Répulsive
+Appât Kibrille
+Appât Zélé
+Appât Dodu
+Appât Rochedur
+Potion
+Super Potion
+Hyper Potion
+Potion Max
+Guérison
+Remède
+Super Remède
+Hyper Remède
+Vieux Gâteau
+Rusti-Muffin
+Total Soin
+Rappel
+Rappel Max
+Soin PP
+Maxi Soin PP
+Solution Furtive
+???
+Offensive Extra
+Défense Extra
+Muscle +
+Esquive Extra
+Double Extra
+Pacifi-Forêt
+Fragment de Fer
+???
+Galet Noir
+Galet Azur
+???
+Boule de Boue
+???
+Pétaralgue
+Rutabagaz
+Noigrume Rongé
+Boule de Neige
+Boule Gluante
+Obsidienne
+Bloc de Tourbe
+Solution Furtive
+Soignon
+Bourgeon Vivace
+Plante PP
+???
+???
+Remplamulette 2
+Remplamulette 3
+Fortichampi
+Carapachampi
+Champinja
+Champiscoto
+Radis des Plages
+Remplamulette 4
+Remplamulette 5
+Truffe Sucrée
+Appâte
+Poké Ball
+Super Ball
+Hyper Ball
+Plume Ball
+???
+???
+Sachet Pétarade
+Bombe Aveuglante
+???
+???
+Poupée Pokéshi
+Pacifi-Volcan
+Pacifi-Montagne
+Pacifi-Neige
+Appât Kibrille
+Appât Zélé
+Appât Dodu
+Appât Toumou
+Appât Rochedur
+En-cas Contraire
+Papillote Choix
+Bouchée Double
+Enduramulette 1
+Enduramulette 2
+Enduramulette 3
+Enduramulette 4
+Enduramulette 5
+Journal Déchiré
+Zenamulette 1
+Zenamulette 2
+Zenamulette 3
+Zenamulette 4
+Zenamulette 5
+Fragment de Mur
+Appâragruel
+Vieux Journal
+Envol Ball
+Propulse Ball
+Masse Ball
+Mégamasse Ball
+Gigamasse Ball
+Envol Ball
+Propulse Ball
+Masse Ball
+Baie Bouhlon
+Hyper Remède
+Offensive Extra
+Défense Extra
+Esquive Extra
+Sable Effort
+Cailloux Effort
+Pierre Effort
+Rocher Effort
+Remède Secret
+Remplamulette 1
+Objet Perdu
+Objet Perdu
+Objet Perdu
+Objet Perdu
+Objet Perdu
+???
+Origine Ball
+???
+???
+???
+???
+Minerai Origine
+Globe Adamant
+Globe Perlé
+Globe Platiné
+Plaque Renouveau
+???
+Boîte à Outils
+Mégamasse Ball
+Gigamasse Ball
+Étrange Ball
+Pokédex
+Vieux Poème (1)
+Vieux Poème (2)
+Vieux Poème (3)
+Vieux Poème (4)
+???
+Vieux Poème (5)
+Vieux Poème (6)
+Vieux Poème (7)
+Vieux Poème (8)
+Vieux Poème (9)
+Vieux Poème (10)
+Vieux Poème (11)
+Vieux Poème (12)
+Vieux Poème (13)
+Vieux Poème (14)
+Vieux Poème (15)
+Vieux Poème (16)
+Vieux Poème (17)
+Vieux Poème (18)
+Vieux Poème (19)
+Vieux Poème (20)
+Éclat Étrange S
+Éclat Étrange L
+Foreuse
+Tablette Kanto
+Tablette Johto
+Tablette Cœur
+Tablette Arc-en-ciel
+Tablette Tempête
+Tablette Océans
+Tablette Continents
+Tablette Cieux
+Tablette Génétique
+Tablette Guides
+Tablette Distorsion
+Lecteur DS
+
+
+
+
+
+Plaque Légende
+Motismart
+Sandwich
+Poké Ball de Koraidon
+Poké Ball de Miraidon
+Orbe Téracristal
+Livre Écarlate
+Livre Violet
+Portefeuille de Kombu
+
+
+
+
+
+Petit Bambou
+Gros Bambou
+
+
+
+
+
+
+
+
+
+
+
+
+
+Rouleau des Ténèbres
+Rouleau de l’Eau
+
+
+Armure de la Rancune
+Téra-Éclat Normal
+Téra-Éclat Feu
+Téra-Éclat Eau
+Téra-Éclat Électrik
+Téra-Éclat Plante
+Téra-Éclat Glace
+Téra-Éclat Combat
+Téra-Éclat Poison
+Téra-Éclat Sol
+Téra-Éclat Vol
+Téra-Éclat Psy
+Téra-Éclat Insecte
+Téra-Éclat Roche
+Téra-Éclat Spectre
+Téra-Éclat Dragon
+Téra-Éclat Ténèbres
+Téra-Éclat Acier
+Téra-Éclat Fée
+Énergie Booster
+Garde-Talent
+Talisman Sain
+Feuille Copieuse
+Gant de Boxe
+Cape Obscure
+Dé Pipé
+
+Baguette
+Mayonnaise
+Ketchup
+Moutarde
+Beurre
+Beurre de Cacahuètes
+Sauce Piquante
+Sel
+Poivre
+Yaourt
+Crème Fouettée
+Fromage Frais
+Confiture de Baies
+Marmelade
+Huile d’Olive
+Vinaigre
+Épice Secrète Sucrée
+Épice Secrète Salée
+Épice Secrète Acide
+Épice Secrète Amère
+Épice Secrète Corsée
+Laitue
+Tomate
+Tomate Cerise
+Concombre
+Cornichon
+Oignon
+Oignon Rouge
+Poivron Vert
+Poivron Rouge
+Poivron Jaune
+Avocat
+Bacon
+Jambon Blanc
+Jambon Cru
+Chorizo Grillé
+Saucisse aux Herbes
+Steak Haché
+Bâtonnet de Craparoi
+Filet Fumé
+Filet Frit
+Œuf
+Tortilla
+Tofu
+Riz
+Nouilles
+Salade de Patates
+Fromage
+Banane
+Fraise
+Pomme
+Kiwi
+Ananas
+Piment
+Raifort
+Curry en Poudre
+Sauce au Wasabi
+Cresson
+Basilic
+
+
+
+
+
+
+
+
+
+Croc de Mimitoss
+Terre de Taupiqueur
+Poils de Miaouss
+Duvet de Psykokwak
+Poils de Férosinge
+Poils de Caninos
+Griffe de Ramoloss
+Vis de Magnéti
+Poison de Tadmorv
+Perle de Kokiyas
+Gaz de Fantominus
+Poils de Soporifik
+Électricité de Voltorbe
+Griffe d’Insécateur
+Poils de Tauros
+Écaille de Magicarpe
+Substance de Métamorph
+Poils d’Évoli
+Écaille de Minidraco
+Poils de Pichu
+Poils de Toudoudou
+Laine de Wattouat
+Feuille de Granivol
+Feuille de Tournegrin
+Trésor de Cornèbre
+Larme de Feuforêve
+Poils de Girafarig
+Écorce de Pomdepik
+Écaille d’Insolourdo
+Épine de Qwilfish
+Griffe de Scarhino
+Griffe de Farfuret
+Griffe de Teddiursa
+Provisions de Cadoizo
+Croc de Malosse
+Ongle de Phanpy
+Poils de Cerfrousse
+Griffe d’Embrylex
+Plume de Goélise
+Babiole de Tarsal
+Nectar d’Arakdo
+Spores de Balignon
+Poils de Parecool
+Sueur de Makuhita
+Poils d’Azurill
+Joyau de Ténéfix
+Sueur de Méditikka
+Mucus de Gloupti
+Lave de Chamallot
+Charbon de Chartor
+Perle de Spoink
+Épine de Cacnea
+Plume de Tylton
+Griffe de Mangriff
+Croc de Séviper
+Mucus de Barloche
+Tissu de Polichombr
+Feuille de Tropius
+Poils de Stalgamin
+Écaille de Lovdisc
+Écaille de Draby
+Plume d’Étourmi
+Mue de Crikzik
+Croc de Lixy
+Nectar d’Apitrini
+Poils de Pachirisu
+Poils de Mustébouée
+Mucus de Sancoki
+Gaz de Baudrive
+Poils de Moufouette
+Fragment d’Archéomire
+Larme de Manzaï
+Babiole de Ptiravi
+Fragment de Spiritomb
+Écaille de Griknot
+Poils de Riolu
+Sable d’Hippopotas
+Poison de Cradopaud
+Écaille d’Écayon
+Baie de Blizzi
+Électricité de Motisma
+Feuille de Chlorobule
+Croc de Bargantua
+Griffe de Mascaïman
+Poils de Zorua
+Cils de Scrutella
+Poils de Vivaldaim
+Spores de Trompignon
+Mucus de Mamanbo
+Mucus d’Anchwatt
+Écaille de Coupenotte
+Poils de Polarhume
+Glace d’Hexagel
+Lame de Scalpion
+Plume de Furaiglon
+Écaille de Solochi
+Poils de Pyronille
+Plume de Passerouge
+Poudre de Lépidonille
+Crinière d’Hélionceau
+Pollen de Flabébé
+Feuille de Cabriolaine
+Algue de Venalgue
+Pince de Flingouste
+Duvet de Brutalibré
+Poils de Dedenne
+Mucus de Mucuscule
+Clé de Trousselin
+Glace de Grelaçon
+Poils de Sonistrelle
+Poils de Manglouton
+Carapace de Crabagarre
+Plume de Plumeline
+Roche de Rocabot
+Épine de Vorastérie
+Boue de Tiboudet
+Feuille de Mimantis
+Gaz de Tritox
+Sueur de Croquine
+Poils de Gouroutan
+Poils de Quartermac
+Sable de Bacabouh
+Griffe de Dodoala
+Tissu de Mimiqui
+Dent de Denticrisse
+Griffe de Khélocrok
+Poils de Rongourmand
+Écaille d’Embrochet
+Plume de Minisange
+Électricité de Toxizap
+Sueur d’Hexadron
+Rouille de Charibari
+Charbon de Charbi
+Sable de Dunaja
+Poils de Wimessir
+Épine de Wattapik
+Fil de Frissonille
+Poils de Grimalin
+Jus de Verpom
+Fragment de Théffroi
+Babiole de Bibichut
+Roche de Dolman
+Duvet de Bekaglaçon
+Poudre de Fantyrm
+
+
+
+Poils de Gourmelet
+Fil de Tissenboule
+Griffe de Lilliterelle
+Boue de Léboulérou
+Cire de Toutombe
+Duvet de Flotillon
+Sable de Taupikeau
+Barbillon d’Oyacata
+Chair de Délestin
+Mucus de Dofin
+Huile d’Olivini
+Graine de Pimito
+Mucus de Têtampoule
+Gaz de Vrombi
+Rouille de Ferdeter
+Poils de Compagnol
+Graisse de Piétacé
+Écaille de Frigodo
+Écaille de Nigirigon
+Écaille de Motorizard
+Poils de Pohm
+
+
+Plume de Zapétrel
+Plume de Lestombaile
+Plume de Tapatoès
+Duvet de Flamenroule
+Pince de Craparoi
+Sel de Selutin
+Cristal de Germéclat
+Encre de Gribouraigne
+Poils de Pâtachiot
+Croc de Grondogue
+Branche de Virovent
+Pièce de Mordudor
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Poils de Forgerette
+Suie de Charbambin
+Membrane de Terracool
+Mucus d’Axoloto
+CT100
+CT101
+CT102
+CT103
+CT104
+CT105
+CT106
+CT107
+CT108
+CT109
+CT110
+CT111
+CT112
+CT113
+CT114
+CT115
+CT116
+CT117
+CT118
+CT119
+CT120
+CT121
+CT122
+CT123
+CT124
+CT125
+CT126
+CT127
+CT128
+CT129
+CT130
+CT131
+CT132
+CT133
+CT134
+CT135
+CT136
+CT137
+CT138
+CT139
+CT140
+CT141
+CT142
+CT143
+CT144
+CT145
+CT146
+CT147
+CT148
+CT149
+CT150
+CT151
+CT152
+CT153
+CT154
+CT155
+CT156
+CT157
+CT158
+CT159
+CT160
+CT161
+CT162
+CT163
+CT164
+CT165
+CT166
+CT167
+CT168
+CT169
+CT170
+CT171
+CT172
+CT173
+CT174
+CT175
+CT176
+CT177
+CT178
+CT179
+CT180
+CT181
+CT182
+CT183
+CT184
+CT185
+CT186
+CT187
+CT188
+CT189
+CT190
+CT191
+CT192
+CT193
+CT194
+CT195
+CT196
+CT197
+CT198
+CT199
+CT200
+CT201
+CT202
+CT203
+CT204
+CT205
+CT206
+CT207
+CT208
+CT209
+CT210
+CT211
+CT212
+CT213
+CT214
+CT215
+CT216
+CT217
+CT218
+CT219
+CT220
+CT221
+CT222
+CT223
+CT224
+CT225
+CT226
+CT227
+CT228
+CT229
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Set de Pique-Nique
+
+Gourde de l’Académie
+Gourde de l’Académie
+Gourde à Pois
+Gourde à Rayures
+Gourde à Losanges
+Tasse de l’Académie
+Tasse de l’Académie
+Tasse à Rayures Jaunes
+Tasse à Pois
+Tasse à Fleurs
+Nappe de l’Académie
+Nappe de l’Académie
+Nappe Fantaisie
+Nappe Verdoyante
+Nappe Hantée
+
+Ballon de l’Académie
+Ballon de l’Académie
+Ballon Marill
+Pelote de Laine
+Ballon Gaming
+Pique Dorée
+Pique Argentée
+Pique à Fanion Rouge
+Pique à Fanion Bleu
+Pique Pikapika
+Pique à Chu Fripon
+Pique Volivoli
+Pique Évo Rit
+Pique à Ball Bleue
+
+Armure de la Fortune
+Emblème du Général
+
+
+Gourde Rose
+Gourde Bleue
+Gourde Jaune
+Gourde Inox (Rouge)
+Gourde Inox (Jaune)
+Gourde Inox (Bleu)
+Gourde Titane (Argent)
+Tasse à Rayures Bleues
+Tasse à Losanges
+Tasse à Flammes
+Tasse Rose
+Tasse Bleue
+Tasse Jaune
+Tasse Pikachu
+Tasse Évoli
+Tasse Ramoloss
+Tasse Titane (Argent)
+Ballon d’Exercice
+Nappe Tartan Jaune
+Nappe Tartan Bleue
+Nappe Tartan Rouge
+Nappe Hautes Herbes
+Nappe Combat Pokémon
+Nappe Kaiju
+Nappe à Rayures
+Nappe à Losanges
+Nappe à Pois
+Nappe Mauve
+Nappe Menthe
+Nappe Beige
+Nappe Jaune
+Nappe Bleue
+Nappe Rose
+Gourde Titane (Or)
+Gourde Titane (Bronze)
+Tasse Titane (Or)
+Tasse Titane (Bronze)
+Pique à Ball Verte
+Pique à Ball Rouge
+Pique Feu d’Artifice
+Pique Épée du Héros
+Pique Étoile Magique
+Pique Cœur Magique
+Pique Parasol
+Pique Fleur d’Azur
+Pique Fleur du Ponant
+Pique Fleur du Levant
+Assiette Bleue
+Assiette Verte
+Assiette Orange
+Assiette Rouge
+Assiette Blanche
+Assiette Jaune
+Plume Enchantée
+Pomme Nectar
+Bol Médiocre
+Bol Exceptionnel
+Masque Turquoise
+Masque de la Pierre
+Masque du Puits
+Masque du Fourneau
+Carte Élégance Verte
+Morceau de Cristal
+Mochi Santé
+Mochi Force
+Mochi Armure
+Mochi Esprit
+Mochi Mental
+Mochi Sprint
+Sièges Simples
+Sièges de l’Académie
+Sièges de l’Académie
+Sièges Fantaisie
+Sièges Verdoyants
+Sièges Hantés
+Sièges Tartan Jaunes
+Sièges Tartan Bleus
+Sièges Tartan Rouges
+Sièges Hautes Herbes
+Sièges Combat Pokémon
+Sièges Kaiju
+Sièges à Rayures
+Sièges à Losanges
+Sièges à Pois
+Sièges Mauves
+Sièges Menthe
+Sièges Beiges
+Sièges Jaunes
+Sièges Bleus
+Sièges Roses
+Croc d’Abo
+Griffe de Sabelette
+Poils de Mélo
+Poils de Goupix
+Mucus de Ptitard
+Liane de Chétiflor
+Fragment de Racaillou
+Gaz de Smogo
+Croc de Goinfrex
+Poils de Fouinette
+Plume de Hoothoot
+Fil de Mimigal
+Poils de Capumain
+Dard de Yanma
+Croc de Scorplane
+Lave de Limagma
+Poils de Marcacrin
+Croc de Medhyèna
+Feuille de Nénupiot
+Tige de Grainipiot
+Fragment de Tarinor
+Fluide de Muciole
+Fluide de Lumivole
+Carapace d’Écrapince
+Écaille de Barpau
+Fragment de Skelénox
+Fragment de Korillon
+Sueur de Charpenti
+Feuille de Larveyette
+Plume de Couaneton
+Suie de Funécire
+Griffe de Kungfouine
+Plume de Vostourno
+Joyau de Strassie
+Branche de Brocélôme
+Fil de Larvibule
+Poudre de Bombydou
+Écaille de Bébécaille
+Duvet de Nigosier
+Graine de Morpeko
+Poudre de Poltchageist
+Mochi Renouveau
+Perche à Motismart
+Charme Éclatant
+Métal Composite
+Carte Élégance Bleue
+Feuille de Mystherbe
+Aiguillon de Tentacool
+Duvet de Doduo
+Poils d’Otaria
+Coquille de Noeunoeuf
+Sueur de Debugant
+Croc de Rhinocorne
+Encre d’Hypotrempe
+Poils d’Élekid
+Poils de Magby
+Larme de Lokhlass
+Fragment de Porygon
+Électricité de Loupio
+Poils de Snubbull
+Plume d’Airmure
+Peinture de Queulorior
+Poils de Posipi
+Poils de Négapi
+Carapace de Kraknoix
+Griffe de Terhal
+Piquant de Kranidos
+Ongle de Dinoclier
+Crinière de Zébibron
+Griffe de Rototaupe
+Coton de Doudouvet
+Sueur de Baggiguane
+Poils de Chinchidou
+Fluide de Nucléos
+Fil de Statitik
+Fragment de Gringolem
+Poils de Psystigri
+Encre de Sepiatop
+Plume de Picassaut
+Fil d’Araqua
+Fleur de Guérilande
+Carapace de Météno
+Crème de Crèmy
+Rouille de Duralugon
+Friandise Artikodin
+Friandise Électhor
+Friandise Sulfura
+Friandise Raikou
+Friandise Entei
+Friandise Suicune
+Friandise Lugia
+Friandise Ho-Oh
+Friandise Latias
+Friandise Latios
+Friandise Kyogre
+Friandise Groudon
+Friandise Rayquaza
+Friandise Cobaltium
+Friandise Terrakium
+Friandise Viridium
+Friandise Reshiram
+Friandise Zekrom
+Friandise Kyurem
+Friandise Solgaleo
+Friandise Lunala
+Friandise Necrozma
+Friandise Wushours
+Friandise Blizzeval
+Friandise Spectreval
+Disque Indigo
+Pique Volcanique
+Téra-Éclat Stellaire
+Baie Pêcha Fabuleuse
+Nappe Myrtille
+Sièges Myrtille
+Synchrotron
+Météorite
+Livre Écarlate
+Livre Violet
+Livre de Bria
+Graine Maîtrise
+Mélodelfite
+Empiflorite
+Starossite
+Dracolossite
+Méganiumite
+Aligatueurite
+Airmurite
+Momartikite
+Heatranite
+Darkraïte
+Roitiflamite
+Minotaupite
+Brutapodite
+Baggaïdite
+Ohmassacrite
+Lugulabrite
+Blindépiquite
+Goupelinite
+Amphinolite
+Néméliosite
+Floettite
+Sepiatrocite
+Golgopathite
+Kravarekite
+Brutalibrite
+Zygardite
+Draïeulite
+Zeraorite
+Hexadronite
+Clé de la Chambre 202
+Galette de Choc
+Passe du Labo A
+Passe du Labo B
+Passe du Labo C
+
+
+Caillou
+Bague Souvenirs
+Naricâline Dédicacée
+Déchets Alléchants
+Rameau de Vie
+Sacoche de Rudi
+Beurre d’Illumis
+Super Beurre
+Hyper Beurre
+Ultra Beurre
+Master Beurre
+Extra Beurre
+Gros Sel de Hoenn
+Épice Noire
+Huile d’Arboliva
+Bonbon Zap-Zap
+Lettre Importante
+Bague Souvenirs
+Mouchoir Sale
+
+
+
+
+Méga-Fragment
+Vis Colorée
+Naricâline Rouge
+Naricâline Rouge
+Naricâline Rouge
+Naricâline Dorée
+Naricâline Dorée
+Naricâline Dorée
+Naricâline Rose
+Naricâline Rose
+Naricâline Rose
+Naricâline Verte
+Naricâline Verte
+Naricâline Verte
+Naricâline Bleue
+Naricâline Bleue
+Naricâline Bleue
+Raichuïte X
+Raichuïte Y
+Éokite
+Absolite Z
+Étouraptorite
+Carchacrokite Z
+Lucarite Z
+Golemastokite
+Mistigrixite
+Crabominablite
+Sarmuraïte
+Magearnite
+Scovilainite
+Glaivodite
+Nigirigonite
+Floréclatite
+Extra Baie Ceriz
+Extra Baie Maron
+Extra Baie Pêcha
+Extra Baie Fraive
+Extra Baie Willia
+Extra Baie Oran
+Extra Baie Kika
+Extra Baie Prine
+Extra Baie Sitrus
+Extra Baie Grena
+Extra Baie Alga
+Extra Baie Qualot
+Extra Baie Lonme
+Extra Baie Résin
+Extra Baie Tamato
+Extra Baie Chocco
+Extra Baie Pocpoc
+Extra Baie Parma
+Extra Baie Ratam
+Extra Baie Nanone
+Extra Baie Pomroz
+Extra Baie Kébia
+Extra Baie Jouca
+Extra Baie Cobaba
+Extra Baie Yapap
+Extra Baie Panga
+Extra Baie Charti
+Extra Baie Sédra
+Extra Baie Fraigo
+Extra Baie Lampou
+Extra Baie Babiri
+Extra Baie Zalis
+Extra Baie Selro
+Pain Narica

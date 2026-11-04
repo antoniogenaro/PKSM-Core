@@ -24,6 +24,7 @@
  *         reasonable ways as different from the original version.
  */
 
+#include "enums/GameVersion.hpp"
 #include "enums/Generation.hpp"
 #include "i18n_internal.hpp"
 
@@ -39,6 +40,9 @@ namespace i18n
         std::map<u16, std::string> locations7;
         std::map<u16, std::string> locationsLGPE;
         std::map<u16, std::string> locations8;
+        std::map<u16, std::string> locationsPLA;
+        std::map<u16, std::string> locations9;
+        std::map<u16, std::string> locationsZA;
 
         void clear() noexcept
         {
@@ -50,6 +54,54 @@ namespace i18n
             locations7.clear();
             locationsLGPE.clear();
             locations8.clear();
+            locationsPLA.clear();
+            locations9.clear();
+            locationsZA.clear();
+        }
+
+        // The list of the games of a generation. Generation EIGHT is Sword and Shield's,
+        // and NINE is Scarlet and Violet's.
+        const std::map<u16, std::string>* forGeneration(pksm::Generation gen) const
+        {
+            switch (gen)
+            {
+                case pksm::Generation::TWO:
+                    return &locations2;
+                case pksm::Generation::THREE:
+                    return &locations3;
+                case pksm::Generation::FOUR:
+                    return &locations4;
+                case pksm::Generation::FIVE:
+                    return &locations5;
+                case pksm::Generation::SIX:
+                    return &locations6;
+                case pksm::Generation::SEVEN:
+                    return &locations7;
+                case pksm::Generation::LGPE:
+                    return &locationsLGPE;
+                case pksm::Generation::EIGHT:
+                    return &locations8;
+                case pksm::Generation::NINE:
+                    return &locations9;
+                case pksm::Generation::UNUSED:
+                case pksm::Generation::ONE:
+                    break;
+            }
+            return nullptr;
+        }
+
+        // The list of a game, for the games that share a generation with others.
+        const std::map<u16, std::string>* forGame(pksm::GameVersion version) const
+        {
+            if (version == pksm::GameVersion::PLA)
+            {
+                return &locationsPLA;
+            }
+            if (version == pksm::GameVersion::ZA)
+            {
+                return &locationsZA;
+            }
+            return forGeneration(pksm::Generation(version));
         }
     };
 
@@ -72,6 +124,9 @@ namespace i18n
         load(lang, "/locations7.txt", tmp.locations7);
         load(lang, "/locationsLGPE.txt", tmp.locationsLGPE);
         load(lang, "/locations8.txt", tmp.locations8);
+        load(lang, "/locationsPLA.txt", tmp.locationsPLA);
+        load(lang, "/locations9.txt", tmp.locations9);
+        load(lang, "/locationsZA.txt", tmp.locationsZA);
         locationss.insert_or_assign(lang, std::move(tmp));
     }
 
@@ -80,93 +135,44 @@ namespace i18n
         locationss[lang].clear();
     }
 
+    namespace
+    {
+        const std::string& find(const std::map<u16, std::string>* names, u16 v)
+        {
+            if (names)
+            {
+                if (auto found = names->find(v); found != names->end())
+                {
+                    return found->second;
+                }
+            }
+            return emptyString;
+        }
+    }
+
     const std::string& location(pksm::Language lang, pksm::Generation gen, u16 v)
     {
         checkInitialized(lang);
-        switch (gen)
-        {
-            case pksm::Generation::TWO:
-                if (locationss[lang].locations2.count(v) > 0)
-                {
-                    return locationss[lang].locations2[v];
-                }
-                break;
-            case pksm::Generation::THREE:
-                if (locationss[lang].locations3.count(v) > 0)
-                {
-                    return locationss[lang].locations3[v];
-                }
-                break;
-            case pksm::Generation::FOUR:
-                if (locationss[lang].locations4.count(v) > 0)
-                {
-                    return locationss[lang].locations4[v];
-                }
-                break;
-            case pksm::Generation::FIVE:
-                if (locationss[lang].locations5.count(v) > 0)
-                {
-                    return locationss[lang].locations5[v];
-                }
-                break;
-            case pksm::Generation::SIX:
-                if (locationss[lang].locations6.count(v) > 0)
-                {
-                    return locationss[lang].locations6[v];
-                }
-                break;
-            case pksm::Generation::SEVEN:
-                if (locationss[lang].locations7.count(v) > 0)
-                {
-                    return locationss[lang].locations7[v];
-                }
-                break;
-            case pksm::Generation::LGPE:
-                if (locationss[lang].locationsLGPE.count(v) > 0)
-                {
-                    return locationss[lang].locationsLGPE[v];
-                }
-                break;
-            case pksm::Generation::EIGHT:
-            case pksm::Generation::NINE:
-                if (locationss[lang].locations8.count(v) > 0)
-                {
-                    return locationss[lang].locations8[v];
-                }
-                break;
-            case pksm::Generation::UNUSED:
-            case pksm::Generation::ONE:
-                break;
-        }
-        return emptyString;
+        return find(locationss[lang].forGeneration(gen), v);
+    }
+
+    const std::string& location(pksm::Language lang, pksm::GameVersion version, u16 v)
+    {
+        checkInitialized(lang);
+        return find(locationss[lang].forGame(version), v);
     }
 
     const std::map<u16, std::string>& rawLocations(pksm::Language lang, pksm::Generation g)
     {
         checkInitialized(lang);
-        switch (g)
-        {
-            case pksm::Generation::TWO:
-                return locationss[lang].locations2;
-            case pksm::Generation::THREE:
-                return locationss[lang].locations3;
-            case pksm::Generation::FOUR:
-                return locationss[lang].locations4;
-            case pksm::Generation::FIVE:
-                return locationss[lang].locations5;
-            case pksm::Generation::SIX:
-                return locationss[lang].locations6;
-            case pksm::Generation::SEVEN:
-                return locationss[lang].locations7;
-            case pksm::Generation::LGPE:
-                return locationss[lang].locationsLGPE;
-            case pksm::Generation::EIGHT:
-            case pksm::Generation::NINE:
-                return locationss[lang].locations8;
-            case pksm::Generation::UNUSED:
-            case pksm::Generation::ONE:
-                break;
-        }
-        return emptyU16Map;
+        const auto* names = locationss[lang].forGeneration(g);
+        return names ? *names : emptyU16Map;
+    }
+
+    const std::map<u16, std::string>& rawLocations(pksm::Language lang, pksm::GameVersion version)
+    {
+        checkInitialized(lang);
+        const auto* names = locationss[lang].forGame(version);
+        return names ? *names : emptyU16Map;
     }
 }
